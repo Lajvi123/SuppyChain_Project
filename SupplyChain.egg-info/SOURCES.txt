@@ -1,0 +1,8 @@
+README.md
+setup.py
+SupplyChain.egg-info/PKG-INFO
+SupplyChain.egg-info/SOURCES.txt
+SupplyChain.egg-info/dependency_links.txt
+SupplyChain.egg-info/requires.txt
+SupplyChain.egg-info/top_level.txt
+supplychain/__init__.py
