@@ -1,0 +1,3001 @@
+conflict_id,region,event_type,date,latitude,longitude,severity, "Result"
+1,Myanmar,Political Protest,2023-01-01,-36.735,80.7097,Moderate
+2,Ukraine,Political Protest,2023-01-01,34.0874,47.0962,Low
+3,Pakistan,Strike,2023-01-01,20.5246,-92.0438,Moderate
+4,Ethiopia,Political Protest,2023-01-01,14.7244,29.5313,High
+5,India,Civil Unrest,2023-01-01,-10.8814,59.7887,Low
+6,Myanmar,Civil Unrest,2023-01-02,8.7809,10.5437,Critical
+7,Myanmar,Border Skirmish,2023-01-02,-27.4055,7.5984,Low
+8,Pakistan,Political Protest,2023-01-02,20.9964,-83.9534,High
+9,India,Political Protest,2023-01-02,14.3086,23.1734,Critical
+10,Brazil,Political Protest,2023-01-02,-10.2245,79.2553,Low
+11,Brazil,Political Protest,2023-01-03,23.6353,61.3711,High
+12,Ethiopia,Civil Unrest,2023-01-03,-28.4012,38.8986,Moderate
+13,India,Border Skirmish,2023-01-03,37.1088,-95.9645,Moderate
+14,India,Armed Conflict,2023-01-04,-33.012,-95.7541,Critical
+15,South Sudan,Border Skirmish,2023-01-04,-3.8089,59.217,High
+16,Ethiopia,Strike,2023-01-05,26.5107,9.329,Moderate
+17,Ethiopia,Border Skirmish,2023-01-05,16.824,-91.082,High
+18,Nigeria,Strike,2023-01-05,-4.8237,48.1316,Low
+19,Ukraine,Riots,2023-01-06,-33.4149,56.2307,Moderate
+20,Nigeria,Riots,2023-01-07,-25.9108,-86.1645,Moderate
+21,India,Riots,2023-01-07,21.9681,-94.3655,Low
+22,Pakistan,Political Protest,2023-01-07,34.0597,7.8239,Moderate
+23,Nigeria,Strike,2023-01-07,39.2318,-81.4186,High
+24,Ethiopia,Political Protest,2023-01-08,-5.9488,-53.7103,Low
+25,Ukraine,Armed Conflict,2023-01-08,-19.778,-50.6574,Low
+26,Pakistan,Armed Conflict,2023-01-08,12.7357,-82.6577,Moderate
+27,Pakistan,Border Skirmish,2023-01-09,-29.5074,93.3379,High
+28,India,Border Skirmish,2023-01-09,12.6309,68.1669,Low
+29,Ethiopia,Riots,2023-01-10,33.4031,3.4408,Low
+30,Nigeria,Political Protest,2023-01-10,-38.5415,-61.9343,Moderate
+31,Nigeria,Political Protest,2023-01-10,-21.9593,38.7981,Low
+32,India,Strike,2023-01-10,9.581,56.5627,Low
+33,Nigeria,Civil Unrest,2023-01-11,15.7847,15.3907,Low
+34,India,Border Skirmish,2023-01-11,0.6745,-77.7328,Low
+35,Pakistan,Armed Conflict,2023-01-11,12.6722,70.3292,Low
+36,India,Armed Conflict,2023-01-11,-8.9931,20.6358,High
+37,South Sudan,Civil Unrest,2023-01-12,-1.4493,-13.0687,Low
+38,Brazil,Strike,2023-01-12,-25.727,-30.9599,Critical
+39,Ukraine,Civil Unrest,2023-01-12,30.13,-28.0828,Low
+40,Myanmar,Border Skirmish,2023-01-12,32.3367,49.9617,Moderate
+41,Ukraine,Armed Conflict,2023-01-12,26.1115,72.6953,Low
+42,South Sudan,Strike,2023-01-13,23.0882,-11.4247,High
+43,Nigeria,Strike,2023-01-14,38.5031,48.7741,Critical
+44,Myanmar,Armed Conflict,2023-01-14,16.4678,67.9357,Moderate
+45,Myanmar,Political Protest,2023-01-14,13.6281,-64.3931,High
+46,Myanmar,Political Protest,2023-01-15,-39.2807,53.7521,Moderate
+47,Brazil,Border Skirmish,2023-01-15,30.4689,90.5613,High
+48,Myanmar,Riots,2023-01-15,10.1887,39.6204,Moderate
+49,Pakistan,Armed Conflict,2023-01-16,-38.3624,-22.7839,Moderate
+50,Pakistan,Strike,2023-01-17,34.1538,-44.9243,Moderate
+51,South Sudan,Political Protest,2023-01-17,-13.2769,15.9621,Moderate
+52,Ethiopia,Border Skirmish,2023-01-17,26.2649,18.4376,Moderate
+53,Pakistan,Strike,2023-01-17,-28.7489,53.789,High
+54,Pakistan,Armed Conflict,2023-01-18,-21.4905,-41.0131,Low
+55,Brazil,Armed Conflict,2023-01-18,25.0245,82.4452,Moderate
+56,Ukraine,Riots,2023-01-19,-0.8295,4.7009,Low
+57,Pakistan,Armed Conflict,2023-01-19,22.2481,61.6899,Moderate
+58,Ukraine,Strike,2023-01-19,-35.2387,35.0719,Critical
+59,Myanmar,Political Protest,2023-01-19,-34.9417,-27.7933,Low
+60,Pakistan,Armed Conflict,2023-01-19,-29.3437,31.2214,Low
+61,Ethiopia,Strike,2023-01-20,29.8487,63.1101,Moderate
+62,South Sudan,Border Skirmish,2023-01-21,-39.6159,-4.6072,Moderate
+63,Brazil,Political Protest,2023-01-21,-17.4326,52.2325,Low
+64,Nigeria,Riots,2023-01-21,-30.6758,-88.0788,Moderate
+65,South Sudan,Border Skirmish,2023-01-21,5.4904,95.2977,Moderate
+66,Ethiopia,Riots,2023-01-21,3.7581,28.8,Low
+67,Ukraine,Border Skirmish,2023-01-21,22.194,89.5885,High
+68,Brazil,Strike,2023-01-22,-22.1945,-4.8202,Critical
+69,South Sudan,Strike,2023-01-22,-0.3514,72.4143,Low
+70,Nigeria,Border Skirmish,2023-01-22,13.0797,-94.6619,Moderate
+71,South Sudan,Border Skirmish,2023-01-22,28.9191,-95.2078,Moderate
+72,Ukraine,Armed Conflict,2023-01-22,39.108,59.1987,Low
+73,Ethiopia,Border Skirmish,2023-01-23,-15.1346,55.1806,Moderate
+74,Nigeria,Strike,2023-01-23,17.8784,-11.6122,Critical
+75,Pakistan,Border Skirmish,2023-01-23,37.6452,-94.7677,Low
+76,Pakistan,Strike,2023-01-23,39.6405,-67.3357,Moderate
+77,Ethiopia,Border Skirmish,2023-01-23,-9.1477,48.159,Low
+78,India,Strike,2023-01-24,28.8267,-69.6573,Low
+79,Ukraine,Political Protest,2023-01-25,35.4999,-75.4678,Low
+80,Pakistan,Armed Conflict,2023-01-25,-17.6993,-25.1544,Critical
+81,Ukraine,Border Skirmish,2023-01-25,26.9024,2.2874,Low
+82,Ethiopia,Political Protest,2023-01-25,-12.1667,1.9161,Low
+83,South Sudan,Border Skirmish,2023-01-26,28.155,-24.8472,Critical
+84,South Sudan,Riots,2023-01-26,13.8827,-81.418,Moderate
+85,India,Strike,2023-01-27,-10.2953,31.4685,High
+86,Ukraine,Political Protest,2023-01-27,-16.9991,61.4429,Low
+87,South Sudan,Strike,2023-01-28,3.5902,20.6515,Moderate
+88,Brazil,Armed Conflict,2023-01-28,-8.3044,-10.2392,Moderate
+89,Nigeria,Armed Conflict,2023-01-28,-14.4893,-32.9038,Moderate
+90,Brazil,Armed Conflict,2023-01-28,-24.8062,65.1873,Moderate
+91,Ethiopia,Armed Conflict,2023-01-29,-5.1815,-31.3528,High
+92,Nigeria,Civil Unrest,2023-01-29,-33.9779,-84.3348,Low
+93,Nigeria,Political Protest,2023-01-29,-5.6788,98.0241,Low
+94,Brazil,Civil Unrest,2023-01-29,32.5508,-89.8766,Low
+95,Nigeria,Civil Unrest,2023-01-29,36.62,-19.1653,Low
+96,South Sudan,Armed Conflict,2023-01-29,-27.0049,44.4592,High
+97,Brazil,Riots,2023-01-31,39.6856,11.4575,High
+98,South Sudan,Riots,2023-01-31,19.789,12.9877,Moderate
+99,India,Armed Conflict,2023-02-01,-19.8986,33.7791,High
+100,Nigeria,Strike,2023-02-01,29.6192,69.2305,Moderate
+101,Pakistan,Political Protest,2023-02-02,-26.0969,29.9417,High
+102,Myanmar,Border Skirmish,2023-02-03,-19.9862,-11.1011,Moderate
+103,India,Civil Unrest,2023-02-03,-18.5514,42.0815,Low
+104,Pakistan,Armed Conflict,2023-02-03,34.4715,16.4513,High
+105,South Sudan,Civil Unrest,2023-02-04,34.6734,-52.6274,Low
+106,India,Strike,2023-02-04,27.8569,79.3454,Moderate
+107,India,Political Protest,2023-02-04,-24.5166,51.7402,High
+108,India,Border Skirmish,2023-02-05,35.043,-14.0734,Low
+109,Ethiopia,Strike,2023-02-05,-26.9309,-14.6763,Moderate
+110,Ukraine,Riots,2023-02-05,23.9228,28.2652,Moderate
+111,Ukraine,Armed Conflict,2023-02-06,36.2986,-51.5803,Low
+112,India,Border Skirmish,2023-02-06,17.3934,22.7484,Low
+113,Ethiopia,Political Protest,2023-02-06,-26.1793,-41.1225,High
+114,Nigeria,Strike,2023-02-07,35.7381,12.4091,Low
+115,India,Political Protest,2023-02-07,37.424,42.2426,Critical
+116,Ukraine,Armed Conflict,2023-02-07,-15.6597,36.7484,Critical
+117,Myanmar,Border Skirmish,2023-02-08,10.6868,-50.1368,Critical
+118,South Sudan,Political Protest,2023-02-08,1.4108,-57.7698,Low
+119,Myanmar,Border Skirmish,2023-02-08,-18.0789,-53.3779,Low
+120,India,Armed Conflict,2023-02-08,-28.6235,44.9012,Critical
+121,Brazil,Political Protest,2023-02-09,-13.5417,97.3774,Low
+122,South Sudan,Civil Unrest,2023-02-09,-9.2169,30.7546,Moderate
+123,South Sudan,Armed Conflict,2023-02-09,-25.2556,-9.2153,Critical
+124,Nigeria,Political Protest,2023-02-10,-34.8269,-0.0691,Low
+125,Myanmar,Civil Unrest,2023-02-10,-2.2949,90.7363,Low
+126,Brazil,Border Skirmish,2023-02-10,-17.61,-99.3529,Moderate
+127,Nigeria,Strike,2023-02-10,-33.5596,66.6841,Moderate
+128,Pakistan,Border Skirmish,2023-02-10,5.8737,76.8267,Moderate
+129,Myanmar,Riots,2023-02-10,25.929,85.7754,Low
+130,South Sudan,Border Skirmish,2023-02-11,27.4368,-63.9597,Critical
+131,Nigeria,Armed Conflict,2023-02-11,19.2393,-74.654,Low
+132,Ethiopia,Border Skirmish,2023-02-11,33.5362,-15.5275,Moderate
+133,Ukraine,Civil Unrest,2023-02-12,-7.5838,45.1136,Low
+134,South Sudan,Border Skirmish,2023-02-12,17.3962,-48.3022,Low
+135,India,Civil Unrest,2023-02-12,-27.6202,99.6994,Critical
+136,Myanmar,Border Skirmish,2023-02-12,-28.6342,-64.0615,High
+137,South Sudan,Border Skirmish,2023-02-12,14.2351,-73.1327,Low
+138,Brazil,Border Skirmish,2023-02-14,3.7048,-36.0767,Critical
+139,Ukraine,Political Protest,2023-02-16,12.2794,53.6528,High
+140,Ethiopia,Political Protest,2023-02-16,16.4003,81.7853,Moderate
+141,South Sudan,Armed Conflict,2023-02-16,13.7744,53.9567,Low
+142,India,Political Protest,2023-02-16,-10.856,-35.9506,Moderate
+143,India,Civil Unrest,2023-02-16,-27.0365,-1.2574,Moderate
+144,Brazil,Strike,2023-02-17,-10.557,-35.4818,High
+145,Pakistan,Political Protest,2023-02-18,-18.2554,-87.7467,Moderate
+146,Ukraine,Civil Unrest,2023-02-18,34.3485,88.7089,High
+147,Ethiopia,Civil Unrest,2023-02-18,-22.9276,26.8818,Low
+148,Nigeria,Civil Unrest,2023-02-18,-31.0734,-41.441,Low
+149,Ukraine,Border Skirmish,2023-02-19,-4.5812,87.0523,Low
+150,South Sudan,Strike,2023-02-19,3.7739,11.1967,Moderate
+151,Ethiopia,Riots,2023-02-19,32.9728,-95.4198,Low
+152,Ukraine,Strike,2023-02-20,-21.6541,76.9561,High
+153,Ethiopia,Riots,2023-02-20,-26.9004,94.0236,Low
+154,South Sudan,Border Skirmish,2023-02-20,26.0093,57.3047,Moderate
+155,India,Political Protest,2023-02-20,-6.0594,-84.0718,Low
+156,Ukraine,Riots,2023-02-22,-0.1557,95.219,Low
+157,Myanmar,Riots,2023-02-22,38.1589,41.1686,High
+158,Myanmar,Border Skirmish,2023-02-22,15.3014,56.6325,Low
+159,Ethiopia,Riots,2023-02-23,-36.5087,40.6466,High
+160,Ukraine,Armed Conflict,2023-02-23,-20.9983,-63.4079,Low
+161,Myanmar,Armed Conflict,2023-02-23,-37.7516,-40.7956,Low
+162,South Sudan,Riots,2023-02-24,20.5195,47.7486,Moderate
+163,Ukraine,Armed Conflict,2023-02-24,-17.1879,-93.5084,Critical
+164,Pakistan,Political Protest,2023-02-24,-22.0622,76.0964,Low
+165,Ethiopia,Strike,2023-02-24,-36.2766,-40.4857,Low
+166,Ethiopia,Border Skirmish,2023-02-24,20.092,-98.2055,High
+167,Ethiopia,Armed Conflict,2023-02-25,2.979,-22.9251,Low
+168,Ethiopia,Strike,2023-02-26,27.7348,-38.288,Moderate
+169,Brazil,Strike,2023-02-27,16.6202,33.8363,Low
+170,Brazil,Strike,2023-02-27,7.3233,83.5869,Critical
+171,Brazil,Border Skirmish,2023-02-27,-22.5638,95.532,Critical
+172,Nigeria,Civil Unrest,2023-02-28,37.5005,2.2108,Critical
+173,South Sudan,Political Protest,2023-02-28,7.8835,20.8693,Low
+174,Nigeria,Civil Unrest,2023-03-01,-28.5374,-22.1256,Low
+175,Myanmar,Political Protest,2023-03-02,-9.9143,49.7965,Low
+176,Ethiopia,Political Protest,2023-03-02,36.3,90.9009,Moderate
+177,Ethiopia,Strike,2023-03-02,1.0505,-63.8239,Low
+178,Brazil,Border Skirmish,2023-03-03,-4.527,-10.5669,Low
+179,India,Strike,2023-03-03,3.1523,-6.9234,Low
+180,Pakistan,Riots,2023-03-04,-6.5565,-16.1655,Low
+181,Pakistan,Political Protest,2023-03-04,34.9274,-75.6429,Low
+182,Myanmar,Armed Conflict,2023-03-05,-6.2541,-37.5384,Low
+183,Pakistan,Strike,2023-03-06,-23.3251,-85.4331,Moderate
+184,India,Civil Unrest,2023-03-06,-30.3626,32.3993,High
+185,Ethiopia,Strike,2023-03-07,-21.9262,45.0817,High
+186,Brazil,Strike,2023-03-07,-21.0346,-9.9857,Moderate
+187,Myanmar,Civil Unrest,2023-03-08,-13.7373,9.8642,Low
+188,Nigeria,Civil Unrest,2023-03-08,-0.6003,-47.9053,High
+189,Pakistan,Border Skirmish,2023-03-09,-3.7426,-26.8467,High
+190,India,Strike,2023-03-09,-12.9039,57.0499,Low
+191,South Sudan,Strike,2023-03-10,-0.9553,39.2456,Low
+192,India,Civil Unrest,2023-03-10,-14.2828,46.8234,Low
+193,Ethiopia,Civil Unrest,2023-03-10,38.4171,34.279,Low
+194,Nigeria,Border Skirmish,2023-03-13,-24.7639,85.4499,Low
+195,South Sudan,Strike,2023-03-14,27.0273,-86.9007,Low
+196,Ukraine,Civil Unrest,2023-03-14,-0.9509,40.6581,Moderate
+197,South Sudan,Political Protest,2023-03-14,-14.132,-51.3099,Low
+198,Pakistan,Civil Unrest,2023-03-14,27.7907,5.0929,Critical
+199,Ethiopia,Armed Conflict,2023-03-15,-35.3963,-50.9058,High
+200,Nigeria,Armed Conflict,2023-03-16,-20.1145,72.2299,Critical
+201,India,Armed Conflict,2023-03-16,13.7289,73.7733,High
+202,Ukraine,Riots,2023-03-16,-21.2947,46.1835,Low
+203,India,Strike,2023-03-16,38.9653,21.8011,Critical
+204,Nigeria,Civil Unrest,2023-03-16,-23.1083,-1.1546,Low
+205,Myanmar,Border Skirmish,2023-03-16,7.7233,-91.8916,High
+206,India,Border Skirmish,2023-03-17,-0.0749,7.3748,Low
+207,Nigeria,Border Skirmish,2023-03-17,13.9954,97.4545,Moderate
+208,Pakistan,Civil Unrest,2023-03-18,-1.1955,69.1493,Low
+209,Ethiopia,Political Protest,2023-03-19,11.5048,95.4327,Moderate
+210,India,Armed Conflict,2023-03-19,0.0813,-29.6026,Moderate
+211,Ukraine,Riots,2023-03-19,5.2407,81.707,Critical
+212,India,Border Skirmish,2023-03-20,-4.694,-21.5095,Critical
+213,Myanmar,Riots,2023-03-20,23.4768,50.8568,Moderate
+214,Pakistan,Armed Conflict,2023-03-20,-13.8121,-66.3875,Moderate
+215,Brazil,Border Skirmish,2023-03-21,5.7259,45.8999,Low
+216,Pakistan,Civil Unrest,2023-03-22,1.0702,-16.2866,Critical
+217,India,Political Protest,2023-03-23,26.6135,-32.0747,Low
+218,Ukraine,Strike,2023-03-23,-11.7502,86.9398,Moderate
+219,Pakistan,Border Skirmish,2023-03-23,38.9096,-45.7806,Low
+220,Pakistan,Civil Unrest,2023-03-24,20.6091,-96.4326,Low
+221,Ukraine,Civil Unrest,2023-03-24,-8.7537,77.0202,Moderate
+222,Nigeria,Border Skirmish,2023-03-24,-5.1504,59.4834,Moderate
+223,Pakistan,Civil Unrest,2023-03-24,24.7307,-27.8303,Low
+224,Brazil,Border Skirmish,2023-03-25,19.9979,-35.4442,High
+225,South Sudan,Border Skirmish,2023-03-26,33.0262,-65.7495,High
+226,Nigeria,Civil Unrest,2023-03-27,13.1848,-15.2071,Moderate
+227,Ethiopia,Armed Conflict,2023-03-27,14.2996,-56.615,Moderate
+228,Ethiopia,Strike,2023-03-27,35.3147,73.962,Low
+229,Nigeria,Riots,2023-03-28,-4.9188,26.0041,High
+230,Myanmar,Border Skirmish,2023-03-28,-28.4381,0.5592,Moderate
+231,India,Political Protest,2023-03-28,-9.8362,-28.8406,High
+232,Myanmar,Civil Unrest,2023-03-28,0.4028,-36.7557,Moderate
+233,South Sudan,Riots,2023-03-29,-34.5428,-96.1187,Moderate
+234,South Sudan,Political Protest,2023-03-29,16.8149,-91.8497,Low
+235,South Sudan,Civil Unrest,2023-03-30,13.4661,-2.6647,High
+236,India,Civil Unrest,2023-03-30,23.8309,0.4689,High
+237,Pakistan,Riots,2023-03-31,-15.3704,10.4483,Moderate
+238,India,Armed Conflict,2023-03-31,19.3112,-66.672,Low
+239,Pakistan,Riots,2023-03-31,7.3298,-7.1078,Moderate
+240,Nigeria,Civil Unrest,2023-03-31,-11.0463,97.5865,Moderate
+241,Nigeria,Civil Unrest,2023-03-31,22.1572,96.2195,High
+242,India,Riots,2023-04-01,15.6281,72.3405,Moderate
+243,Nigeria,Strike,2023-04-02,10.1792,-18.2063,Critical
+244,Ukraine,Armed Conflict,2023-04-02,26.1751,-93.8676,Moderate
+245,Myanmar,Political Protest,2023-04-02,20.4881,-9.5945,Low
+246,South Sudan,Political Protest,2023-04-02,4.5596,-33.0638,Low
+247,South Sudan,Border Skirmish,2023-04-02,-32.9897,79.6095,Critical
+248,South Sudan,Riots,2023-04-03,25.0984,94.0901,Low
+249,Nigeria,Political Protest,2023-04-03,-8.8984,-33.4783,Low
+250,South Sudan,Riots,2023-04-03,26.2204,38.3283,Moderate
+251,Ukraine,Strike,2023-04-03,7.3311,-66.0124,Moderate
+252,Brazil,Political Protest,2023-04-04,11.1433,66.9456,Low
+253,Brazil,Civil Unrest,2023-04-05,30.2065,17.9991,Low
+254,Pakistan,Border Skirmish,2023-04-05,-23.2096,14.136,Low
+255,India,Strike,2023-04-05,1.7826,63.9361,Moderate
+256,India,Border Skirmish,2023-04-05,-33.2618,-85.8315,High
+257,India,Riots,2023-04-06,2.2781,-13.7971,Low
+258,Ukraine,Strike,2023-04-06,-37.3547,19.413,Low
+259,Brazil,Border Skirmish,2023-04-06,-35.2965,-62.1126,Moderate
+260,Pakistan,Political Protest,2023-04-08,36.1597,-94.1906,High
+261,Pakistan,Armed Conflict,2023-04-08,11.5975,39.0841,Low
+262,South Sudan,Border Skirmish,2023-04-08,34.6799,74.7983,Moderate
+263,South Sudan,Strike,2023-04-09,-15.3432,65.0693,Low
+264,South Sudan,Political Protest,2023-04-09,-19.9971,-88.5794,High
+265,Nigeria,Armed Conflict,2023-04-09,11.091,26.974,Low
+266,Ethiopia,Riots,2023-04-10,15.412,59.8819,Low
+267,Nigeria,Border Skirmish,2023-04-11,-39.7116,57.382,Low
+268,Nigeria,Riots,2023-04-11,16.622,5.8641,High
+269,India,Border Skirmish,2023-04-12,32.4066,-19.7972,Low
+270,Pakistan,Strike,2023-04-12,-12.7552,-51.3099,Critical
+271,Pakistan,Armed Conflict,2023-04-12,-29.5536,52.9024,High
+272,Pakistan,Strike,2023-04-13,1.0432,5.9019,Low
+273,South Sudan,Riots,2023-04-13,17.3413,-81.4436,Low
+274,India,Strike,2023-04-14,1.5716,99.314,Low
+275,Pakistan,Riots,2023-04-14,37.6084,13.4763,Low
+276,India,Civil Unrest,2023-04-14,-10.6546,51.815,Low
+277,India,Riots,2023-04-14,-38.0414,69.7119,Critical
+278,Pakistan,Political Protest,2023-04-15,11.0367,-64.4625,Critical
+279,Nigeria,Riots,2023-04-15,-37.0196,82.9617,Critical
+280,Pakistan,Civil Unrest,2023-04-15,-39.1411,20.6094,Low
+281,Pakistan,Riots,2023-04-16,15.9466,71.5441,Low
+282,Ukraine,Political Protest,2023-04-16,25.8976,-99.415,Critical
+283,Myanmar,Civil Unrest,2023-04-17,30.7747,48.6217,Low
+284,Ukraine,Border Skirmish,2023-04-18,-29.8631,20.9409,Low
+285,India,Riots,2023-04-18,17.653,41.1468,High
+286,Ethiopia,Armed Conflict,2023-04-19,-15.4416,96.6853,High
+287,India,Political Protest,2023-04-19,-18.7381,-44.6014,Low
+288,Ukraine,Border Skirmish,2023-04-19,20.47,-40.6501,High
+289,Pakistan,Armed Conflict,2023-04-21,25.6174,-37.5467,Moderate
+290,Nigeria,Riots,2023-04-21,25.7732,-47.4836,Moderate
+291,Ukraine,Border Skirmish,2023-04-21,-27.0056,45.1853,Moderate
+292,Ukraine,Civil Unrest,2023-04-21,-34.6574,47.6903,Low
+293,Ukraine,Political Protest,2023-04-21,35.3522,7.0405,High
+294,Nigeria,Political Protest,2023-04-21,-37.8592,-32.7378,Low
+295,Brazil,Armed Conflict,2023-04-22,-21.1381,44.4229,Low
+296,Ethiopia,Political Protest,2023-04-23,18.8294,-21.9845,Low
+297,Pakistan,Political Protest,2023-04-23,36.9697,99.4383,Low
+298,Pakistan,Civil Unrest,2023-04-23,35.3863,57.9937,Moderate
+299,Brazil,Border Skirmish,2023-04-23,27.7733,-24.7327,Critical
+300,Ethiopia,Border Skirmish,2023-04-23,-5.2544,-45.0422,Moderate
+301,Myanmar,Border Skirmish,2023-04-24,-7.5895,13.5362,High
+302,Ukraine,Civil Unrest,2023-04-24,-14.1015,-32.3635,Critical
+303,Ukraine,Armed Conflict,2023-04-24,-20.7017,16.8498,Moderate
+304,Myanmar,Political Protest,2023-04-25,-33.8443,85.4806,Low
+305,Brazil,Civil Unrest,2023-04-25,-35.1523,38.3031,High
+306,Ukraine,Armed Conflict,2023-04-26,-11.9056,-53.9491,Low
+307,Ukraine,Civil Unrest,2023-04-26,7.4495,-1.6807,Low
+308,Pakistan,Armed Conflict,2023-04-26,-17.8753,-94.5578,Low
+309,Brazil,Civil Unrest,2023-04-26,-31.5174,81.8359,Moderate
+310,Ukraine,Border Skirmish,2023-04-27,-8.4302,77.6525,High
+311,Ethiopia,Civil Unrest,2023-04-27,26.7547,-96.8027,Moderate
+312,Brazil,Civil Unrest,2023-04-27,0.6745,-46.437,Moderate
+313,Myanmar,Strike,2023-04-28,-2.8013,-58.0,Low
+314,Ethiopia,Border Skirmish,2023-04-28,-7.5526,81.6947,Low
+315,Ukraine,Armed Conflict,2023-04-28,-4.011,-50.3027,Moderate
+316,Ukraine,Armed Conflict,2023-04-29,-8.2666,-73.7697,Low
+317,Ukraine,Civil Unrest,2023-04-29,33.0774,41.6596,Low
+318,India,Civil Unrest,2023-04-29,14.6134,-90.415,Moderate
+319,Pakistan,Political Protest,2023-04-30,7.3664,3.9093,High
+320,Ukraine,Riots,2023-05-02,-5.7084,10.4027,Low
+321,Nigeria,Border Skirmish,2023-05-02,-1.8776,72.1209,Low
+322,Brazil,Strike,2023-05-02,-1.2357,-92.2158,Moderate
+323,Ethiopia,Civil Unrest,2023-05-02,-22.9643,74.4956,Moderate
+324,Ukraine,Border Skirmish,2023-05-02,-38.406,-31.858,Moderate
+325,Brazil,Armed Conflict,2023-05-03,7.7661,72.4111,Moderate
+326,South Sudan,Border Skirmish,2023-05-04,19.6392,-52.5243,High
+327,Ukraine,Political Protest,2023-05-04,31.5285,-73.1571,Low
+328,Nigeria,Strike,2023-05-04,-16.1422,-27.049,Low
+329,Nigeria,Civil Unrest,2023-05-04,-20.0256,-70.2724,High
+330,India,Armed Conflict,2023-05-04,-20.7688,69.064,Low
+331,South Sudan,Political Protest,2023-05-05,-12.3355,-27.0488,Low
+332,Pakistan,Strike,2023-05-05,-26.4858,69.9451,High
+333,Ethiopia,Riots,2023-05-05,-12.9596,-33.0627,High
+334,Pakistan,Strike,2023-05-06,7.0643,-97.8192,Low
+335,Myanmar,Armed Conflict,2023-05-06,34.5675,68.848,Low
+336,India,Border Skirmish,2023-05-06,35.8248,-68.7108,Critical
+337,India,Political Protest,2023-05-06,11.7308,-96.9269,Low
+338,Brazil,Strike,2023-05-06,18.9216,9.9615,Moderate
+339,South Sudan,Armed Conflict,2023-05-07,-16.2075,44.3291,High
+340,India,Armed Conflict,2023-05-07,-16.0829,-55.7801,Low
+341,South Sudan,Riots,2023-05-08,7.3874,-5.8984,Critical
+342,India,Strike,2023-05-08,35.38,0.3956,Moderate
+343,Myanmar,Armed Conflict,2023-05-08,8.6541,84.3392,Low
+344,South Sudan,Civil Unrest,2023-05-08,-2.8823,-50.9708,Critical
+345,South Sudan,Political Protest,2023-05-09,-23.1691,-78.5948,High
+346,Ukraine,Armed Conflict,2023-05-09,-34.2582,57.8645,Low
+347,Ukraine,Political Protest,2023-05-09,-27.1433,-94.3342,Low
+348,Brazil,Armed Conflict,2023-05-09,-35.3763,-82.7041,Low
+349,Nigeria,Armed Conflict,2023-05-10,6.9435,86.5573,Low
+350,Brazil,Political Protest,2023-05-10,-24.3327,-48.7502,High
+351,Brazil,Civil Unrest,2023-05-10,33.6196,69.2167,Moderate
+352,Nigeria,Strike,2023-05-10,-28.1969,-81.6108,Low
+353,India,Riots,2023-05-11,-4.1225,-65.7881,Critical
+354,Nigeria,Strike,2023-05-11,35.6143,87.2434,Low
+355,Ukraine,Border Skirmish,2023-05-11,-39.841,-54.3137,Low
+356,Brazil,Armed Conflict,2023-05-11,28.214,-7.1765,Low
+357,Nigeria,Strike,2023-05-12,-19.1832,-25.4987,High
+358,Pakistan,Armed Conflict,2023-05-12,34.7959,-66.5464,Moderate
+359,South Sudan,Border Skirmish,2023-05-12,-28.5633,54.0311,Moderate
+360,South Sudan,Border Skirmish,2023-05-13,5.3062,-79.0223,Low
+361,Myanmar,Riots,2023-05-13,-34.9389,69.4838,Critical
+362,India,Border Skirmish,2023-05-13,-22.7749,82.8629,High
+363,India,Border Skirmish,2023-05-14,-13.0068,-18.6055,Low
+364,Ukraine,Political Protest,2023-05-14,-35.8347,-32.2256,Moderate
+365,India,Civil Unrest,2023-05-15,32.4536,-35.2026,Low
+366,Ukraine,Riots,2023-05-16,12.5177,-47.9256,Moderate
+367,Pakistan,Civil Unrest,2023-05-17,19.4764,90.5608,High
+368,Ukraine,Political Protest,2023-05-17,-31.8166,92.1748,Moderate
+369,South Sudan,Civil Unrest,2023-05-17,-18.2727,72.3275,Low
+370,South Sudan,Border Skirmish,2023-05-17,-28.438,44.7982,Low
+371,Myanmar,Civil Unrest,2023-05-18,20.7239,-76.9713,Moderate
+372,India,Strike,2023-05-18,25.9305,-5.2953,Low
+373,South Sudan,Riots,2023-05-18,-36.3987,53.3804,High
+374,South Sudan,Border Skirmish,2023-05-19,-6.2144,-97.3257,Moderate
+375,Ukraine,Armed Conflict,2023-05-19,-6.5194,1.1507,Moderate
+376,Myanmar,Strike,2023-05-19,8.6787,-22.0686,Critical
+377,Pakistan,Riots,2023-05-20,11.1924,-2.2608,Moderate
+378,Nigeria,Civil Unrest,2023-05-21,-15.1296,-98.2206,Critical
+379,India,Border Skirmish,2023-05-21,36.8036,-55.8867,Moderate
+380,Ukraine,Civil Unrest,2023-05-21,30.3733,-19.7307,Moderate
+381,Ukraine,Border Skirmish,2023-05-21,39.3445,-52.4083,Moderate
+382,Ukraine,Armed Conflict,2023-05-21,36.9163,64.8368,High
+383,Pakistan,Border Skirmish,2023-05-22,23.266,-50.0955,Low
+384,India,Strike,2023-05-22,24.3845,-33.3681,Moderate
+385,Nigeria,Border Skirmish,2023-05-22,-17.6356,34.4445,High
+386,South Sudan,Political Protest,2023-05-23,24.318,-10.8788,Low
+387,Myanmar,Riots,2023-05-23,17.7639,-78.715,High
+388,India,Riots,2023-05-23,-21.4381,-56.2265,Moderate
+389,Ukraine,Riots,2023-05-23,20.0721,-30.2004,Low
+390,India,Riots,2023-05-23,14.4777,-63.9895,High
+391,India,Riots,2023-05-24,38.229,-69.2779,Low
+392,Brazil,Armed Conflict,2023-05-24,36.3841,94.9736,High
+393,Pakistan,Political Protest,2023-05-24,14.0923,-98.0208,Moderate
+394,Pakistan,Civil Unrest,2023-05-25,-23.4759,-96.6428,Moderate
+395,Brazil,Strike,2023-05-25,-0.0415,12.6031,Moderate
+396,South Sudan,Strike,2023-05-26,-3.7677,68.4681,Critical
+397,Brazil,Political Protest,2023-05-26,-13.5808,36.4038,Moderate
+398,Ukraine,Riots,2023-05-26,-1.1062,78.4056,High
+399,Nigeria,Armed Conflict,2023-05-27,-10.9288,-7.7393,High
+400,Ethiopia,Civil Unrest,2023-05-27,-21.9321,-5.2221,Moderate
+401,India,Political Protest,2023-05-27,-9.3441,97.7942,Low
+402,Brazil,Political Protest,2023-05-27,12.3019,-78.4636,Low
+403,Myanmar,Political Protest,2023-05-28,14.775,-86.7892,Moderate
+404,Brazil,Strike,2023-05-28,-33.5782,87.7604,Low
+405,Nigeria,Border Skirmish,2023-05-29,-39.0156,-9.4422,Critical
+406,Pakistan,Civil Unrest,2023-05-29,10.4367,-43.805,Low
+407,India,Civil Unrest,2023-05-29,-27.6014,52.1441,Low
+408,Ethiopia,Border Skirmish,2023-05-29,-3.6858,13.0092,Critical
+409,Ethiopia,Armed Conflict,2023-05-29,30.9358,29.4958,Low
+410,India,Riots,2023-05-29,5.0262,85.3739,Moderate
+411,Myanmar,Political Protest,2023-05-30,-5.1118,-24.7313,Moderate
+412,Brazil,Border Skirmish,2023-05-31,-3.222,-75.3565,High
+413,South Sudan,Strike,2023-05-31,-0.3445,-65.3607,Moderate
+414,India,Strike,2023-05-31,7.9801,-34.7811,Moderate
+415,India,Armed Conflict,2023-06-01,-34.1125,49.4341,Low
+416,Ukraine,Armed Conflict,2023-06-01,-1.1136,-67.8553,Critical
+417,Nigeria,Political Protest,2023-06-01,-31.5036,43.3254,Low
+418,Pakistan,Strike,2023-06-02,37.4088,-52.6289,High
+419,Nigeria,Riots,2023-06-03,35.9549,38.5436,High
+420,Ethiopia,Strike,2023-06-03,-23.3285,74.4689,Moderate
+421,Brazil,Political Protest,2023-06-03,-30.7031,-20.5888,Moderate
+422,South Sudan,Border Skirmish,2023-06-03,1.3634,28.1499,High
+423,Brazil,Civil Unrest,2023-06-03,-10.129,31.0636,Low
+424,Ukraine,Political Protest,2023-06-04,37.8784,-56.1477,Moderate
+425,Nigeria,Civil Unrest,2023-06-04,-35.827,-33.3625,Low
+426,Brazil,Riots,2023-06-05,26.5309,18.2518,Moderate
+427,Ethiopia,Political Protest,2023-06-05,-39.1044,-54.0527,Moderate
+428,Nigeria,Political Protest,2023-06-05,14.9331,-48.1248,Low
+429,South Sudan,Border Skirmish,2023-06-05,37.5231,6.2398,Low
+430,South Sudan,Political Protest,2023-06-06,15.4464,-65.5139,Moderate
+431,South Sudan,Political Protest,2023-06-06,35.0941,61.13,Low
+432,Nigeria,Armed Conflict,2023-06-06,3.3107,85.293,Low
+433,South Sudan,Border Skirmish,2023-06-07,-37.3043,1.929,Low
+434,South Sudan,Border Skirmish,2023-06-08,-2.0409,23.2136,Low
+435,Nigeria,Armed Conflict,2023-06-08,8.294,-0.4984,High
+436,Myanmar,Civil Unrest,2023-06-08,-11.4751,-4.1606,Moderate
+437,Brazil,Civil Unrest,2023-06-08,15.7071,-84.4183,Critical
+438,Pakistan,Riots,2023-06-09,-23.225,-12.2201,Moderate
+439,Nigeria,Political Protest,2023-06-09,5.9352,41.9016,Low
+440,Brazil,Border Skirmish,2023-06-09,1.1726,-38.3801,Low
+441,India,Political Protest,2023-06-09,-34.8688,71.9387,Critical
+442,Myanmar,Riots,2023-06-09,19.4992,40.8567,Low
+443,Nigeria,Political Protest,2023-06-09,35.5096,-37.0739,Moderate
+444,Ethiopia,Political Protest,2023-06-10,-15.5269,88.7279,Low
+445,India,Border Skirmish,2023-06-10,12.7993,26.6494,Low
+446,Ukraine,Political Protest,2023-06-10,-28.0207,25.9474,High
+447,Brazil,Political Protest,2023-06-11,17.4409,-58.4311,Low
+448,Myanmar,Riots,2023-06-11,27.745,98.9144,Critical
+449,Pakistan,Political Protest,2023-06-11,-18.4605,61.2748,Low
+450,Nigeria,Political Protest,2023-06-11,-37.8269,-78.0621,Low
+451,Myanmar,Border Skirmish,2023-06-11,-29.3091,98.3739,Moderate
+452,Myanmar,Civil Unrest,2023-06-12,-34.1213,-42.2704,Critical
+453,Brazil,Strike,2023-06-12,-9.0928,82.7356,Low
+454,Pakistan,Civil Unrest,2023-06-13,37.1711,-16.377,High
+455,Pakistan,Civil Unrest,2023-06-13,8.4881,29.1671,Low
+456,Brazil,Strike,2023-06-13,-17.2245,16.2689,Low
+457,Myanmar,Strike,2023-06-13,-32.9132,-32.8505,Moderate
+458,South Sudan,Armed Conflict,2023-06-14,-32.6157,27.0708,High
+459,India,Riots,2023-06-14,-2.1879,-0.7552,High
+460,Ukraine,Riots,2023-06-14,-16.9278,-57.6954,Low
+461,Myanmar,Political Protest,2023-06-14,8.4862,-94.5543,Moderate
+462,Ethiopia,Riots,2023-06-15,-15.5758,61.6831,High
+463,Ukraine,Border Skirmish,2023-06-15,12.5335,46.0505,Low
+464,Brazil,Civil Unrest,2023-06-16,-10.1814,65.218,High
+465,Ethiopia,Political Protest,2023-06-16,33.7588,32.4643,Low
+466,Pakistan,Strike,2023-06-17,11.2176,-94.9155,High
+467,Ethiopia,Political Protest,2023-06-18,-26.8551,-59.0537,Moderate
+468,Pakistan,Riots,2023-06-19,23.6864,-3.1701,High
+469,South Sudan,Border Skirmish,2023-06-19,-21.5512,-48.0391,Low
+470,Ethiopia,Border Skirmish,2023-06-19,17.0358,-56.1891,Low
+471,Myanmar,Riots,2023-06-19,18.7321,-48.4576,Moderate
+472,Myanmar,Riots,2023-06-20,7.1822,33.5486,Low
+473,Myanmar,Armed Conflict,2023-06-20,35.8754,54.2257,Critical
+474,Pakistan,Border Skirmish,2023-06-21,14.2295,72.7158,Moderate
+475,Pakistan,Strike,2023-06-21,-25.0336,-89.0586,Low
+476,Myanmar,Armed Conflict,2023-06-22,7.0102,68.0876,Moderate
+477,Ukraine,Strike,2023-06-22,3.0809,-83.2049,Low
+478,Ethiopia,Civil Unrest,2023-06-22,-14.2839,27.531,Low
+479,Ukraine,Civil Unrest,2023-06-22,32.0299,20.543,Low
+480,Ukraine,Political Protest,2023-06-22,-12.4728,-15.9636,High
+481,Pakistan,Armed Conflict,2023-06-23,-10.3091,36.5052,High
+482,Ethiopia,Armed Conflict,2023-06-23,35.5966,94.0525,Low
+483,Ethiopia,Strike,2023-06-24,27.3737,-58.1468,High
+484,India,Armed Conflict,2023-06-24,-25.4398,65.4852,High
+485,India,Strike,2023-06-26,-4.5358,-23.1804,Moderate
+486,Brazil,Riots,2023-06-26,28.5749,97.9191,Low
+487,Myanmar,Civil Unrest,2023-06-26,-0.1637,-19.2891,Moderate
+488,Pakistan,Political Protest,2023-06-26,20.7513,31.1008,Moderate
+489,Pakistan,Armed Conflict,2023-06-26,0.0551,-60.9213,Critical
+490,India,Political Protest,2023-06-28,1.5574,-19.0875,High
+491,Brazil,Armed Conflict,2023-06-30,-29.0159,-72.9154,Moderate
+492,Pakistan,Armed Conflict,2023-07-01,-15.3516,-86.7604,Low
+493,Pakistan,Border Skirmish,2023-07-02,1.3423,-29.0801,Low
+494,South Sudan,Border Skirmish,2023-07-02,-34.7854,-41.3003,Moderate
+495,India,Riots,2023-07-02,34.7456,72.8636,High
+496,South Sudan,Civil Unrest,2023-07-02,21.0882,-58.9073,Low
+497,Myanmar,Political Protest,2023-07-02,-35.3262,-38.7101,Low
+498,Ukraine,Border Skirmish,2023-07-02,-13.7572,14.1099,Low
+499,Ukraine,Border Skirmish,2023-07-03,-12.6973,35.2096,Moderate
+500,India,Border Skirmish,2023-07-03,23.3313,95.3353,Moderate
+501,India,Riots,2023-07-05,-28.1822,-20.1508,Low
+502,Myanmar,Strike,2023-07-06,-32.684,-96.5177,Moderate
+503,Ukraine,Political Protest,2023-07-06,-17.7328,-53.4545,Low
+504,Ethiopia,Political Protest,2023-07-06,-30.7914,20.8925,Moderate
+505,India,Political Protest,2023-07-06,10.4045,-86.1021,High
+506,Myanmar,Riots,2023-07-07,-15.4287,-76.7228,Moderate
+507,Brazil,Strike,2023-07-07,-5.4536,-55.9607,Moderate
+508,Brazil,Armed Conflict,2023-07-07,25.3888,41.9383,Low
+509,Myanmar,Political Protest,2023-07-07,-35.2534,8.8574,Moderate
+510,Nigeria,Armed Conflict,2023-07-07,-17.0649,34.155,Moderate
+511,Ukraine,Strike,2023-07-07,-29.7692,56.5475,High
+512,Ukraine,Riots,2023-07-09,17.4833,17.8478,Low
+513,Ukraine,Political Protest,2023-07-09,-2.9442,91.6196,Critical
+514,Ukraine,Border Skirmish,2023-07-09,14.3929,35.1181,Low
+515,Ukraine,Border Skirmish,2023-07-09,33.8514,-82.9341,Critical
+516,Brazil,Border Skirmish,2023-07-09,-20.9783,-32.1957,High
+517,South Sudan,Border Skirmish,2023-07-09,-33.119,-59.5428,Moderate
+518,Brazil,Political Protest,2023-07-10,9.4643,58.464,High
+519,India,Armed Conflict,2023-07-10,7.4141,-35.2941,Low
+520,Myanmar,Riots,2023-07-10,-2.6352,-56.9497,Moderate
+521,South Sudan,Riots,2023-07-11,-37.5667,-96.8469,High
+522,Nigeria,Political Protest,2023-07-11,-32.6436,39.5665,Low
+523,India,Riots,2023-07-11,36.3761,-91.9542,Critical
+524,Ethiopia,Armed Conflict,2023-07-13,13.6388,-93.1825,Low
+525,Nigeria,Riots,2023-07-13,30.6175,-78.5577,Low
+526,Brazil,Strike,2023-07-13,-36.5442,71.0453,Low
+527,Pakistan,Border Skirmish,2023-07-13,-6.4946,-83.862,Low
+528,Pakistan,Armed Conflict,2023-07-13,17.602,8.3178,Low
+529,Nigeria,Armed Conflict,2023-07-13,-29.4744,-6.8781,Moderate
+530,Nigeria,Strike,2023-07-14,19.9451,89.0416,Low
+531,Brazil,Civil Unrest,2023-07-14,28.1944,-97.3409,Critical
+532,Nigeria,Strike,2023-07-15,16.2792,-85.3142,High
+533,Brazil,Riots,2023-07-15,-38.1016,-28.7474,High
+534,Nigeria,Armed Conflict,2023-07-15,25.7573,-74.7828,High
+535,Nigeria,Riots,2023-07-17,3.2969,-3.4042,Moderate
+536,Pakistan,Political Protest,2023-07-17,23.5856,26.8574,Moderate
+537,Ethiopia,Political Protest,2023-07-17,35.7433,-14.0377,Moderate
+538,Ukraine,Armed Conflict,2023-07-17,-18.7294,36.9444,Low
+539,Myanmar,Riots,2023-07-17,-8.8399,2.6745,Low
+540,Brazil,Armed Conflict,2023-07-17,14.8845,-96.5063,Moderate
+541,Ukraine,Strike,2023-07-18,-1.9897,7.7637,High
+542,Myanmar,Political Protest,2023-07-18,39.988,87.8129,Moderate
+543,India,Political Protest,2023-07-19,-8.9645,22.3048,Moderate
+544,Brazil,Riots,2023-07-20,23.3907,61.1984,Critical
+545,Pakistan,Political Protest,2023-07-20,35.3607,-32.0905,Low
+546,Myanmar,Armed Conflict,2023-07-20,-10.5348,-48.0388,Moderate
+547,Pakistan,Strike,2023-07-20,-4.6299,5.0838,Low
+548,India,Civil Unrest,2023-07-20,-38.8712,88.0774,Critical
+549,Nigeria,Political Protest,2023-07-21,0.9889,-66.4413,Low
+550,Ukraine,Armed Conflict,2023-07-21,22.4135,98.0147,Low
+551,Ethiopia,Armed Conflict,2023-07-21,-6.1276,4.2795,High
+552,Myanmar,Armed Conflict,2023-07-21,1.8226,-76.9857,Low
+553,Nigeria,Armed Conflict,2023-07-22,-7.5955,-57.448,Moderate
+554,Pakistan,Border Skirmish,2023-07-22,6.9987,-28.7759,Moderate
+555,Ethiopia,Border Skirmish,2023-07-22,-7.6667,-45.1122,High
+556,Ukraine,Armed Conflict,2023-07-24,-36.7768,29.7645,High
+557,Myanmar,Political Protest,2023-07-24,38.5085,-92.8398,Low
+558,Pakistan,Political Protest,2023-07-25,-12.8221,42.6901,Low
+559,Myanmar,Armed Conflict,2023-07-25,-16.9115,-20.1072,Moderate
+560,Ukraine,Armed Conflict,2023-07-26,-5.3603,-44.1272,Moderate
+561,India,Civil Unrest,2023-07-27,5.0604,-69.7152,Low
+562,Myanmar,Riots,2023-07-27,-7.2812,8.7959,Low
+563,Ethiopia,Armed Conflict,2023-07-27,11.7586,-17.1323,Moderate
+564,South Sudan,Civil Unrest,2023-07-27,21.0452,-32.4292,Low
+565,Ethiopia,Border Skirmish,2023-07-28,-13.1073,-89.6444,Low
+566,Nigeria,Strike,2023-07-28,32.5962,21.4511,Low
+567,Ukraine,Strike,2023-07-29,-26.1243,-38.3687,Low
+568,Ukraine,Political Protest,2023-07-29,-25.2528,-41.9044,Moderate
+569,Brazil,Riots,2023-07-29,17.8684,96.223,Low
+570,Ethiopia,Riots,2023-07-29,-24.5356,-72.2134,Low
+571,Ethiopia,Strike,2023-07-29,22.0146,-74.0906,Low
+572,South Sudan,Strike,2023-07-30,29.2772,-9.7287,High
+573,Nigeria,Political Protest,2023-07-30,3.2355,-92.8311,Critical
+574,Ukraine,Border Skirmish,2023-08-01,21.1639,71.9076,Low
+575,Ukraine,Border Skirmish,2023-08-01,-17.1914,-29.9271,Moderate
+576,India,Civil Unrest,2023-08-01,31.7232,59.2106,High
+577,South Sudan,Riots,2023-08-02,3.6892,82.4129,Low
+578,South Sudan,Riots,2023-08-02,8.4553,96.6119,Low
+579,Pakistan,Strike,2023-08-02,23.4155,-66.6671,High
+580,South Sudan,Strike,2023-08-02,23.6579,-66.4485,Moderate
+581,Ukraine,Border Skirmish,2023-08-03,37.3104,61.9239,Critical
+582,Brazil,Border Skirmish,2023-08-04,32.4488,81.7243,Low
+583,Myanmar,Armed Conflict,2023-08-04,-28.2012,30.8406,High
+584,Ethiopia,Riots,2023-08-04,-0.5359,53.4384,Low
+585,India,Political Protest,2023-08-04,26.7153,-82.8314,Low
+586,Ethiopia,Strike,2023-08-04,-36.6206,35.399,Critical
+587,South Sudan,Riots,2023-08-05,21.9642,-51.4076,Low
+588,Myanmar,Political Protest,2023-08-05,31.1217,6.104,High
+589,India,Border Skirmish,2023-08-05,-32.9192,60.4152,Moderate
+590,Nigeria,Civil Unrest,2023-08-05,-36.3725,24.1161,Low
+591,Nigeria,Political Protest,2023-08-05,12.0858,-38.8604,High
+592,Nigeria,Strike,2023-08-06,1.2719,-92.1452,Critical
+593,Brazil,Riots,2023-08-06,-10.565,-28.654,High
+594,Pakistan,Civil Unrest,2023-08-06,-20.5669,-94.1927,High
+595,South Sudan,Armed Conflict,2023-08-06,8.5733,74.5468,Critical
+596,Brazil,Armed Conflict,2023-08-07,-6.4999,99.8379,Moderate
+597,South Sudan,Riots,2023-08-08,8.7226,30.7095,High
+598,Ethiopia,Riots,2023-08-08,-36.2966,37.3759,Low
+599,South Sudan,Civil Unrest,2023-08-10,11.6975,-32.4687,Low
+600,Ukraine,Border Skirmish,2023-08-11,21.5979,0.8049,Moderate
+601,Brazil,Riots,2023-08-11,-30.883,78.2953,Moderate
+602,Nigeria,Strike,2023-08-12,37.2409,76.1501,Low
+603,South Sudan,Riots,2023-08-12,-38.5542,-63.2448,Moderate
+604,Nigeria,Riots,2023-08-13,13.8438,-38.4513,Moderate
+605,Nigeria,Civil Unrest,2023-08-13,-12.3074,97.1601,Moderate
+606,India,Political Protest,2023-08-13,10.5134,-65.1246,Moderate
+607,Myanmar,Riots,2023-08-14,-26.3862,-34.1187,Low
+608,South Sudan,Strike,2023-08-14,21.1689,-97.5255,Low
+609,South Sudan,Strike,2023-08-14,-15.0218,-58.2224,High
+610,Ethiopia,Riots,2023-08-15,38.6012,46.8677,Low
+611,Brazil,Civil Unrest,2023-08-15,30.778,-36.0846,Low
+612,Pakistan,Strike,2023-08-15,-27.5555,-47.5903,High
+613,Nigeria,Political Protest,2023-08-15,-39.9394,-90.0348,Critical
+614,India,Riots,2023-08-15,7.8013,-61.3067,Moderate
+615,Ukraine,Armed Conflict,2023-08-15,35.0489,50.6143,Low
+616,India,Civil Unrest,2023-08-16,20.2277,41.3799,High
+617,Ethiopia,Riots,2023-08-16,7.9546,24.5732,Moderate
+618,Ethiopia,Armed Conflict,2023-08-17,25.9002,-58.5505,Low
+619,Ukraine,Riots,2023-08-18,8.1429,-55.6204,High
+620,India,Civil Unrest,2023-08-18,28.0403,-40.4389,High
+621,Ukraine,Armed Conflict,2023-08-19,-0.6835,35.8229,Low
+622,Ukraine,Armed Conflict,2023-08-19,34.1225,-15.3159,Moderate
+623,India,Armed Conflict,2023-08-19,-16.8982,-37.9053,High
+624,India,Civil Unrest,2023-08-19,3.2795,-38.152,Moderate
+625,Ethiopia,Political Protest,2023-08-20,24.9002,58.8804,Low
+626,Pakistan,Riots,2023-08-20,-31.555,-71.599,Critical
+627,Brazil,Political Protest,2023-08-20,-30.2277,10.071,High
+628,Pakistan,Civil Unrest,2023-08-21,9.1932,-1.6321,Moderate
+629,Pakistan,Armed Conflict,2023-08-21,12.1457,-85.228,Low
+630,Ukraine,Political Protest,2023-08-21,12.3506,11.1149,High
+631,Nigeria,Civil Unrest,2023-08-21,19.5162,-31.4929,Low
+632,Brazil,Civil Unrest,2023-08-22,-3.7616,-29.8053,Low
+633,Myanmar,Border Skirmish,2023-08-23,-22.0476,-22.182,High
+634,Brazil,Border Skirmish,2023-08-23,-36.9303,-76.7137,High
+635,Ethiopia,Border Skirmish,2023-08-23,-18.8233,-18.2575,Low
+636,Brazil,Border Skirmish,2023-08-23,26.7338,-18.3097,Moderate
+637,Pakistan,Civil Unrest,2023-08-23,0.7725,-83.3141,High
+638,South Sudan,Riots,2023-08-24,14.4915,-52.6107,Low
+639,Nigeria,Riots,2023-08-24,-34.9363,-74.8473,High
+640,Nigeria,Armed Conflict,2023-08-24,8.2736,-40.9521,Moderate
+641,Pakistan,Civil Unrest,2023-08-25,28.5886,65.9484,Low
+642,Myanmar,Civil Unrest,2023-08-25,-11.5614,-82.2592,Low
+643,Pakistan,Political Protest,2023-08-26,-39.0076,12.4341,Low
+644,Nigeria,Civil Unrest,2023-08-26,-10.479,56.6462,Critical
+645,Myanmar,Civil Unrest,2023-08-26,23.226,-26.6216,Low
+646,India,Armed Conflict,2023-08-27,-21.3176,53.1216,Moderate
+647,Ethiopia,Border Skirmish,2023-08-30,-16.1421,79.3478,High
+648,Myanmar,Border Skirmish,2023-08-30,-11.6391,-18.4432,Moderate
+649,Myanmar,Civil Unrest,2023-08-30,14.2511,65.3658,Moderate
+650,India,Political Protest,2023-08-30,35.9636,-83.6419,Moderate
+651,Nigeria,Armed Conflict,2023-08-30,15.0737,-11.4472,Low
+652,Nigeria,Riots,2023-08-30,-9.4613,56.8311,Low
+653,Brazil,Political Protest,2023-08-31,21.4983,-97.6381,Moderate
+654,Ethiopia,Riots,2023-08-31,-36.8081,-98.2443,Low
+655,Ethiopia,Border Skirmish,2023-09-01,-16.443,-17.5798,Low
+656,Brazil,Border Skirmish,2023-09-01,-19.1426,-65.4021,Moderate
+657,Ethiopia,Civil Unrest,2023-09-02,39.2836,-60.7909,Low
+658,South Sudan,Armed Conflict,2023-09-02,21.7036,48.9123,Moderate
+659,Brazil,Riots,2023-09-02,-30.181,13.5556,Low
+660,South Sudan,Strike,2023-09-03,-23.0853,77.4841,Low
+661,South Sudan,Riots,2023-09-03,-9.5442,-92.111,Moderate
+662,Myanmar,Political Protest,2023-09-03,4.9568,-52.7784,Critical
+663,Nigeria,Armed Conflict,2023-09-04,16.8926,-83.9457,High
+664,Ethiopia,Riots,2023-09-04,12.1249,0.5479,Low
+665,Brazil,Political Protest,2023-09-04,-11.2192,55.9878,Moderate
+666,South Sudan,Border Skirmish,2023-09-05,4.1376,-97.6837,Critical
+667,Myanmar,Riots,2023-09-05,6.1262,-78.73,Low
+668,Pakistan,Civil Unrest,2023-09-06,-38.4517,24.4151,Moderate
+669,India,Riots,2023-09-06,36.935,-87.6334,Low
+670,Ukraine,Political Protest,2023-09-07,-8.6438,-31.9584,Low
+671,Nigeria,Strike,2023-09-07,24.272,-29.2173,Low
+672,India,Armed Conflict,2023-09-07,-18.8139,26.3723,Low
+673,South Sudan,Border Skirmish,2023-09-08,-16.6113,82.4706,Low
+674,Brazil,Strike,2023-09-08,-34.3194,-90.9955,Low
+675,India,Armed Conflict,2023-09-10,38.1383,-96.1751,Moderate
+676,Nigeria,Riots,2023-09-10,39.9312,24.4451,High
+677,Ethiopia,Political Protest,2023-09-10,-27.9122,-55.0151,High
+678,Ukraine,Civil Unrest,2023-09-11,20.411,-69.6994,High
+679,Brazil,Border Skirmish,2023-09-11,-30.8438,-43.1431,Low
+680,Nigeria,Civil Unrest,2023-09-11,-22.0779,1.5258,Low
+681,Myanmar,Border Skirmish,2023-09-11,-11.3916,-21.8604,High
+682,South Sudan,Civil Unrest,2023-09-13,-21.0129,50.7746,Critical
+683,Myanmar,Civil Unrest,2023-09-13,-11.6475,-82.5945,Low
+684,India,Riots,2023-09-14,6.9573,11.2305,Low
+685,Pakistan,Political Protest,2023-09-15,27.539,-31.6791,High
+686,India,Civil Unrest,2023-09-15,-14.5187,47.2826,Critical
+687,Ukraine,Border Skirmish,2023-09-16,-4.9918,-27.9614,Moderate
+688,Pakistan,Armed Conflict,2023-09-16,-9.8834,93.4854,High
+689,Myanmar,Riots,2023-09-16,2.1693,87.3529,High
+690,South Sudan,Border Skirmish,2023-09-17,-32.6897,90.33,High
+691,Pakistan,Political Protest,2023-09-17,0.2138,-7.786,Low
+692,Ethiopia,Political Protest,2023-09-18,-34.4516,-29.947,Low
+693,Brazil,Political Protest,2023-09-18,-31.4686,-65.8239,Low
+694,Nigeria,Riots,2023-09-18,-37.0115,-42.2913,Moderate
+695,Ethiopia,Civil Unrest,2023-09-18,-39.4063,46.3807,Low
+696,Ethiopia,Political Protest,2023-09-19,-7.7345,29.6008,Low
+697,Myanmar,Political Protest,2023-09-19,-15.0722,-83.0502,Moderate
+698,Myanmar,Border Skirmish,2023-09-19,20.1485,6.1408,Low
+699,Pakistan,Strike,2023-09-20,-34.5179,-89.4438,Low
+700,Ethiopia,Political Protest,2023-09-20,23.2864,-67.6278,High
+701,Ukraine,Border Skirmish,2023-09-20,17.4172,-67.3535,Low
+702,India,Political Protest,2023-09-21,-36.4872,-57.8241,Moderate
+703,India,Strike,2023-09-21,-32.8798,47.035,Low
+704,India,Civil Unrest,2023-09-22,4.6409,-69.0818,Low
+705,Ukraine,Strike,2023-09-22,24.5653,-68.7835,Low
+706,Brazil,Riots,2023-09-22,19.5886,-18.603,Low
+707,India,Riots,2023-09-23,-23.7113,31.8247,Moderate
+708,Pakistan,Riots,2023-09-23,-25.9621,40.8773,High
+709,Brazil,Armed Conflict,2023-09-24,0.1275,0.3689,Low
+710,South Sudan,Strike,2023-09-24,-36.7121,-75.7403,High
+711,South Sudan,Strike,2023-09-25,5.6886,41.813,Critical
+712,Brazil,Strike,2023-09-25,-5.2553,-29.4783,Low
+713,Brazil,Border Skirmish,2023-09-25,-16.7141,72.4208,High
+714,Myanmar,Civil Unrest,2023-09-25,27.9068,3.041,Moderate
+715,Pakistan,Civil Unrest,2023-09-25,12.1509,-75.4138,Moderate
+716,Ethiopia,Border Skirmish,2023-09-26,-17.9402,41.9679,Low
+717,Myanmar,Armed Conflict,2023-09-26,15.5111,84.1096,Low
+718,Myanmar,Political Protest,2023-09-27,-36.4695,71.9928,Critical
+719,Ethiopia,Political Protest,2023-09-27,25.5872,-89.585,Critical
+720,Pakistan,Riots,2023-09-27,-11.3868,0.4851,Critical
+721,South Sudan,Border Skirmish,2023-09-27,-26.8191,65.9062,Moderate
+722,South Sudan,Border Skirmish,2023-09-27,31.0907,-85.4051,Low
+723,Ethiopia,Riots,2023-09-29,31.9488,67.7734,High
+724,Pakistan,Political Protest,2023-09-29,-16.1581,73.0823,Moderate
+725,India,Armed Conflict,2023-09-29,26.6326,-88.9521,Low
+726,Brazil,Border Skirmish,2023-09-30,37.7929,-8.5111,Low
+727,Pakistan,Civil Unrest,2023-09-30,30.9107,56.4897,Low
+728,Brazil,Civil Unrest,2023-09-30,-18.9348,-45.7789,Low
+729,Ukraine,Riots,2023-09-30,27.0357,65.34,Moderate
+730,Brazil,Border Skirmish,2023-10-01,-5.1097,-73.6989,High
+731,Pakistan,Strike,2023-10-01,-4.5473,56.8476,Low
+732,Myanmar,Armed Conflict,2023-10-01,-18.4414,69.3407,Low
+733,Ukraine,Civil Unrest,2023-10-01,-39.8958,5.0191,Moderate
+734,Ukraine,Armed Conflict,2023-10-02,-8.8113,93.9467,High
+735,Brazil,Strike,2023-10-03,-4.3671,13.9047,Moderate
+736,India,Strike,2023-10-04,-28.8304,16.4476,Moderate
+737,Myanmar,Border Skirmish,2023-10-04,27.9971,-81.9954,Low
+738,South Sudan,Armed Conflict,2023-10-04,38.6146,21.6552,Moderate
+739,Ukraine,Riots,2023-10-04,31.8735,-21.262,Moderate
+740,Brazil,Border Skirmish,2023-10-04,32.197,-68.7569,Moderate
+741,Brazil,Border Skirmish,2023-10-04,-2.3792,89.8003,Critical
+742,Ethiopia,Border Skirmish,2023-10-04,-13.1872,-91.3471,High
+743,Ethiopia,Riots,2023-10-05,33.4532,33.7911,Low
+744,Ethiopia,Civil Unrest,2023-10-05,14.1241,-21.4297,Moderate
+745,India,Armed Conflict,2023-10-05,31.0209,70.0267,Moderate
+746,Nigeria,Border Skirmish,2023-10-06,-31.7613,-73.6248,Low
+747,India,Border Skirmish,2023-10-06,-15.0259,-80.6124,Critical
+748,South Sudan,Civil Unrest,2023-10-07,20.3056,59.4003,Low
+749,India,Political Protest,2023-10-07,-2.8117,-5.8874,Low
+750,Ukraine,Strike,2023-10-08,10.9459,18.7836,Low
+751,Brazil,Political Protest,2023-10-08,-3.7279,-60.9482,High
+752,Ukraine,Riots,2023-10-09,31.912,-38.1782,Moderate
+753,Ethiopia,Political Protest,2023-10-10,33.251,44.8346,Low
+754,India,Political Protest,2023-10-10,15.8059,-37.7583,Moderate
+755,Myanmar,Civil Unrest,2023-10-10,-34.8448,-93.3937,Moderate
+756,India,Armed Conflict,2023-10-11,14.1112,-50.1967,High
+757,Ethiopia,Armed Conflict,2023-10-11,25.2557,-48.9707,Critical
+758,South Sudan,Strike,2023-10-12,23.4871,82.8473,Critical
+759,Ukraine,Civil Unrest,2023-10-12,-27.6468,-10.878,Moderate
+760,Brazil,Political Protest,2023-10-12,-36.6596,-66.8519,Low
+761,Ukraine,Political Protest,2023-10-12,34.5214,49.5105,Low
+762,Ukraine,Political Protest,2023-10-13,34.5691,-64.0384,Low
+763,Nigeria,Civil Unrest,2023-10-13,-0.4896,-63.633,Moderate
+764,India,Armed Conflict,2023-10-13,22.6655,80.2589,Moderate
+765,Ukraine,Political Protest,2023-10-14,8.5963,71.4968,Moderate
+766,Nigeria,Political Protest,2023-10-14,-7.6792,47.4111,Low
+767,Ukraine,Civil Unrest,2023-10-14,-10.7017,-17.9662,Low
+768,India,Civil Unrest,2023-10-14,-13.1301,-76.4665,Moderate
+769,Ukraine,Border Skirmish,2023-10-15,8.7173,-6.6651,Low
+770,Brazil,Riots,2023-10-15,-32.5339,18.1783,High
+771,Ethiopia,Civil Unrest,2023-10-16,-24.6461,28.5188,Low
+772,South Sudan,Strike,2023-10-16,-26.0779,8.0566,High
+773,India,Political Protest,2023-10-16,-21.1145,-28.3522,Moderate
+774,Brazil,Political Protest,2023-10-16,-27.6196,-73.4197,Low
+775,India,Armed Conflict,2023-10-18,-0.3906,63.6965,Low
+776,Ukraine,Political Protest,2023-10-18,33.9155,-75.9713,Critical
+777,Ukraine,Riots,2023-10-20,-4.9256,-78.1267,Low
+778,South Sudan,Political Protest,2023-10-20,-9.5649,-90.7808,High
+779,Ukraine,Political Protest,2023-10-21,-17.8471,21.6819,Low
+780,Pakistan,Political Protest,2023-10-21,37.6059,-11.4099,Critical
+781,Nigeria,Strike,2023-10-22,-32.2534,-41.0752,Moderate
+782,Myanmar,Political Protest,2023-10-22,-22.4556,68.3337,High
+783,Myanmar,Riots,2023-10-22,2.3661,-17.1312,Moderate
+784,Ukraine,Armed Conflict,2023-10-23,21.6411,5.9231,Low
+785,South Sudan,Armed Conflict,2023-10-23,22.8633,-81.5452,Low
+786,Ukraine,Border Skirmish,2023-10-23,-10.4984,-74.8967,Moderate
+787,Myanmar,Riots,2023-10-23,-5.5671,7.5298,Moderate
+788,India,Political Protest,2023-10-25,-5.9371,0.2225,Low
+789,South Sudan,Civil Unrest,2023-10-27,13.4616,39.3072,Moderate
+790,Pakistan,Strike,2023-10-28,-17.6083,32.4663,Moderate
+791,India,Border Skirmish,2023-10-29,1.4427,-13.3578,High
+792,Brazil,Border Skirmish,2023-10-29,-38.9129,2.6723,Low
+793,Pakistan,Civil Unrest,2023-10-29,-21.9074,42.144,High
+794,South Sudan,Armed Conflict,2023-10-29,22.5724,-94.7092,Moderate
+795,Pakistan,Armed Conflict,2023-10-29,5.0205,-89.4787,Low
+796,Myanmar,Strike,2023-10-29,13.8704,26.7334,Critical
+797,Myanmar,Political Protest,2023-10-30,-39.1783,-74.0809,Low
+798,India,Political Protest,2023-10-30,15.7847,-95.5095,Low
+799,Ethiopia,Border Skirmish,2023-10-30,-35.4089,-90.9825,Low
+800,Ukraine,Civil Unrest,2023-10-31,36.3422,-34.7587,Moderate
+801,Myanmar,Riots,2023-11-01,-7.7728,68.3768,Low
+802,Myanmar,Strike,2023-11-01,-8.4597,85.3974,Low
+803,Myanmar,Riots,2023-11-01,-9.2701,10.5252,Low
+804,South Sudan,Riots,2023-11-01,-7.8498,22.9349,Low
+805,South Sudan,Border Skirmish,2023-11-01,10.7937,87.9633,Low
+806,Ethiopia,Civil Unrest,2023-11-02,-9.247,75.1471,Moderate
+807,Ethiopia,Strike,2023-11-03,2.2069,-72.6972,Low
+808,Brazil,Armed Conflict,2023-11-03,5.2645,-81.5427,Low
+809,India,Riots,2023-11-03,-1.652,-55.3239,High
+810,Myanmar,Civil Unrest,2023-11-03,-21.6064,86.9325,Low
+811,Ethiopia,Strike,2023-11-04,-12.4671,24.5069,Moderate
+812,Nigeria,Riots,2023-11-04,7.889,41.5835,Low
+813,Nigeria,Border Skirmish,2023-11-05,35.3707,15.9104,Low
+814,Ukraine,Strike,2023-11-07,-15.2293,67.4428,Critical
+815,Pakistan,Riots,2023-11-07,20.7776,-24.8838,Low
+816,Ukraine,Border Skirmish,2023-11-07,-1.163,-64.7976,High
+817,South Sudan,Civil Unrest,2023-11-07,-4.1108,-26.2408,Low
+818,India,Strike,2023-11-07,-20.9097,56.1096,Low
+819,Ukraine,Civil Unrest,2023-11-08,-18.9397,-4.0063,High
+820,Myanmar,Riots,2023-11-08,26.7986,98.6387,Moderate
+821,Pakistan,Riots,2023-11-09,-16.4297,12.1778,Low
+822,India,Political Protest,2023-11-09,-7.171,-77.5808,High
+823,Ethiopia,Political Protest,2023-11-09,21.2717,-90.4851,Critical
+824,Myanmar,Civil Unrest,2023-11-10,38.5913,-9.3678,High
+825,Ethiopia,Riots,2023-11-10,26.8248,-91.7749,Low
+826,Myanmar,Political Protest,2023-11-10,6.8623,-82.46,Moderate
+827,Myanmar,Armed Conflict,2023-11-11,-15.5979,-16.9824,High
+828,Brazil,Border Skirmish,2023-11-12,13.0115,-21.1105,High
+829,Nigeria,Armed Conflict,2023-11-13,16.6612,-87.3236,Low
+830,South Sudan,Civil Unrest,2023-11-14,-20.0212,-13.4862,High
+831,Myanmar,Political Protest,2023-11-14,34.9987,-54.8753,Low
+832,Brazil,Armed Conflict,2023-11-14,10.2296,-83.6187,Moderate
+833,Nigeria,Political Protest,2023-11-14,-4.3307,-46.79,High
+834,South Sudan,Political Protest,2023-11-14,27.1528,-51.3838,Low
+835,South Sudan,Civil Unrest,2023-11-14,11.4644,67.6422,High
+836,South Sudan,Riots,2023-11-16,-11.5962,-78.8647,High
+837,South Sudan,Strike,2023-11-16,2.3404,-45.7116,Moderate
+838,Ethiopia,Riots,2023-11-16,-3.9925,23.4685,Moderate
+839,Ethiopia,Riots,2023-11-17,-29.5313,36.3942,Low
+840,Ethiopia,Strike,2023-11-17,13.9507,79.4471,High
+841,South Sudan,Border Skirmish,2023-11-17,-31.3837,13.561,Low
+842,Brazil,Armed Conflict,2023-11-17,-8.2559,-78.2309,Moderate
+843,South Sudan,Civil Unrest,2023-11-18,-36.7126,54.1654,Critical
+844,Ethiopia,Riots,2023-11-18,-17.8532,-80.8114,Low
+845,Pakistan,Strike,2023-11-20,-18.5962,55.592,Moderate
+846,Myanmar,Strike,2023-11-20,24.6503,19.2607,Moderate
+847,South Sudan,Strike,2023-11-20,15.6991,57.6911,High
+848,Brazil,Political Protest,2023-11-21,6.7578,-74.5269,Moderate
+849,India,Border Skirmish,2023-11-21,22.9787,-15.0712,Low
+850,South Sudan,Strike,2023-11-22,-2.167,64.7173,Low
+851,Ukraine,Civil Unrest,2023-11-22,-16.5842,-67.9307,Low
+852,Nigeria,Border Skirmish,2023-11-23,22.3058,-24.2408,Low
+853,India,Political Protest,2023-11-23,2.0322,-48.9719,High
+854,India,Riots,2023-11-23,33.502,-36.3659,Low
+855,India,Political Protest,2023-11-24,20.2227,59.0207,Moderate
+856,Brazil,Civil Unrest,2023-11-24,3.1433,74.9572,Low
+857,Brazil,Political Protest,2023-11-24,-28.5685,28.7499,Low
+858,Ethiopia,Civil Unrest,2023-11-25,11.4434,-75.2136,Low
+859,Myanmar,Armed Conflict,2023-11-25,3.182,-95.0186,Low
+860,Pakistan,Armed Conflict,2023-11-25,6.73,-93.8839,Low
+861,Ethiopia,Civil Unrest,2023-11-25,-9.8155,41.1229,Low
+862,Ethiopia,Civil Unrest,2023-11-26,-20.2416,-50.6882,High
+863,Pakistan,Riots,2023-11-26,-0.4717,-67.1681,High
+864,India,Riots,2023-11-27,26.3554,-38.2021,High
+865,Nigeria,Strike,2023-11-27,16.1139,-32.0597,Low
+866,Nigeria,Political Protest,2023-11-27,27.0019,63.6885,Moderate
+867,Nigeria,Border Skirmish,2023-11-28,25.6723,-64.794,Moderate
+868,Ukraine,Political Protest,2023-11-28,-11.4172,-25.0725,Moderate
+869,Nigeria,Political Protest,2023-11-29,32.981,75.371,High
+870,South Sudan,Civil Unrest,2023-11-30,-36.7201,33.9841,Moderate
+871,Ukraine,Strike,2023-11-30,22.4735,-25.2938,Low
+872,Ukraine,Border Skirmish,2023-11-30,22.5851,-96.7808,Low
+873,Ukraine,Strike,2023-11-30,39.3945,-28.1512,High
+874,Brazil,Political Protest,2023-12-01,10.7067,32.7765,Moderate
+875,Brazil,Civil Unrest,2023-12-01,-21.3427,47.1726,Critical
+876,Ukraine,Armed Conflict,2023-12-01,5.7283,-91.5396,Low
+877,Ukraine,Riots,2023-12-02,-2.6036,6.663,High
+878,South Sudan,Armed Conflict,2023-12-02,4.193,1.5286,Low
+879,South Sudan,Riots,2023-12-02,22.1049,42.589,Moderate
+880,Ukraine,Strike,2023-12-02,-1.7648,1.9331,Low
+881,Pakistan,Civil Unrest,2023-12-02,33.5842,-33.8049,Critical
+882,South Sudan,Political Protest,2023-12-03,-23.7574,-86.2426,High
+883,Nigeria,Civil Unrest,2023-12-03,-24.3994,24.7368,High
+884,South Sudan,Border Skirmish,2023-12-03,35.06,-62.4647,Low
+885,Pakistan,Armed Conflict,2023-12-04,-30.0012,7.301,Low
+886,Pakistan,Riots,2023-12-04,35.0625,9.4173,Moderate
+887,Ukraine,Riots,2023-12-04,11.1027,-32.6042,Low
+888,Myanmar,Civil Unrest,2023-12-04,16.6183,59.5866,Critical
+889,Nigeria,Border Skirmish,2023-12-04,-1.7558,-5.2994,Moderate
+890,Nigeria,Civil Unrest,2023-12-04,-34.414,-40.0847,Low
+891,Brazil,Political Protest,2023-12-05,-20.5423,38.7555,Low
+892,Ukraine,Border Skirmish,2023-12-05,20.8539,65.1234,Critical
+893,Myanmar,Armed Conflict,2023-12-06,10.5255,12.5213,High
+894,Myanmar,Riots,2023-12-07,-12.2375,66.4258,Low
+895,India,Civil Unrest,2023-12-07,-24.611,-28.4902,Low
+896,Pakistan,Riots,2023-12-07,-19.4877,-35.2519,Critical
+897,Myanmar,Armed Conflict,2023-12-07,30.1168,20.1111,Low
+898,South Sudan,Border Skirmish,2023-12-08,29.5583,65.3506,Moderate
+899,South Sudan,Political Protest,2023-12-08,39.8279,12.8175,Critical
+900,Ukraine,Political Protest,2023-12-08,-11.4537,52.8015,Low
+901,India,Civil Unrest,2023-12-08,-31.3504,73.1013,Low
+902,Nigeria,Civil Unrest,2023-12-09,-14.0765,81.9499,Low
+903,Ukraine,Strike,2023-12-09,1.6657,-76.2334,Low
+904,India,Border Skirmish,2023-12-09,32.9739,-75.6149,High
+905,South Sudan,Armed Conflict,2023-12-10,-24.4989,-44.9974,Low
+906,Pakistan,Civil Unrest,2023-12-10,-11.6965,-76.284,High
+907,Ukraine,Civil Unrest,2023-12-11,19.9633,-29.3651,Moderate
+908,Ukraine,Civil Unrest,2023-12-11,-21.9206,17.6729,Moderate
+909,India,Armed Conflict,2023-12-12,-17.2953,-0.9152,Moderate
+910,Myanmar,Civil Unrest,2023-12-12,-22.4626,-30.5856,Moderate
+911,Pakistan,Riots,2023-12-12,-24.4728,53.7733,Low
+912,Ukraine,Armed Conflict,2023-12-13,33.4235,34.8935,Moderate
+913,Nigeria,Border Skirmish,2023-12-13,-39.1623,8.2099,Low
+914,Brazil,Border Skirmish,2023-12-14,-6.0752,-54.8354,Moderate
+915,Myanmar,Armed Conflict,2023-12-14,8.4107,14.9058,Low
+916,Brazil,Border Skirmish,2023-12-14,27.5351,-39.2419,Low
+917,South Sudan,Civil Unrest,2023-12-15,-0.3934,-65.1209,Moderate
+918,Ukraine,Border Skirmish,2023-12-15,-25.5304,-30.4592,High
+919,South Sudan,Political Protest,2023-12-15,26.6646,-23.1945,Moderate
+920,Ethiopia,Political Protest,2023-12-16,38.1606,52.3348,Critical
+921,Nigeria,Strike,2023-12-16,-36.6773,84.4566,Low
+922,Nigeria,Riots,2023-12-16,9.1664,-23.7524,Low
+923,Pakistan,Civil Unrest,2023-12-16,11.0589,-12.2916,Low
+924,Pakistan,Armed Conflict,2023-12-17,-16.961,78.3024,Moderate
+925,South Sudan,Border Skirmish,2023-12-19,-16.364,-73.9408,Low
+926,India,Riots,2023-12-19,-22.3773,99.6122,Moderate
+927,Ukraine,Civil Unrest,2023-12-19,6.7032,88.3027,Moderate
+928,Nigeria,Riots,2023-12-19,11.1687,-84.8312,High
+929,Brazil,Armed Conflict,2023-12-20,8.4307,47.2296,Critical
+930,Myanmar,Strike,2023-12-20,35.5151,24.7146,Low
+931,Ethiopia,Riots,2023-12-22,-29.9432,47.0136,Critical
+932,South Sudan,Armed Conflict,2023-12-22,-3.8995,77.2647,Critical
+933,Brazil,Civil Unrest,2023-12-22,-25.8639,13.3685,Low
+934,Ukraine,Armed Conflict,2023-12-22,30.9668,-21.1728,Low
+935,Brazil,Political Protest,2023-12-22,28.0078,-64.9232,Critical
+936,Myanmar,Civil Unrest,2023-12-23,15.6454,27.2884,Moderate
+937,Ukraine,Armed Conflict,2023-12-23,-27.7709,57.5163,Low
+938,Pakistan,Civil Unrest,2023-12-24,-32.0496,-30.4669,High
+939,Brazil,Armed Conflict,2023-12-24,12.9644,51.0044,Low
+940,India,Political Protest,2023-12-25,-13.4315,93.758,High
+941,Myanmar,Armed Conflict,2023-12-26,9.2409,-66.4254,Low
+942,Ukraine,Civil Unrest,2023-12-26,-16.9935,40.4441,High
+943,South Sudan,Riots,2023-12-26,-39.9926,-14.0501,Low
+944,South Sudan,Civil Unrest,2023-12-26,39.7322,-72.2874,Moderate
+945,Ethiopia,Border Skirmish,2023-12-27,-25.5553,-29.8345,Low
+946,Nigeria,Political Protest,2023-12-27,27.365,-20.2935,Low
+947,Brazil,Strike,2023-12-27,-38.6086,61.8173,Critical
+948,Myanmar,Civil Unrest,2023-12-28,-35.0777,74.3553,Moderate
+949,India,Border Skirmish,2023-12-28,7.0841,60.8786,Low
+950,Ethiopia,Riots,2023-12-28,-28.1857,-54.1252,High
+951,Ethiopia,Civil Unrest,2023-12-28,-33.0601,77.5907,Moderate
+952,Brazil,Armed Conflict,2023-12-29,4.2053,-76.9984,Low
+953,Brazil,Strike,2023-12-29,-23.1154,-70.5422,Low
+954,South Sudan,Armed Conflict,2023-12-29,36.3811,-33.7255,Low
+955,Brazil,Riots,2023-12-29,27.4918,-99.8969,Moderate
+956,South Sudan,Civil Unrest,2023-12-29,39.6814,-18.9097,Moderate
+957,Ethiopia,Riots,2023-12-30,-37.4458,-64.9811,High
+958,Ukraine,Riots,2023-12-30,-4.1296,76.0295,Moderate
+959,Pakistan,Border Skirmish,2023-12-30,26.4213,-11.0951,High
+960,Pakistan,Civil Unrest,2023-12-31,-27.0367,-27.3564,High
+961,Pakistan,Political Protest,2023-12-31,12.3356,-29.4735,High
+962,India,Civil Unrest,2023-12-31,-27.0742,18.2575,High
+963,Nigeria,Strike,2023-12-31,-1.9831,-75.6805,Low
+964,Ethiopia,Political Protest,2023-12-31,-30.7475,75.0614,High
+965,India,Political Protest,2024-01-01,16.665,73.0455,Moderate
+966,Ukraine,Armed Conflict,2024-01-01,-22.5975,-73.1666,Low
+967,Myanmar,Riots,2024-01-03,0.8865,53.2593,Moderate
+968,South Sudan,Strike,2024-01-04,25.4308,34.1065,Critical
+969,Ethiopia,Armed Conflict,2024-01-05,18.5795,77.7621,Moderate
+970,Brazil,Strike,2024-01-05,-27.6456,-29.4823,Moderate
+971,Ukraine,Civil Unrest,2024-01-06,7.0103,-34.0171,Moderate
+972,Brazil,Strike,2024-01-06,0.1237,-9.4399,Critical
+973,South Sudan,Political Protest,2024-01-07,0.7292,49.8935,High
+974,Nigeria,Armed Conflict,2024-01-08,-21.541,-60.4263,Low
+975,Pakistan,Civil Unrest,2024-01-08,14.7639,18.3461,Low
+976,Nigeria,Armed Conflict,2024-01-08,-1.1697,44.4788,High
+977,Ethiopia,Civil Unrest,2024-01-09,14.7004,-44.2128,Moderate
+978,Brazil,Armed Conflict,2024-01-09,-39.0004,66.6351,Low
+979,Pakistan,Riots,2024-01-09,-26.2072,7.8617,High
+980,Pakistan,Strike,2024-01-10,36.0921,47.2841,Low
+981,Pakistan,Civil Unrest,2024-01-10,-11.9327,-12.1757,Low
+982,Nigeria,Strike,2024-01-10,23.2242,69.9138,Low
+983,Myanmar,Border Skirmish,2024-01-10,-5.8167,-9.7604,Moderate
+984,Nigeria,Civil Unrest,2024-01-11,-23.2528,-37.0458,Moderate
+985,Myanmar,Civil Unrest,2024-01-11,-31.9269,-48.6071,Low
+986,India,Political Protest,2024-01-11,-1.2924,68.9403,High
+987,Ethiopia,Border Skirmish,2024-01-12,-34.9958,55.1707,Low
+988,Ukraine,Political Protest,2024-01-13,-27.6624,88.2941,Moderate
+989,India,Civil Unrest,2024-01-13,36.7912,62.8621,Moderate
+990,Pakistan,Armed Conflict,2024-01-13,-12.9972,-60.2418,Moderate
+991,Nigeria,Riots,2024-01-14,10.5071,42.7158,Moderate
+992,South Sudan,Riots,2024-01-14,13.6723,98.7755,Low
+993,India,Riots,2024-01-15,-29.6935,-23.7052,Low
+994,Brazil,Strike,2024-01-15,24.5832,28.2966,Moderate
+995,India,Civil Unrest,2024-01-16,-31.198,24.3644,Low
+996,Myanmar,Armed Conflict,2024-01-16,-39.1122,73.7706,High
+997,Pakistan,Riots,2024-01-16,13.7525,-65.5693,Low
+998,South Sudan,Armed Conflict,2024-01-16,9.2732,-57.8105,Low
+999,South Sudan,Strike,2024-01-17,11.5042,-6.0038,Moderate
+1000,India,Political Protest,2024-01-17,-30.9848,96.7886,High
+1001,Myanmar,Riots,2024-01-18,22.5932,-13.9713,Low
+1002,Myanmar,Riots,2024-01-18,-3.6133,28.863,Moderate
+1003,Nigeria,Riots,2024-01-18,-22.8505,-31.0575,Moderate
+1004,South Sudan,Civil Unrest,2024-01-19,-19.0462,97.6654,Low
+1005,Nigeria,Strike,2024-01-19,23.912,-49.7166,High
+1006,Brazil,Riots,2024-01-20,0.6046,-70.0806,Moderate
+1007,Brazil,Strike,2024-01-20,-27.9659,4.0503,Low
+1008,Brazil,Riots,2024-01-21,6.7478,43.3949,Low
+1009,Brazil,Civil Unrest,2024-01-21,-39.8063,95.8728,Moderate
+1010,Brazil,Riots,2024-01-21,11.6874,87.1731,Moderate
+1011,Myanmar,Strike,2024-01-21,14.621,-27.483,Moderate
+1012,Ukraine,Civil Unrest,2024-01-21,12.8589,91.8612,Critical
+1013,Brazil,Border Skirmish,2024-01-22,14.9958,52.1182,Low
+1014,Ukraine,Civil Unrest,2024-01-22,35.5171,-18.6755,Low
+1015,Ethiopia,Border Skirmish,2024-01-22,-12.924,-70.2469,High
+1016,Myanmar,Political Protest,2024-01-22,33.6005,44.0689,Low
+1017,Brazil,Political Protest,2024-01-22,-2.8702,-13.2349,Low
+1018,South Sudan,Political Protest,2024-01-23,8.4257,-4.2753,High
+1019,Myanmar,Riots,2024-01-24,6.4983,16.9351,Moderate
+1020,Pakistan,Political Protest,2024-01-24,-31.0083,-23.7176,High
+1021,Ethiopia,Riots,2024-01-25,-37.3324,98.145,High
+1022,Nigeria,Strike,2024-01-25,7.8156,83.1528,Low
+1023,Nigeria,Border Skirmish,2024-01-25,-32.1884,24.5102,Low
+1024,South Sudan,Civil Unrest,2024-01-26,12.4867,-60.3555,Low
+1025,South Sudan,Riots,2024-01-26,-38.9462,24.348,High
+1026,South Sudan,Civil Unrest,2024-01-26,-17.5864,-62.0136,Moderate
+1027,Ukraine,Border Skirmish,2024-01-27,-14.5938,-73.062,High
+1028,Ethiopia,Strike,2024-01-28,-13.0832,-37.4024,Low
+1029,Brazil,Civil Unrest,2024-01-28,22.447,39.8231,Critical
+1030,South Sudan,Armed Conflict,2024-01-28,26.6104,54.9279,High
+1031,Pakistan,Political Protest,2024-01-28,-10.2584,-51.9805,Low
+1032,Nigeria,Border Skirmish,2024-01-30,-18.2429,21.5813,Moderate
+1033,Myanmar,Political Protest,2024-01-30,39.8308,-21.2506,Moderate
+1034,South Sudan,Political Protest,2024-01-30,22.3305,-60.217,Low
+1035,Ethiopia,Border Skirmish,2024-01-30,-18.1458,20.1069,Moderate
+1036,Brazil,Border Skirmish,2024-01-31,-33.8338,74.8047,Low
+1037,Myanmar,Political Protest,2024-01-31,38.7759,-12.8789,Low
+1038,Myanmar,Riots,2024-01-31,-15.0797,69.1469,Moderate
+1039,India,Riots,2024-01-31,7.2962,-70.2831,Critical
+1040,Pakistan,Riots,2024-02-01,-31.1914,-54.8316,Low
+1041,Nigeria,Armed Conflict,2024-02-01,-8.3881,-51.9814,Moderate
+1042,Myanmar,Political Protest,2024-02-01,33.813,68.2161,Moderate
+1043,India,Political Protest,2024-02-01,35.7903,-83.1424,High
+1044,Ethiopia,Riots,2024-02-01,23.766,-44.3055,Low
+1045,India,Border Skirmish,2024-02-01,13.6545,-48.8184,Moderate
+1046,India,Border Skirmish,2024-02-01,4.172,-43.3387,Low
+1047,Ukraine,Armed Conflict,2024-02-02,-19.4563,43.6007,Low
+1048,Brazil,Political Protest,2024-02-02,5.6909,41.8102,Moderate
+1049,Nigeria,Strike,2024-02-02,33.8471,-11.1115,Moderate
+1050,South Sudan,Riots,2024-02-02,-18.3362,-43.3616,Low
+1051,India,Civil Unrest,2024-02-02,22.5549,-54.3454,Moderate
+1052,Brazil,Civil Unrest,2024-02-03,-38.5025,-79.8582,Critical
+1053,Myanmar,Political Protest,2024-02-03,23.3837,-10.1537,Moderate
+1054,Pakistan,Strike,2024-02-03,32.7759,-91.8725,Low
+1055,Ukraine,Strike,2024-02-03,-24.1805,22.8037,High
+1056,India,Civil Unrest,2024-02-03,15.9586,7.3424,Moderate
+1057,South Sudan,Border Skirmish,2024-02-03,-34.9208,-84.0625,Low
+1058,Brazil,Border Skirmish,2024-02-04,-8.9818,18.1801,Low
+1059,Myanmar,Riots,2024-02-04,35.7692,44.6252,Low
+1060,South Sudan,Civil Unrest,2024-02-05,-11.5231,49.4554,Low
+1061,Nigeria,Strike,2024-02-05,31.1717,37.2171,High
+1062,Nigeria,Strike,2024-02-05,-17.1877,-76.3742,High
+1063,Nigeria,Border Skirmish,2024-02-05,37.7765,68.5236,Critical
+1064,India,Civil Unrest,2024-02-05,8.0574,26.3663,High
+1065,Ukraine,Border Skirmish,2024-02-05,-9.5274,-36.4128,Low
+1066,India,Civil Unrest,2024-02-05,14.7586,63.6216,Moderate
+1067,India,Riots,2024-02-05,-15.5307,11.0981,High
+1068,South Sudan,Political Protest,2024-02-06,-39.3065,85.5391,High
+1069,South Sudan,Civil Unrest,2024-02-06,-27.7935,-31.4763,High
+1070,Ethiopia,Political Protest,2024-02-06,-11.9565,-42.4192,Low
+1071,Nigeria,Border Skirmish,2024-02-07,-25.9723,83.947,High
+1072,Ukraine,Riots,2024-02-08,-12.5917,48.5985,Critical
+1073,South Sudan,Armed Conflict,2024-02-08,35.9261,83.9896,Critical
+1074,Nigeria,Strike,2024-02-08,34.2879,3.7848,Low
+1075,Ukraine,Political Protest,2024-02-08,-7.8949,-13.0459,Moderate
+1076,South Sudan,Strike,2024-02-09,11.1363,39.6261,Low
+1077,Ukraine,Civil Unrest,2024-02-09,-27.6295,-83.0673,Moderate
+1078,Pakistan,Riots,2024-02-09,-8.8082,-97.3316,Moderate
+1079,South Sudan,Border Skirmish,2024-02-10,9.0097,87.6911,Low
+1080,Myanmar,Strike,2024-02-10,21.7303,-44.7486,Moderate
+1081,Myanmar,Border Skirmish,2024-02-10,-24.6388,42.3023,Moderate
+1082,Nigeria,Political Protest,2024-02-10,31.8394,93.6585,Low
+1083,Brazil,Border Skirmish,2024-02-10,-17.0952,-18.5539,Moderate
+1084,Ukraine,Riots,2024-02-11,-17.0578,-26.173,Moderate
+1085,South Sudan,Border Skirmish,2024-02-11,5.1433,-26.8875,High
+1086,India,Border Skirmish,2024-02-11,39.8726,96.9918,Low
+1087,Brazil,Border Skirmish,2024-02-11,13.5403,-38.926,Moderate
+1088,Myanmar,Civil Unrest,2024-02-12,15.7482,0.5562,High
+1089,South Sudan,Political Protest,2024-02-12,-30.3475,74.9791,Moderate
+1090,Pakistan,Riots,2024-02-12,28.6345,-89.6895,Critical
+1091,Nigeria,Political Protest,2024-02-13,23.5335,-66.4676,High
+1092,India,Civil Unrest,2024-02-14,33.737,16.1032,Moderate
+1093,Brazil,Riots,2024-02-16,-20.5326,-78.2953,High
+1094,India,Political Protest,2024-02-16,-6.7777,19.0183,Low
+1095,India,Riots,2024-02-16,21.1464,68.8054,Low
+1096,India,Political Protest,2024-02-17,20.5512,16.1954,Low
+1097,South Sudan,Strike,2024-02-17,-14.507,-7.6912,Moderate
+1098,Ethiopia,Civil Unrest,2024-02-18,37.7005,34.7475,Moderate
+1099,Brazil,Riots,2024-02-18,-16.7042,-7.5527,Low
+1100,Nigeria,Strike,2024-02-18,11.3578,92.0032,Critical
+1101,Brazil,Border Skirmish,2024-02-18,26.0987,-5.0513,Moderate
+1102,Pakistan,Political Protest,2024-02-18,-24.8054,40.0305,Moderate
+1103,Myanmar,Riots,2024-02-22,4.7675,-90.3256,High
+1104,Myanmar,Strike,2024-02-22,-34.3709,95.8002,Low
+1105,Nigeria,Political Protest,2024-02-23,-18.9307,-70.5794,Low
+1106,Brazil,Strike,2024-02-23,30.2196,-51.3382,Moderate
+1107,South Sudan,Riots,2024-02-23,-32.5786,54.1798,Low
+1108,Ukraine,Riots,2024-02-23,26.0759,-90.3599,High
+1109,South Sudan,Riots,2024-02-24,32.7893,-8.5647,High
+1110,India,Political Protest,2024-02-24,-13.6777,86.0117,High
+1111,Brazil,Civil Unrest,2024-02-24,27.8641,81.8564,High
+1112,Nigeria,Border Skirmish,2024-02-24,-4.2855,-33.1153,Low
+1113,South Sudan,Civil Unrest,2024-02-24,18.8673,-15.8405,Low
+1114,India,Strike,2024-02-24,-13.4113,30.5656,High
+1115,Ukraine,Riots,2024-02-25,28.0315,18.3207,Critical
+1116,Myanmar,Riots,2024-02-25,-16.0041,-44.425,Low
+1117,South Sudan,Strike,2024-02-25,28.0677,14.1931,High
+1118,Pakistan,Civil Unrest,2024-02-26,11.531,-14.4466,High
+1119,Ukraine,Border Skirmish,2024-02-26,-15.5777,-26.3184,Low
+1120,Pakistan,Armed Conflict,2024-02-26,31.1008,49.7665,Low
+1121,Nigeria,Strike,2024-02-26,22.1999,-26.3863,Low
+1122,Brazil,Border Skirmish,2024-02-27,-13.6347,71.8571,Moderate
+1123,India,Riots,2024-02-28,-18.4357,-34.7117,High
+1124,Ukraine,Strike,2024-02-29,-13.6138,20.2256,High
+1125,Ethiopia,Political Protest,2024-02-29,8.6325,11.7937,Low
+1126,South Sudan,Political Protest,2024-02-29,18.6324,-63.2692,Moderate
+1127,Nigeria,Border Skirmish,2024-02-29,-22.0361,18.026,Moderate
+1128,Myanmar,Armed Conflict,2024-03-01,-29.1277,-82.5189,Moderate
+1129,Myanmar,Armed Conflict,2024-03-02,14.9767,27.9994,Low
+1130,Ukraine,Armed Conflict,2024-03-02,3.419,75.4143,Low
+1131,Brazil,Political Protest,2024-03-02,31.9866,90.1115,Low
+1132,South Sudan,Political Protest,2024-03-03,-35.0659,-45.291,Moderate
+1133,India,Armed Conflict,2024-03-03,-4.8027,67.1725,Moderate
+1134,Brazil,Political Protest,2024-03-03,-9.2452,-72.9564,Moderate
+1135,Ukraine,Riots,2024-03-04,-26.8739,-27.0181,High
+1136,South Sudan,Strike,2024-03-05,4.9843,74.4525,High
+1137,South Sudan,Border Skirmish,2024-03-06,-30.1888,-81.1449,Moderate
+1138,Pakistan,Armed Conflict,2024-03-06,-25.581,75.6543,Critical
+1139,Myanmar,Political Protest,2024-03-06,34.3142,-4.0786,High
+1140,South Sudan,Civil Unrest,2024-03-07,2.9891,-57.5163,High
+1141,Brazil,Armed Conflict,2024-03-07,22.8538,1.9142,Low
+1142,Ukraine,Civil Unrest,2024-03-07,-1.7785,34.4891,High
+1143,Pakistan,Armed Conflict,2024-03-07,-8.244,80.1978,Low
+1144,Brazil,Strike,2024-03-09,-20.9107,-7.7617,Moderate
+1145,South Sudan,Border Skirmish,2024-03-10,12.4864,3.451,Moderate
+1146,Myanmar,Political Protest,2024-03-10,-11.3336,-75.2413,Moderate
+1147,Myanmar,Armed Conflict,2024-03-10,26.4451,-47.0899,Low
+1148,Ethiopia,Armed Conflict,2024-03-10,-21.375,67.4298,Moderate
+1149,India,Civil Unrest,2024-03-10,-33.5437,-66.4718,Moderate
+1150,Nigeria,Armed Conflict,2024-03-11,-3.6522,-64.2643,Low
+1151,Ethiopia,Political Protest,2024-03-11,-15.4932,-59.4212,Moderate
+1152,Myanmar,Political Protest,2024-03-12,-29.843,-66.735,High
+1153,Ethiopia,Armed Conflict,2024-03-13,-6.8852,-11.7872,Low
+1154,Nigeria,Political Protest,2024-03-13,10.4916,16.218,Low
+1155,Myanmar,Border Skirmish,2024-03-13,-5.0116,-49.5093,Critical
+1156,South Sudan,Armed Conflict,2024-03-15,1.8145,75.2248,Moderate
+1157,Ukraine,Civil Unrest,2024-03-16,-33.7017,95.5709,Low
+1158,South Sudan,Strike,2024-03-16,9.726,5.2242,Moderate
+1159,Ukraine,Political Protest,2024-03-17,39.4894,43.8511,Critical
+1160,Myanmar,Riots,2024-03-17,30.6516,-40.3667,High
+1161,Ukraine,Border Skirmish,2024-03-17,-29.27,12.4071,High
+1162,Ukraine,Riots,2024-03-17,5.6357,-89.928,Moderate
+1163,Pakistan,Strike,2024-03-17,39.2001,-46.1585,Low
+1164,Myanmar,Armed Conflict,2024-03-18,16.5841,1.5097,Low
+1165,Ukraine,Strike,2024-03-18,37.6646,-87.8068,High
+1166,Ethiopia,Border Skirmish,2024-03-18,7.1371,47.262,Low
+1167,Ethiopia,Political Protest,2024-03-19,5.5209,50.9324,Moderate
+1168,Nigeria,Political Protest,2024-03-20,-22.1413,-63.0194,Low
+1169,India,Armed Conflict,2024-03-20,33.1636,87.1799,Low
+1170,Myanmar,Strike,2024-03-20,3.2479,85.8491,Moderate
+1171,Brazil,Armed Conflict,2024-03-20,29.3408,-25.3066,Low
+1172,India,Political Protest,2024-03-20,-13.5076,-54.105,Low
+1173,Pakistan,Civil Unrest,2024-03-20,-7.8652,-92.9551,Moderate
+1174,Ukraine,Strike,2024-03-21,33.1618,-98.7404,High
+1175,Ethiopia,Border Skirmish,2024-03-21,4.3518,-56.3509,Low
+1176,India,Civil Unrest,2024-03-21,36.2316,16.0543,Critical
+1177,India,Riots,2024-03-22,33.5422,33.0994,Low
+1178,Ukraine,Armed Conflict,2024-03-22,4.2463,-12.6862,Low
+1179,Nigeria,Political Protest,2024-03-22,17.7584,-1.4498,High
+1180,India,Border Skirmish,2024-03-23,-14.2328,-10.753,Low
+1181,Myanmar,Riots,2024-03-23,1.6475,57.3084,Moderate
+1182,Pakistan,Strike,2024-03-24,24.5807,85.6832,Low
+1183,Nigeria,Riots,2024-03-24,22.4539,83.6756,Moderate
+1184,Myanmar,Strike,2024-03-24,-31.905,34.5136,Moderate
+1185,Ethiopia,Political Protest,2024-03-24,-22.2875,21.0167,Low
+1186,Ukraine,Civil Unrest,2024-03-25,-35.8953,-34.4097,Low
+1187,Ethiopia,Strike,2024-03-25,7.9259,-92.4805,High
+1188,Ethiopia,Strike,2024-03-25,8.261,2.6251,Low
+1189,Nigeria,Riots,2024-03-25,17.2956,84.7165,Low
+1190,Myanmar,Strike,2024-03-27,-12.4378,-4.2584,High
+1191,Ethiopia,Political Protest,2024-03-28,-24.7026,-77.3187,Moderate
+1192,Ukraine,Civil Unrest,2024-03-28,12.3993,-30.9482,Low
+1193,Nigeria,Civil Unrest,2024-03-28,-17.8084,6.4267,Moderate
+1194,Pakistan,Strike,2024-03-28,-23.2869,-9.1834,High
+1195,Ukraine,Riots,2024-03-28,30.0025,16.2257,High
+1196,Pakistan,Political Protest,2024-03-29,-19.3274,-12.7221,Low
+1197,Pakistan,Border Skirmish,2024-03-29,6.8415,28.6732,Moderate
+1198,Brazil,Border Skirmish,2024-03-29,24.4399,15.0349,Low
+1199,Ukraine,Riots,2024-03-29,12.4831,31.1662,High
+1200,Pakistan,Armed Conflict,2024-03-30,-4.4254,-55.8205,High
+1201,Ethiopia,Political Protest,2024-03-30,-35.6043,40.6864,Moderate
+1202,India,Riots,2024-03-30,-22.2298,52.2525,Low
+1203,India,Civil Unrest,2024-03-30,-25.2571,-30.5695,Low
+1204,Pakistan,Riots,2024-03-30,-36.463,-86.3272,Moderate
+1205,Nigeria,Strike,2024-03-31,-38.4681,70.4551,High
+1206,Nigeria,Armed Conflict,2024-03-31,10.0507,-8.4148,Low
+1207,South Sudan,Civil Unrest,2024-03-31,-37.11,-32.5622,High
+1208,Nigeria,Political Protest,2024-03-31,-8.9387,93.3595,Critical
+1209,Ukraine,Civil Unrest,2024-03-31,16.8415,11.6691,Moderate
+1210,Myanmar,Border Skirmish,2024-03-31,-35.9648,-69.5517,Low
+1211,Brazil,Civil Unrest,2024-04-01,-27.729,-75.0684,Low
+1212,Nigeria,Border Skirmish,2024-04-01,-12.2389,-65.9279,Critical
+1213,Nigeria,Border Skirmish,2024-04-01,14.0446,-14.5884,Moderate
+1214,Pakistan,Border Skirmish,2024-04-01,-9.1125,36.767,Moderate
+1215,Nigeria,Strike,2024-04-01,-32.9793,32.4199,Low
+1216,Brazil,Riots,2024-04-03,19.5774,23.1746,Moderate
+1217,Myanmar,Border Skirmish,2024-04-03,-1.3146,-27.4723,Low
+1218,Nigeria,Political Protest,2024-04-03,28.6422,-15.9379,High
+1219,Brazil,Strike,2024-04-03,5.0068,-40.3737,Moderate
+1220,Nigeria,Strike,2024-04-04,-0.2964,60.963,Moderate
+1221,Myanmar,Armed Conflict,2024-04-04,20.6535,-81.5185,Low
+1222,Ukraine,Civil Unrest,2024-04-04,-7.5361,-43.2259,Critical
+1223,Pakistan,Armed Conflict,2024-04-04,-33.4404,-11.8271,Low
+1224,Pakistan,Civil Unrest,2024-04-04,-8.4142,-44.3752,High
+1225,Nigeria,Political Protest,2024-04-04,-5.4843,-30.8127,Low
+1226,Pakistan,Civil Unrest,2024-04-05,22.1874,67.6381,Low
+1227,Ukraine,Strike,2024-04-05,-4.819,63.5344,High
+1228,Myanmar,Armed Conflict,2024-04-05,6.901,8.4334,High
+1229,South Sudan,Armed Conflict,2024-04-07,-38.5496,-66.5075,Low
+1230,Ukraine,Riots,2024-04-07,11.3879,54.2244,Moderate
+1231,Pakistan,Political Protest,2024-04-08,25.6336,-13.0817,High
+1232,South Sudan,Riots,2024-04-09,39.4231,9.8329,Low
+1233,Ethiopia,Political Protest,2024-04-09,32.251,-98.9507,Moderate
+1234,Pakistan,Riots,2024-04-09,-29.3459,-18.2649,Moderate
+1235,Brazil,Armed Conflict,2024-04-10,1.1102,-93.8409,Moderate
+1236,Pakistan,Civil Unrest,2024-04-11,-28.7133,-68.9152,Moderate
+1237,Ethiopia,Armed Conflict,2024-04-11,-27.5347,-23.0911,High
+1238,Pakistan,Political Protest,2024-04-11,-11.5678,-58.2703,Moderate
+1239,India,Strike,2024-04-11,-21.0503,-84.6673,High
+1240,Pakistan,Civil Unrest,2024-04-12,-28.5145,75.8699,Low
+1241,Ethiopia,Political Protest,2024-04-12,-14.879,79.0759,Low
+1242,Nigeria,Riots,2024-04-13,8.2418,-90.8388,Low
+1243,Nigeria,Political Protest,2024-04-14,16.7469,-77.4305,Critical
+1244,Ukraine,Strike,2024-04-14,-20.1237,24.2936,Low
+1245,Brazil,Strike,2024-04-15,-19.1043,22.7272,Critical
+1246,Myanmar,Strike,2024-04-15,-25.56,-42.4266,Low
+1247,South Sudan,Riots,2024-04-15,8.0595,58.4787,Moderate
+1248,Ethiopia,Armed Conflict,2024-04-15,23.1713,-98.093,Low
+1249,Ethiopia,Armed Conflict,2024-04-15,-31.0844,-98.1097,Low
+1250,Nigeria,Armed Conflict,2024-04-17,-8.8173,-60.5964,Low
+1251,Ethiopia,Armed Conflict,2024-04-17,-12.186,-43.6977,Moderate
+1252,Pakistan,Civil Unrest,2024-04-18,13.5786,-19.968,Moderate
+1253,Myanmar,Political Protest,2024-04-18,-17.157,-95.807,Moderate
+1254,India,Political Protest,2024-04-18,-27.5843,28.5123,Low
+1255,India,Strike,2024-04-19,7.3408,-13.1358,Low
+1256,Brazil,Political Protest,2024-04-19,5.9802,21.3752,Moderate
+1257,Ukraine,Political Protest,2024-04-20,35.7161,10.0533,High
+1258,India,Strike,2024-04-20,23.2557,-55.9369,Critical
+1259,Myanmar,Civil Unrest,2024-04-20,-9.7806,-18.0481,High
+1260,Ukraine,Border Skirmish,2024-04-20,28.0763,-77.0753,Low
+1261,Pakistan,Civil Unrest,2024-04-20,-10.7842,96.8919,Moderate
+1262,India,Armed Conflict,2024-04-20,-4.3244,87.2365,Low
+1263,Myanmar,Armed Conflict,2024-04-20,-4.7844,27.9406,Low
+1264,Brazil,Political Protest,2024-04-21,2.3488,-67.2708,Low
+1265,Pakistan,Border Skirmish,2024-04-21,32.6809,68.1499,Low
+1266,Brazil,Border Skirmish,2024-04-21,-33.4012,33.355,Moderate
+1267,Brazil,Border Skirmish,2024-04-22,-27.8352,30.7663,High
+1268,India,Riots,2024-04-22,-13.5802,52.7372,Low
+1269,Pakistan,Riots,2024-04-22,9.1185,7.2533,Moderate
+1270,Brazil,Political Protest,2024-04-24,-9.8813,-5.9927,Moderate
+1271,Pakistan,Political Protest,2024-04-24,13.4388,63.4688,Low
+1272,Ethiopia,Riots,2024-04-25,23.4129,-56.0639,High
+1273,Ethiopia,Civil Unrest,2024-04-25,23.8695,-37.0473,Critical
+1274,Ethiopia,Strike,2024-04-26,20.1259,96.1264,Low
+1275,India,Political Protest,2024-04-26,16.1758,-1.198,Moderate
+1276,South Sudan,Armed Conflict,2024-04-26,25.9711,50.3332,Low
+1277,Ethiopia,Strike,2024-04-27,16.2869,-71.5672,Moderate
+1278,Pakistan,Armed Conflict,2024-04-27,23.0086,-51.1312,Low
+1279,Nigeria,Armed Conflict,2024-04-27,11.2507,20.9875,Low
+1280,Myanmar,Riots,2024-04-27,-13.1255,51.0296,High
+1281,India,Strike,2024-04-27,-9.6932,-35.5385,Moderate
+1282,Myanmar,Civil Unrest,2024-04-28,-31.3123,-67.9783,High
+1283,South Sudan,Civil Unrest,2024-04-28,24.8646,-96.664,Low
+1284,India,Armed Conflict,2024-04-29,-19.7725,-85.4326,High
+1285,Ukraine,Armed Conflict,2024-04-29,17.3621,26.0361,Low
+1286,Pakistan,Civil Unrest,2024-04-29,3.709,49.9806,High
+1287,Ukraine,Strike,2024-04-29,24.6419,13.9394,Moderate
+1288,Ukraine,Political Protest,2024-04-29,2.8987,8.835,Moderate
+1289,Ukraine,Civil Unrest,2024-04-29,25.6018,-51.3098,Low
+1290,Brazil,Civil Unrest,2024-04-30,17.0998,89.7245,High
+1291,Pakistan,Civil Unrest,2024-05-02,13.2471,-85.5604,High
+1292,Pakistan,Armed Conflict,2024-05-02,-13.0201,-59.8199,High
+1293,Pakistan,Political Protest,2024-05-02,-22.1058,-48.4937,Moderate
+1294,Ukraine,Strike,2024-05-02,-4.9788,62.2884,Moderate
+1295,Myanmar,Armed Conflict,2024-05-03,25.9219,59.9,Moderate
+1296,Nigeria,Political Protest,2024-05-03,-15.515,77.7422,High
+1297,Brazil,Armed Conflict,2024-05-03,-8.5461,33.2566,High
+1298,Ethiopia,Riots,2024-05-03,-10.3202,88.4988,Low
+1299,South Sudan,Strike,2024-05-03,30.8734,68.5708,Low
+1300,Ukraine,Armed Conflict,2024-05-04,4.0151,-74.9635,Moderate
+1301,Myanmar,Civil Unrest,2024-05-04,-15.2027,-71.8516,Low
+1302,Brazil,Riots,2024-05-04,19.1851,75.0601,Low
+1303,Myanmar,Civil Unrest,2024-05-04,34.8917,64.5373,High
+1304,Nigeria,Riots,2024-05-05,-13.5678,48.1746,Moderate
+1305,Nigeria,Border Skirmish,2024-05-05,-18.1209,93.4881,Low
+1306,South Sudan,Civil Unrest,2024-05-06,-35.5887,19.7673,Critical
+1307,Ethiopia,Strike,2024-05-06,-10.0012,20.2374,Moderate
+1308,Myanmar,Border Skirmish,2024-05-06,-39.2559,-3.6251,Low
+1309,Pakistan,Political Protest,2024-05-07,-27.9945,49.742,Low
+1310,Nigeria,Border Skirmish,2024-05-07,37.0808,23.5566,Moderate
+1311,Myanmar,Riots,2024-05-07,14.8319,-76.7098,Low
+1312,Nigeria,Armed Conflict,2024-05-07,27.6293,-62.6537,High
+1313,Ukraine,Border Skirmish,2024-05-08,12.8404,82.9059,Low
+1314,Pakistan,Strike,2024-05-08,-28.2262,-57.9902,Critical
+1315,Brazil,Border Skirmish,2024-05-08,-16.4935,22.4004,High
+1316,Nigeria,Border Skirmish,2024-05-08,0.6199,91.189,High
+1317,India,Civil Unrest,2024-05-09,-31.2341,56.9175,Critical
+1318,Pakistan,Political Protest,2024-05-09,12.0675,-93.9324,Moderate
+1319,Pakistan,Political Protest,2024-05-11,27.058,-13.3135,Critical
+1320,Ukraine,Strike,2024-05-11,-28.6096,10.1695,Low
+1321,Pakistan,Civil Unrest,2024-05-11,16.8323,-2.6822,Moderate
+1322,India,Border Skirmish,2024-05-11,39.4417,94.4297,Moderate
+1323,Nigeria,Political Protest,2024-05-11,-32.2697,-86.4008,Moderate
+1324,Myanmar,Strike,2024-05-12,26.1342,-7.8412,Critical
+1325,India,Political Protest,2024-05-13,-17.0245,-75.7677,High
+1326,Myanmar,Civil Unrest,2024-05-13,-8.168,-60.5175,High
+1327,Pakistan,Riots,2024-05-13,6.906,-72.4711,Low
+1328,Nigeria,Riots,2024-05-14,-26.3768,68.4066,High
+1329,Pakistan,Border Skirmish,2024-05-14,9.1691,37.6997,Low
+1330,India,Riots,2024-05-14,8.8537,56.8267,Low
+1331,Pakistan,Border Skirmish,2024-05-14,15.5434,83.8164,High
+1332,Pakistan,Strike,2024-05-15,32.2416,-59.3401,Critical
+1333,Pakistan,Political Protest,2024-05-15,-25.3463,53.4988,High
+1334,South Sudan,Political Protest,2024-05-16,14.4264,-7.315,Low
+1335,India,Political Protest,2024-05-16,-11.1072,51.2047,Moderate
+1336,South Sudan,Political Protest,2024-05-17,-5.885,51.4895,Low
+1337,Brazil,Border Skirmish,2024-05-17,6.2345,-41.3157,Low
+1338,Myanmar,Civil Unrest,2024-05-17,-3.8493,-96.9975,Moderate
+1339,Pakistan,Civil Unrest,2024-05-18,-30.1293,-22.1436,Low
+1340,Pakistan,Riots,2024-05-18,38.0785,-30.8177,Moderate
+1341,Myanmar,Armed Conflict,2024-05-18,14.4682,-51.5156,High
+1342,Ethiopia,Armed Conflict,2024-05-19,14.9536,42.6275,Moderate
+1343,Brazil,Border Skirmish,2024-05-19,-13.7247,95.2036,Low
+1344,South Sudan,Political Protest,2024-05-20,36.6376,34.5635,Low
+1345,Pakistan,Riots,2024-05-21,-6.2342,35.7812,High
+1346,Pakistan,Armed Conflict,2024-05-22,-29.3646,-49.6668,Low
+1347,India,Riots,2024-05-22,-39.0583,36.6051,Moderate
+1348,Brazil,Border Skirmish,2024-05-23,33.1072,51.6002,Low
+1349,Ethiopia,Armed Conflict,2024-05-23,-39.2143,5.7235,High
+1350,Myanmar,Border Skirmish,2024-05-23,-29.0807,-70.8495,Low
+1351,South Sudan,Armed Conflict,2024-05-23,10.8281,-66.4673,Low
+1352,Myanmar,Strike,2024-05-24,-23.9793,85.9875,Low
+1353,Brazil,Armed Conflict,2024-05-24,36.7409,11.6106,Moderate
+1354,Pakistan,Riots,2024-05-24,-22.4491,-55.366,Low
+1355,Myanmar,Civil Unrest,2024-05-25,-35.0966,-13.1955,Low
+1356,Pakistan,Riots,2024-05-25,-18.1426,-39.6085,Low
+1357,India,Border Skirmish,2024-05-25,19.0279,-59.5741,Moderate
+1358,Nigeria,Riots,2024-05-25,-36.8767,-1.6523,Low
+1359,Ethiopia,Armed Conflict,2024-05-25,-21.7319,8.8663,Moderate
+1360,India,Armed Conflict,2024-05-26,-16.1464,-63.935,Moderate
+1361,Pakistan,Civil Unrest,2024-05-27,-19.4696,-28.275,High
+1362,Pakistan,Border Skirmish,2024-05-27,-35.7152,81.3061,Low
+1363,Brazil,Armed Conflict,2024-05-27,-3.0553,39.0671,Low
+1364,Myanmar,Political Protest,2024-05-28,27.9517,-83.6629,Critical
+1365,Ukraine,Political Protest,2024-05-28,31.3961,48.7679,Low
+1366,Brazil,Armed Conflict,2024-05-29,8.1055,-47.6253,Low
+1367,Pakistan,Riots,2024-05-29,-8.1753,99.4371,Low
+1368,Brazil,Border Skirmish,2024-05-29,12.3594,-24.2194,Moderate
+1369,Nigeria,Armed Conflict,2024-05-29,-30.418,45.8627,Low
+1370,India,Political Protest,2024-05-30,30.0254,-33.4597,Critical
+1371,Ethiopia,Political Protest,2024-05-30,-12.3572,46.9104,Low
+1372,Nigeria,Riots,2024-05-30,10.5883,79.1832,Critical
+1373,South Sudan,Armed Conflict,2024-05-30,-29.383,7.304,Critical
+1374,Brazil,Strike,2024-05-30,3.614,28.6227,Low
+1375,South Sudan,Border Skirmish,2024-05-30,-9.1829,-53.837,Critical
+1376,Pakistan,Strike,2024-05-30,-2.5117,12.8272,Low
+1377,Ukraine,Strike,2024-05-31,-32.3093,-23.1971,High
+1378,Ethiopia,Political Protest,2024-05-31,-19.7428,-60.1755,Moderate
+1379,Myanmar,Civil Unrest,2024-05-31,3.5656,-44.0438,Moderate
+1380,Nigeria,Political Protest,2024-05-31,-37.9685,-99.6924,Moderate
+1381,Ukraine,Political Protest,2024-06-01,20.9214,51.1349,Low
+1382,Nigeria,Strike,2024-06-01,-9.8111,7.659,High
+1383,Brazil,Strike,2024-06-02,24.2119,62.5596,Moderate
+1384,South Sudan,Armed Conflict,2024-06-02,27.1311,66.655,Critical
+1385,South Sudan,Riots,2024-06-03,20.5756,84.2001,Low
+1386,India,Armed Conflict,2024-06-03,5.1471,-1.0944,Moderate
+1387,Ethiopia,Border Skirmish,2024-06-03,6.9836,99.9285,High
+1388,Myanmar,Strike,2024-06-03,19.7735,0.2696,High
+1389,Brazil,Armed Conflict,2024-06-03,-30.0733,86.6744,Moderate
+1390,Nigeria,Border Skirmish,2024-06-03,-33.4988,-76.2437,Moderate
+1391,Pakistan,Border Skirmish,2024-06-04,18.6911,-48.0444,Low
+1392,Ukraine,Civil Unrest,2024-06-04,-6.6743,-6.4658,Low
+1393,Ethiopia,Civil Unrest,2024-06-04,0.7623,-44.0002,Low
+1394,Nigeria,Political Protest,2024-06-04,25.8543,32.9621,Moderate
+1395,Brazil,Border Skirmish,2024-06-04,-1.1,55.9924,Moderate
+1396,Pakistan,Civil Unrest,2024-06-05,-23.6495,-51.6639,Low
+1397,Brazil,Border Skirmish,2024-06-05,13.9351,-7.103,Low
+1398,South Sudan,Political Protest,2024-06-06,-25.127,-14.9688,Moderate
+1399,South Sudan,Civil Unrest,2024-06-06,24.0684,79.3021,High
+1400,Nigeria,Civil Unrest,2024-06-07,20.8347,-68.5236,Low
+1401,Pakistan,Armed Conflict,2024-06-07,-23.2076,-69.5479,Critical
+1402,India,Armed Conflict,2024-06-07,-35.4615,29.2609,Low
+1403,Pakistan,Armed Conflict,2024-06-08,-8.0747,-75.4545,Moderate
+1404,Brazil,Strike,2024-06-08,6.2163,20.9531,Low
+1405,India,Riots,2024-06-09,9.8591,70.9258,Moderate
+1406,South Sudan,Border Skirmish,2024-06-09,-26.2581,-41.6329,High
+1407,Nigeria,Riots,2024-06-09,22.5115,16.8783,Critical
+1408,South Sudan,Armed Conflict,2024-06-09,-39.1992,-60.4442,Moderate
+1409,Brazil,Political Protest,2024-06-09,16.3552,-33.4788,High
+1410,India,Political Protest,2024-06-10,36.3082,40.739,Low
+1411,India,Armed Conflict,2024-06-10,20.908,88.8223,Moderate
+1412,Nigeria,Riots,2024-06-12,-7.1183,1.6741,High
+1413,India,Political Protest,2024-06-13,23.9557,24.5011,Low
+1414,Myanmar,Border Skirmish,2024-06-14,-6.1903,13.1399,Low
+1415,Myanmar,Political Protest,2024-06-15,-35.8098,71.9835,Moderate
+1416,Ethiopia,Political Protest,2024-06-15,-39.5603,20.2905,Moderate
+1417,Myanmar,Armed Conflict,2024-06-15,28.1119,9.5936,High
+1418,Ethiopia,Strike,2024-06-16,-36.0913,-93.6262,Moderate
+1419,Ukraine,Civil Unrest,2024-06-16,-38.9857,72.2168,High
+1420,India,Border Skirmish,2024-06-16,-28.4197,-18.1165,Low
+1421,Ethiopia,Armed Conflict,2024-06-17,-25.3285,13.7471,Low
+1422,Ethiopia,Strike,2024-06-17,35.7834,-6.4383,Low
+1423,Ethiopia,Civil Unrest,2024-06-18,10.7671,-38.8741,Critical
+1424,South Sudan,Political Protest,2024-06-19,-27.0676,12.2188,Moderate
+1425,Myanmar,Border Skirmish,2024-06-19,7.6741,46.5758,Low
+1426,Ukraine,Border Skirmish,2024-06-20,-11.1371,5.599,High
+1427,Ethiopia,Strike,2024-06-20,-36.5671,-92.6332,High
+1428,Pakistan,Political Protest,2024-06-20,-32.4159,-10.024,Critical
+1429,Myanmar,Border Skirmish,2024-06-21,-10.5383,-18.5114,Critical
+1430,Ukraine,Strike,2024-06-23,-28.0148,6.765,Low
+1431,Brazil,Armed Conflict,2024-06-23,36.9321,42.7786,High
+1432,Brazil,Strike,2024-06-23,4.9612,4.9015,Moderate
+1433,Nigeria,Civil Unrest,2024-06-23,16.2497,-92.0038,Low
+1434,Pakistan,Armed Conflict,2024-06-23,11.8063,-76.4302,Critical
+1435,India,Strike,2024-06-23,23.7753,-35.3653,Moderate
+1436,Myanmar,Strike,2024-06-24,-35.8565,69.3497,Moderate
+1437,Pakistan,Border Skirmish,2024-06-24,39.0723,93.2489,High
+1438,South Sudan,Political Protest,2024-06-24,-23.3973,15.2747,High
+1439,Ukraine,Political Protest,2024-06-25,-11.3508,92.9478,Critical
+1440,Ukraine,Civil Unrest,2024-06-25,10.181,-71.3747,Moderate
+1441,South Sudan,Political Protest,2024-06-25,-24.7141,28.0802,High
+1442,Brazil,Civil Unrest,2024-06-25,-22.2128,-25.0703,Moderate
+1443,Myanmar,Civil Unrest,2024-06-26,-26.7896,-87.0972,Low
+1444,Pakistan,Armed Conflict,2024-06-26,-33.0592,-14.7893,Low
+1445,Nigeria,Civil Unrest,2024-06-27,14.5616,-20.2999,Low
+1446,Ethiopia,Armed Conflict,2024-06-27,17.1624,-91.5329,Low
+1447,Myanmar,Strike,2024-06-29,-39.8266,-43.934,Low
+1448,Nigeria,Civil Unrest,2024-06-29,-21.2074,18.6775,Critical
+1449,Ethiopia,Civil Unrest,2024-06-29,30.877,-95.7039,Low
+1450,Ukraine,Political Protest,2024-06-29,-21.0541,-85.6401,High
+1451,Ethiopia,Political Protest,2024-06-29,16.2562,30.3809,High
+1452,Nigeria,Armed Conflict,2024-06-29,-39.0333,-40.5887,Moderate
+1453,Nigeria,Civil Unrest,2024-06-30,1.4885,-15.0682,Low
+1454,Ethiopia,Strike,2024-06-30,28.2648,78.4422,Moderate
+1455,Ethiopia,Civil Unrest,2024-06-30,7.8871,98.0545,Low
+1456,India,Civil Unrest,2024-07-01,-6.9348,48.1057,Critical
+1457,Ukraine,Riots,2024-07-01,35.261,17.1637,Critical
+1458,Myanmar,Armed Conflict,2024-07-02,-30.1538,-51.4238,High
+1459,Pakistan,Strike,2024-07-03,-34.5102,-8.6796,High
+1460,Brazil,Political Protest,2024-07-03,0.0728,-17.8403,Low
+1461,Ethiopia,Strike,2024-07-03,30.9158,-53.361,Moderate
+1462,Nigeria,Border Skirmish,2024-07-04,-30.698,-2.9897,Moderate
+1463,India,Civil Unrest,2024-07-04,-38.2277,-61.3338,Low
+1464,Ukraine,Strike,2024-07-04,37.8351,61.0718,Moderate
+1465,Nigeria,Civil Unrest,2024-07-05,-39.5798,87.2953,Moderate
+1466,Ukraine,Political Protest,2024-07-06,5.8892,-98.9094,Moderate
+1467,Myanmar,Border Skirmish,2024-07-06,9.2418,-67.6567,Low
+1468,Pakistan,Border Skirmish,2024-07-06,-18.2,-14.2153,Critical
+1469,Pakistan,Civil Unrest,2024-07-07,-39.5633,-55.4024,High
+1470,Myanmar,Political Protest,2024-07-07,7.2667,59.6745,Low
+1471,Brazil,Strike,2024-07-07,-11.3775,65.4064,Moderate
+1472,India,Strike,2024-07-07,31.9855,-70.3559,Moderate
+1473,Nigeria,Armed Conflict,2024-07-07,1.2699,-28.4614,Low
+1474,Pakistan,Strike,2024-07-08,-20.936,-72.4831,Low
+1475,Ethiopia,Riots,2024-07-08,-26.5935,-83.1054,Low
+1476,Ethiopia,Riots,2024-07-10,-38.4859,8.8787,Critical
+1477,Myanmar,Strike,2024-07-10,-4.3902,-45.4974,Moderate
+1478,South Sudan,Riots,2024-07-10,-23.7126,-94.2138,Low
+1479,Ukraine,Strike,2024-07-10,2.2819,51.6532,Low
+1480,Pakistan,Riots,2024-07-11,-31.1238,64.9656,Low
+1481,India,Border Skirmish,2024-07-11,-38.5353,-21.2986,Critical
+1482,Pakistan,Armed Conflict,2024-07-11,-26.7181,-94.5758,Moderate
+1483,Myanmar,Political Protest,2024-07-12,-29.529,1.2028,Moderate
+1484,Myanmar,Political Protest,2024-07-12,35.6162,-57.7472,Low
+1485,Brazil,Strike,2024-07-12,39.5972,15.4505,Low
+1486,Myanmar,Political Protest,2024-07-12,-27.8447,-88.7728,High
+1487,Ukraine,Border Skirmish,2024-07-12,-17.7698,58.4747,High
+1488,Ukraine,Border Skirmish,2024-07-12,-33.4513,81.8632,Moderate
+1489,South Sudan,Civil Unrest,2024-07-13,-12.0508,-82.456,Moderate
+1490,Myanmar,Political Protest,2024-07-13,-39.5394,-52.9092,Low
+1491,Ethiopia,Strike,2024-07-13,27.157,-71.0253,Critical
+1492,South Sudan,Political Protest,2024-07-14,-7.4523,78.8536,Low
+1493,Myanmar,Political Protest,2024-07-14,-37.5176,-85.6633,Critical
+1494,Ukraine,Riots,2024-07-14,33.9304,81.3002,Low
+1495,Pakistan,Armed Conflict,2024-07-14,-36.6595,71.5586,Moderate
+1496,Nigeria,Strike,2024-07-16,28.0686,-43.9757,Low
+1497,Ethiopia,Riots,2024-07-16,-19.8546,-51.5364,Low
+1498,Pakistan,Armed Conflict,2024-07-16,13.6216,-90.4581,Low
+1499,Nigeria,Riots,2024-07-16,23.6758,10.1207,Low
+1500,Myanmar,Border Skirmish,2024-07-16,-8.1628,-15.1931,Low
+1501,Myanmar,Civil Unrest,2024-07-17,-12.1234,39.1404,Moderate
+1502,Ukraine,Riots,2024-07-17,-35.0164,-70.6085,Moderate
+1503,India,Political Protest,2024-07-17,-27.424,-9.3689,Critical
+1504,Brazil,Strike,2024-07-17,-33.5095,-85.3183,Low
+1505,South Sudan,Strike,2024-07-18,28.7862,-2.9265,Moderate
+1506,Myanmar,Civil Unrest,2024-07-18,-38.8046,94.3933,Moderate
+1507,Ethiopia,Riots,2024-07-19,17.888,26.7749,High
+1508,Nigeria,Armed Conflict,2024-07-19,-15.4193,-6.5055,Low
+1509,Myanmar,Riots,2024-07-19,31.2125,19.3317,Low
+1510,Nigeria,Riots,2024-07-20,13.1696,-32.2246,Low
+1511,Ethiopia,Riots,2024-07-20,31.1029,24.0075,Low
+1512,India,Armed Conflict,2024-07-22,-10.2642,-84.4395,Moderate
+1513,Ethiopia,Civil Unrest,2024-07-23,30.2049,31.7045,Low
+1514,Ethiopia,Civil Unrest,2024-07-23,-9.0322,13.5947,Moderate
+1515,Brazil,Strike,2024-07-23,25.7663,-47.0838,Low
+1516,Ukraine,Armed Conflict,2024-07-23,-15.6535,-95.2745,Moderate
+1517,Ethiopia,Political Protest,2024-07-24,37.4024,17.1621,Low
+1518,Nigeria,Armed Conflict,2024-07-24,-1.7362,38.2368,Moderate
+1519,India,Riots,2024-07-25,34.6099,-8.7652,High
+1520,Nigeria,Strike,2024-07-25,13.9269,2.7443,Critical
+1521,Brazil,Strike,2024-07-26,-0.2568,99.185,High
+1522,Ethiopia,Strike,2024-07-26,10.9778,88.1767,Moderate
+1523,South Sudan,Border Skirmish,2024-07-27,-30.6372,53.1683,Low
+1524,Ukraine,Armed Conflict,2024-07-27,33.7428,-52.9556,Critical
+1525,India,Riots,2024-07-27,-1.955,-38.7407,Moderate
+1526,India,Riots,2024-07-28,23.2325,52.6572,High
+1527,Pakistan,Armed Conflict,2024-07-28,-26.2091,-89.484,Low
+1528,Ethiopia,Armed Conflict,2024-07-28,37.8259,-17.1099,Low
+1529,Nigeria,Riots,2024-07-28,34.8964,29.5453,Moderate
+1530,Ethiopia,Riots,2024-07-28,1.4932,39.7429,High
+1531,Brazil,Border Skirmish,2024-07-29,-4.4731,55.366,Moderate
+1532,Ethiopia,Riots,2024-07-29,11.9296,49.617,High
+1533,Nigeria,Political Protest,2024-07-30,32.0228,81.6671,Low
+1534,Myanmar,Armed Conflict,2024-07-30,-15.1759,-71.7153,Low
+1535,Ukraine,Strike,2024-07-31,11.7018,-98.6731,High
+1536,Nigeria,Armed Conflict,2024-07-31,3.8129,69.1626,Moderate
+1537,Pakistan,Border Skirmish,2024-07-31,-35.1022,77.467,Moderate
+1538,Ethiopia,Riots,2024-07-31,-15.7059,-73.447,Moderate
+1539,South Sudan,Political Protest,2024-08-01,22.328,99.7385,Low
+1540,India,Border Skirmish,2024-08-01,38.0963,73.5818,Moderate
+1541,Pakistan,Riots,2024-08-01,9.9313,39.3988,Low
+1542,India,Political Protest,2024-08-01,37.5209,-78.7454,Low
+1543,Nigeria,Riots,2024-08-02,-18.7006,-70.1266,Low
+1544,South Sudan,Civil Unrest,2024-08-02,-17.3716,-46.4348,Low
+1545,Ukraine,Riots,2024-08-03,32.4124,21.6957,Moderate
+1546,Brazil,Armed Conflict,2024-08-03,-23.0724,29.6406,Moderate
+1547,South Sudan,Civil Unrest,2024-08-03,-36.4705,-29.8122,High
+1548,Nigeria,Civil Unrest,2024-08-03,-2.8232,-50.273,Low
+1549,Pakistan,Border Skirmish,2024-08-04,-11.4312,57.7561,High
+1550,South Sudan,Border Skirmish,2024-08-04,17.92,-51.2256,Low
+1551,India,Civil Unrest,2024-08-05,-3.8027,30.6588,High
+1552,India,Strike,2024-08-06,37.2524,-94.2149,Low
+1553,Myanmar,Civil Unrest,2024-08-06,-38.8123,7.973,Low
+1554,South Sudan,Political Protest,2024-08-06,-22.0847,62.6459,Low
+1555,Ethiopia,Armed Conflict,2024-08-07,-13.9622,37.1557,Critical
+1556,South Sudan,Strike,2024-08-07,17.779,35.1168,Low
+1557,Ethiopia,Strike,2024-08-08,31.7788,-97.6575,High
+1558,Nigeria,Border Skirmish,2024-08-09,-14.3523,69.623,Moderate
+1559,Ukraine,Armed Conflict,2024-08-09,-30.7384,-69.6586,Low
+1560,Brazil,Strike,2024-08-10,17.9632,-82.453,Low
+1561,India,Armed Conflict,2024-08-10,25.4541,-63.4125,Low
+1562,India,Strike,2024-08-10,-31.3556,35.9086,Moderate
+1563,Brazil,Political Protest,2024-08-10,-23.4017,67.3398,High
+1564,Pakistan,Border Skirmish,2024-08-10,-23.8425,85.585,Low
+1565,Pakistan,Armed Conflict,2024-08-10,25.0561,-79.0246,Moderate
+1566,Ukraine,Border Skirmish,2024-08-10,32.307,-61.7353,Critical
+1567,Brazil,Riots,2024-08-11,-37.2119,39.4537,Moderate
+1568,South Sudan,Armed Conflict,2024-08-11,-31.9639,-12.6601,Low
+1569,Pakistan,Political Protest,2024-08-11,19.6822,36.6108,Low
+1570,Ethiopia,Strike,2024-08-11,32.2226,-54.5978,Moderate
+1571,Ethiopia,Civil Unrest,2024-08-12,-5.6581,-20.5665,Low
+1572,South Sudan,Armed Conflict,2024-08-12,14.1495,-56.8762,Low
+1573,Myanmar,Riots,2024-08-13,24.6134,54.3758,Moderate
+1574,Myanmar,Armed Conflict,2024-08-14,-6.7744,64.1487,Low
+1575,Brazil,Riots,2024-08-14,-8.6317,-40.1668,Low
+1576,Brazil,Strike,2024-08-15,2.2138,-54.2337,High
+1577,India,Riots,2024-08-15,14.5277,-17.0716,Low
+1578,Ethiopia,Armed Conflict,2024-08-15,-25.2375,-42.0896,Low
+1579,Myanmar,Border Skirmish,2024-08-15,-12.5133,19.1837,Moderate
+1580,Nigeria,Armed Conflict,2024-08-15,-31.7828,-7.4538,Moderate
+1581,Ukraine,Political Protest,2024-08-16,-7.7259,43.9197,High
+1582,India,Strike,2024-08-16,8.5914,-93.6299,High
+1583,Myanmar,Riots,2024-08-16,-34.3185,-46.3077,Moderate
+1584,South Sudan,Civil Unrest,2024-08-16,4.9893,54.2915,Moderate
+1585,Ukraine,Riots,2024-08-16,0.3486,22.7695,Low
+1586,Myanmar,Civil Unrest,2024-08-17,-0.9371,-23.6964,Low
+1587,Nigeria,Armed Conflict,2024-08-18,2.5731,26.097,High
+1588,India,Border Skirmish,2024-08-18,-2.9516,-4.2758,Moderate
+1589,South Sudan,Riots,2024-08-18,-11.0049,-71.7265,Moderate
+1590,Ukraine,Armed Conflict,2024-08-20,-39.8202,11.9031,Low
+1591,Brazil,Civil Unrest,2024-08-20,-8.6935,32.562,Low
+1592,Ethiopia,Civil Unrest,2024-08-20,9.5141,-21.9434,Moderate
+1593,Brazil,Strike,2024-08-20,0.9267,-62.2721,Low
+1594,Brazil,Armed Conflict,2024-08-20,-20.623,-66.682,Moderate
+1595,Ethiopia,Border Skirmish,2024-08-20,-16.6133,11.8808,High
+1596,Ukraine,Border Skirmish,2024-08-23,-20.8591,70.057,Low
+1597,Ethiopia,Border Skirmish,2024-08-23,-26.0669,-37.6845,Low
+1598,Ethiopia,Armed Conflict,2024-08-23,21.8963,-97.2997,Low
+1599,Pakistan,Political Protest,2024-08-23,31.2458,-20.7636,Moderate
+1600,Ethiopia,Strike,2024-08-24,18.5836,-10.21,Low
+1601,Ethiopia,Strike,2024-08-24,35.4357,-80.1236,High
+1602,Ukraine,Political Protest,2024-08-24,-7.8878,79.3032,Low
+1603,Pakistan,Armed Conflict,2024-08-24,29.9977,49.3408,High
+1604,Brazil,Border Skirmish,2024-08-26,-33.5529,-2.8045,Moderate
+1605,India,Political Protest,2024-08-26,31.3498,91.5591,Low
+1606,India,Political Protest,2024-08-26,-35.2375,19.5296,Low
+1607,Ukraine,Civil Unrest,2024-08-26,-39.3883,-38.2165,Low
+1608,South Sudan,Armed Conflict,2024-08-27,29.114,-15.5191,High
+1609,Brazil,Political Protest,2024-08-27,2.6061,78.79,Low
+1610,Nigeria,Border Skirmish,2024-08-27,-19.5217,-97.867,Moderate
+1611,Ukraine,Political Protest,2024-08-27,-19.5122,99.0871,Moderate
+1612,India,Armed Conflict,2024-08-29,-36.9252,-50.7724,Low
+1613,Myanmar,Border Skirmish,2024-08-29,-21.0409,21.6171,Low
+1614,Brazil,Armed Conflict,2024-08-30,1.3071,-53.2389,High
+1615,India,Strike,2024-08-30,21.7312,-24.5657,High
+1616,Nigeria,Political Protest,2024-08-31,-33.1837,-20.5449,Moderate
+1617,Ethiopia,Strike,2024-08-31,-10.1578,5.0065,High
+1618,Myanmar,Border Skirmish,2024-09-01,-19.0756,-35.1115,Low
+1619,Myanmar,Border Skirmish,2024-09-01,12.7818,82.4437,Moderate
+1620,Brazil,Armed Conflict,2024-09-01,-11.187,-60.7847,Moderate
+1621,Ethiopia,Political Protest,2024-09-01,-21.9869,-33.1459,Moderate
+1622,Brazil,Riots,2024-09-02,-36.0499,-68.8709,Moderate
+1623,Ethiopia,Armed Conflict,2024-09-02,-34.6575,-82.033,High
+1624,Myanmar,Strike,2024-09-03,-1.6469,10.6644,Moderate
+1625,Ukraine,Armed Conflict,2024-09-03,38.7192,43.3138,Moderate
+1626,Nigeria,Armed Conflict,2024-09-03,-19.6707,3.9112,Low
+1627,Ukraine,Strike,2024-09-04,5.7951,-49.0759,Moderate
+1628,Nigeria,Civil Unrest,2024-09-04,-8.1442,-89.2244,Critical
+1629,Brazil,Civil Unrest,2024-09-04,1.0508,-32.8783,Moderate
+1630,Ukraine,Political Protest,2024-09-04,-19.0751,44.3396,Low
+1631,Ethiopia,Armed Conflict,2024-09-04,31.0722,51.2307,High
+1632,South Sudan,Riots,2024-09-04,14.3011,44.2347,Moderate
+1633,Ukraine,Civil Unrest,2024-09-04,19.7344,0.5766,High
+1634,Brazil,Border Skirmish,2024-09-05,31.4158,-53.8078,Low
+1635,Pakistan,Riots,2024-09-05,-31.8299,72.9876,High
+1636,Nigeria,Armed Conflict,2024-09-05,6.6868,60.4296,Low
+1637,Nigeria,Riots,2024-09-06,8.0589,58.4352,Critical
+1638,India,Border Skirmish,2024-09-07,20.2737,5.6727,Critical
+1639,South Sudan,Civil Unrest,2024-09-07,-1.4735,-94.5478,Critical
+1640,South Sudan,Armed Conflict,2024-09-08,-0.278,-90.9114,Low
+1641,Nigeria,Riots,2024-09-09,-5.7071,-60.9097,High
+1642,Nigeria,Civil Unrest,2024-09-09,-25.6083,36.33,Moderate
+1643,Pakistan,Border Skirmish,2024-09-09,8.3063,28.6645,Low
+1644,South Sudan,Riots,2024-09-10,22.8096,37.0615,Low
+1645,Myanmar,Border Skirmish,2024-09-10,-17.4154,-72.8082,Low
+1646,South Sudan,Border Skirmish,2024-09-11,-1.2498,51.7086,Low
+1647,Nigeria,Political Protest,2024-09-11,26.1162,75.7266,Moderate
+1648,Myanmar,Armed Conflict,2024-09-11,9.2429,-31.3582,Low
+1649,Brazil,Strike,2024-09-11,-37.9655,-71.4149,Low
+1650,South Sudan,Armed Conflict,2024-09-11,-27.4189,-60.3777,Moderate
+1651,Ethiopia,Political Protest,2024-09-11,-15.6186,23.0652,Moderate
+1652,South Sudan,Civil Unrest,2024-09-12,-20.1788,49.635,High
+1653,Nigeria,Armed Conflict,2024-09-12,30.5128,95.5964,Low
+1654,Ukraine,Riots,2024-09-14,10.7447,-3.3626,Critical
+1655,Nigeria,Civil Unrest,2024-09-14,-24.4263,-67.5096,Moderate
+1656,Ethiopia,Border Skirmish,2024-09-14,3.7867,24.9905,Moderate
+1657,Ukraine,Border Skirmish,2024-09-15,29.9343,-82.6804,Moderate
+1658,Myanmar,Armed Conflict,2024-09-15,21.7269,10.4418,Critical
+1659,Ethiopia,Armed Conflict,2024-09-15,-6.051,-36.8036,Moderate
+1660,Myanmar,Border Skirmish,2024-09-15,20.2458,79.6391,Moderate
+1661,Ethiopia,Strike,2024-09-15,-18.3951,-2.5092,Critical
+1662,Myanmar,Armed Conflict,2024-09-16,25.5147,11.62,Low
+1663,Myanmar,Political Protest,2024-09-16,35.1928,27.8358,Moderate
+1664,India,Armed Conflict,2024-09-17,-36.8039,53.6606,Moderate
+1665,Pakistan,Strike,2024-09-18,6.7071,-28.7595,Low
+1666,India,Riots,2024-09-18,-34.4776,-57.8318,Moderate
+1667,Ethiopia,Border Skirmish,2024-09-19,23.4904,63.7854,Critical
+1668,Nigeria,Political Protest,2024-09-19,37.4069,-71.0086,Critical
+1669,Nigeria,Riots,2024-09-19,-31.8325,-90.1967,Moderate
+1670,India,Riots,2024-09-20,-14.3452,-84.3948,Low
+1671,India,Civil Unrest,2024-09-20,-3.6856,-16.3068,Low
+1672,India,Riots,2024-09-20,19.6654,92.5338,Moderate
+1673,Ukraine,Civil Unrest,2024-09-20,21.0612,-21.2403,Moderate
+1674,Ukraine,Armed Conflict,2024-09-20,-23.3174,97.6915,Low
+1675,Pakistan,Border Skirmish,2024-09-20,-33.442,-12.2685,Low
+1676,Pakistan,Border Skirmish,2024-09-21,-24.9534,43.6853,Low
+1677,Nigeria,Political Protest,2024-09-21,10.477,14.0872,Moderate
+1678,Brazil,Border Skirmish,2024-09-22,-27.3243,12.8241,Critical
+1679,South Sudan,Riots,2024-09-22,-16.5296,58.2319,Critical
+1680,Myanmar,Strike,2024-09-23,39.6013,89.7739,Low
+1681,Ethiopia,Civil Unrest,2024-09-23,32.4574,32.3864,Low
+1682,Nigeria,Riots,2024-09-23,21.4017,59.7341,Moderate
+1683,Ukraine,Strike,2024-09-23,-15.5849,75.3447,High
+1684,Nigeria,Civil Unrest,2024-09-24,17.7337,7.2232,Low
+1685,Nigeria,Border Skirmish,2024-09-24,-9.1904,60.877,Low
+1686,Brazil,Border Skirmish,2024-09-24,-4.06,63.1188,Low
+1687,Pakistan,Armed Conflict,2024-09-24,5.9636,-3.0595,Moderate
+1688,Ukraine,Political Protest,2024-09-25,-25.3799,-35.8963,High
+1689,Ethiopia,Riots,2024-09-25,-2.6456,90.3909,Critical
+1690,Ethiopia,Strike,2024-09-25,-14.5153,-34.6823,High
+1691,India,Civil Unrest,2024-09-25,10.5233,-85.3199,Moderate
+1692,Ukraine,Civil Unrest,2024-09-25,29.2435,7.9921,Low
+1693,India,Border Skirmish,2024-09-26,4.6664,-86.1905,High
+1694,India,Political Protest,2024-09-26,16.0352,57.8942,Low
+1695,Ethiopia,Armed Conflict,2024-09-27,-11.6157,64.0685,High
+1696,Pakistan,Strike,2024-09-28,-21.131,-72.7795,Low
+1697,Pakistan,Political Protest,2024-09-28,6.5857,-21.1037,Moderate
+1698,Myanmar,Border Skirmish,2024-09-28,-18.2436,-23.3149,High
+1699,South Sudan,Civil Unrest,2024-09-29,-20.982,-10.0174,Moderate
+1700,South Sudan,Civil Unrest,2024-09-29,1.4117,-25.8029,Low
+1701,Pakistan,Riots,2024-09-30,-13.9704,-83.6052,Critical
+1702,Ethiopia,Strike,2024-09-30,6.8682,9.2945,Moderate
+1703,Brazil,Strike,2024-09-30,-7.1435,-11.9937,High
+1704,Myanmar,Strike,2024-10-01,-39.5576,47.302,Moderate
+1705,Nigeria,Riots,2024-10-01,16.0259,33.4286,Moderate
+1706,Ukraine,Political Protest,2024-10-01,-39.7625,57.2103,Critical
+1707,India,Riots,2024-10-02,-7.9741,9.3508,High
+1708,Pakistan,Political Protest,2024-10-02,-32.718,-55.0493,Low
+1709,Myanmar,Armed Conflict,2024-10-03,-10.7447,33.2858,Critical
+1710,Nigeria,Armed Conflict,2024-10-03,24.1573,47.3505,High
+1711,India,Political Protest,2024-10-04,32.8848,23.3575,High
+1712,India,Political Protest,2024-10-05,9.0873,68.9394,High
+1713,South Sudan,Political Protest,2024-10-05,22.2011,-83.5479,Moderate
+1714,Nigeria,Border Skirmish,2024-10-06,-17.6806,59.5872,Low
+1715,Pakistan,Border Skirmish,2024-10-06,13.1473,-57.235,Moderate
+1716,Ukraine,Political Protest,2024-10-07,4.6196,-30.8301,Low
+1717,Ukraine,Civil Unrest,2024-10-07,-6.0716,-60.6505,Low
+1718,Brazil,Armed Conflict,2024-10-07,5.2433,29.935,Low
+1719,Brazil,Border Skirmish,2024-10-07,-25.1414,-74.0878,High
+1720,Brazil,Civil Unrest,2024-10-07,1.6761,-78.5402,Low
+1721,Brazil,Strike,2024-10-07,-14.8841,55.9196,Critical
+1722,South Sudan,Armed Conflict,2024-10-08,-13.8579,-3.5096,High
+1723,Brazil,Armed Conflict,2024-10-08,6.8945,66.729,Low
+1724,South Sudan,Civil Unrest,2024-10-08,-26.9483,-1.2745,Moderate
+1725,Ethiopia,Border Skirmish,2024-10-09,-2.2214,25.2627,Low
+1726,Myanmar,Civil Unrest,2024-10-09,26.0756,71.049,Low
+1727,Brazil,Civil Unrest,2024-10-09,-3.5104,53.2649,High
+1728,Pakistan,Armed Conflict,2024-10-10,-32.1985,50.9084,Low
+1729,Pakistan,Border Skirmish,2024-10-10,22.3717,-69.0174,Low
+1730,South Sudan,Border Skirmish,2024-10-10,-31.4647,-69.8069,Low
+1731,Myanmar,Armed Conflict,2024-10-11,20.9142,63.7784,Moderate
+1732,Ethiopia,Political Protest,2024-10-11,13.9988,-37.9266,Low
+1733,Ukraine,Border Skirmish,2024-10-13,29.4721,6.9636,Low
+1734,Brazil,Armed Conflict,2024-10-14,12.0006,66.3846,Moderate
+1735,South Sudan,Riots,2024-10-14,22.5213,44.6247,High
+1736,Myanmar,Strike,2024-10-15,-17.9364,-2.2362,High
+1737,Brazil,Riots,2024-10-15,7.3652,81.5708,Low
+1738,Pakistan,Armed Conflict,2024-10-16,-29.2578,-87.5017,Moderate
+1739,Ukraine,Riots,2024-10-17,-38.5564,41.6217,Low
+1740,Ethiopia,Armed Conflict,2024-10-17,-24.6432,7.116,Moderate
+1741,Myanmar,Political Protest,2024-10-18,9.7189,-5.0657,High
+1742,Brazil,Civil Unrest,2024-10-18,31.0093,-44.4341,Low
+1743,Ukraine,Riots,2024-10-18,7.0489,-3.5065,Moderate
+1744,South Sudan,Border Skirmish,2024-10-19,-16.1183,-76.7101,Low
+1745,Brazil,Border Skirmish,2024-10-20,20.8744,22.7027,Low
+1746,Myanmar,Border Skirmish,2024-10-20,36.8617,-42.2191,Moderate
+1747,Ethiopia,Armed Conflict,2024-10-21,25.4029,-57.6689,Moderate
+1748,Myanmar,Political Protest,2024-10-21,-0.4281,-0.0146,Moderate
+1749,Brazil,Strike,2024-10-21,-19.7439,-29.4218,Low
+1750,Ethiopia,Armed Conflict,2024-10-22,13.0252,-52.4425,High
+1751,Ethiopia,Armed Conflict,2024-10-22,-8.7154,75.7865,High
+1752,South Sudan,Border Skirmish,2024-10-22,3.601,7.3181,Low
+1753,Myanmar,Border Skirmish,2024-10-22,-18.8515,-22.1767,High
+1754,Myanmar,Riots,2024-10-22,28.1958,28.4905,Low
+1755,Ethiopia,Civil Unrest,2024-10-22,11.0122,69.6977,Low
+1756,Pakistan,Political Protest,2024-10-23,-22.6917,49.2508,Moderate
+1757,Myanmar,Border Skirmish,2024-10-23,-12.5952,9.0813,Low
+1758,Ukraine,Border Skirmish,2024-10-23,-16.7904,52.9883,Moderate
+1759,Nigeria,Border Skirmish,2024-10-23,14.8768,84.7827,Moderate
+1760,India,Armed Conflict,2024-10-23,9.5331,47.3828,Moderate
+1761,South Sudan,Political Protest,2024-10-23,7.3944,-51.4099,Moderate
+1762,South Sudan,Riots,2024-10-23,36.3834,68.2689,Critical
+1763,Pakistan,Riots,2024-10-24,34.9193,-76.1992,Moderate
+1764,Ethiopia,Border Skirmish,2024-10-24,36.1233,32.3934,Low
+1765,Brazil,Strike,2024-10-24,14.5725,2.6597,Moderate
+1766,Brazil,Riots,2024-10-25,-1.5805,83.9616,Low
+1767,Nigeria,Armed Conflict,2024-10-25,-31.9215,16.3535,Low
+1768,South Sudan,Strike,2024-10-25,-14.7532,85.2388,Critical
+1769,Brazil,Political Protest,2024-10-25,-9.6795,-76.0038,Low
+1770,Brazil,Civil Unrest,2024-10-25,-19.7469,9.9698,Low
+1771,India,Political Protest,2024-10-25,21.1905,-96.6969,Moderate
+1772,Pakistan,Armed Conflict,2024-10-26,-6.7445,67.907,High
+1773,Brazil,Riots,2024-10-26,-30.8835,33.1929,Low
+1774,South Sudan,Civil Unrest,2024-10-26,-2.7804,70.24,Moderate
+1775,India,Strike,2024-10-27,29.2389,19.4885,Moderate
+1776,Myanmar,Border Skirmish,2024-10-27,-8.7763,81.7335,High
+1777,Nigeria,Civil Unrest,2024-10-27,-2.1092,-26.9487,High
+1778,Brazil,Strike,2024-10-27,27.2043,39.0332,Moderate
+1779,Pakistan,Armed Conflict,2024-10-28,32.1768,97.6887,High
+1780,South Sudan,Strike,2024-10-28,34.5537,-1.2624,Moderate
+1781,South Sudan,Civil Unrest,2024-10-28,38.3904,58.1685,Low
+1782,Nigeria,Armed Conflict,2024-10-29,8.24,67.5987,Low
+1783,India,Strike,2024-10-29,17.876,4.428,Moderate
+1784,South Sudan,Strike,2024-10-30,-18.6953,56.2332,Low
+1785,Ukraine,Riots,2024-10-31,-15.1813,-99.9766,High
+1786,India,Strike,2024-10-31,-8.5105,-60.3769,Moderate
+1787,Pakistan,Civil Unrest,2024-10-31,-17.1339,95.4249,Low
+1788,Pakistan,Strike,2024-10-31,-35.1957,-93.9165,High
+1789,India,Civil Unrest,2024-11-02,6.242,93.5268,Moderate
+1790,Ethiopia,Political Protest,2024-11-02,-39.2216,-62.0355,Low
+1791,India,Border Skirmish,2024-11-02,27.918,-82.7961,Moderate
+1792,South Sudan,Armed Conflict,2024-11-02,-4.657,-4.2811,High
+1793,Brazil,Civil Unrest,2024-11-02,4.2899,93.5767,Low
+1794,Ukraine,Political Protest,2024-11-02,33.3312,73.6009,Low
+1795,Ukraine,Political Protest,2024-11-02,38.1456,2.6841,High
+1796,Ethiopia,Riots,2024-11-03,-29.9372,-79.8864,High
+1797,Pakistan,Strike,2024-11-03,-12.6408,-33.5646,Low
+1798,Brazil,Civil Unrest,2024-11-03,14.9333,58.6946,Moderate
+1799,India,Political Protest,2024-11-04,31.4257,-5.6162,Low
+1800,Pakistan,Border Skirmish,2024-11-04,-4.6065,46.5802,Low
+1801,India,Border Skirmish,2024-11-05,26.8792,92.4983,High
+1802,Ukraine,Border Skirmish,2024-11-05,-0.7308,-39.8267,Low
+1803,Pakistan,Border Skirmish,2024-11-06,8.3229,-41.9899,Critical
+1804,Nigeria,Strike,2024-11-06,20.5232,-85.5659,Moderate
+1805,India,Border Skirmish,2024-11-06,8.0313,6.4385,High
+1806,India,Riots,2024-11-06,11.1567,-99.8878,High
+1807,Pakistan,Riots,2024-11-07,-14.5431,-42.41,Critical
+1808,India,Border Skirmish,2024-11-08,3.8743,71.8579,Moderate
+1809,Myanmar,Border Skirmish,2024-11-09,25.7219,-93.7645,High
+1810,South Sudan,Strike,2024-11-09,5.0543,-85.7823,High
+1811,Pakistan,Armed Conflict,2024-11-10,-17.8348,-4.3863,High
+1812,Ukraine,Civil Unrest,2024-11-12,36.5334,-95.5917,High
+1813,Ukraine,Riots,2024-11-12,4.0379,-95.7333,Low
+1814,Ethiopia,Border Skirmish,2024-11-12,25.4887,80.8973,High
+1815,Brazil,Civil Unrest,2024-11-12,-20.1166,98.3587,Moderate
+1816,Myanmar,Riots,2024-11-13,-20.5426,70.0287,High
+1817,Ukraine,Strike,2024-11-13,14.678,0.9501,Moderate
+1818,Myanmar,Civil Unrest,2024-11-14,22.1389,-34.8969,Critical
+1819,India,Riots,2024-11-14,-13.1526,-76.6248,Moderate
+1820,India,Armed Conflict,2024-11-15,33.5712,21.984,Low
+1821,Ethiopia,Border Skirmish,2024-11-15,14.1089,-87.4441,Low
+1822,Ethiopia,Political Protest,2024-11-15,38.6411,40.6204,Moderate
+1823,Nigeria,Strike,2024-11-15,-4.6818,54.2303,Moderate
+1824,Myanmar,Riots,2024-11-15,24.1385,7.8083,Low
+1825,Ukraine,Civil Unrest,2024-11-16,-22.2302,-38.2385,Low
+1826,South Sudan,Civil Unrest,2024-11-16,-30.3129,42.6863,Low
+1827,Nigeria,Civil Unrest,2024-11-16,33.7697,-12.8137,Critical
+1828,Pakistan,Strike,2024-11-16,22.1485,4.9074,Critical
+1829,Nigeria,Strike,2024-11-17,-30.2318,-11.6324,Moderate
+1830,Ukraine,Border Skirmish,2024-11-17,-24.403,48.386,Moderate
+1831,Myanmar,Strike,2024-11-17,5.7659,21.1692,Moderate
+1832,Ethiopia,Riots,2024-11-17,31.9194,8.6042,Low
+1833,Ukraine,Border Skirmish,2024-11-18,3.0276,67.1536,Low
+1834,Ethiopia,Political Protest,2024-11-18,-6.8119,-26.3814,High
+1835,Pakistan,Riots,2024-11-18,1.5208,-30.3922,Critical
+1836,India,Civil Unrest,2024-11-18,-34.9743,61.6207,Moderate
+1837,Ukraine,Armed Conflict,2024-11-19,21.1191,6.7907,Low
+1838,Brazil,Riots,2024-11-19,16.6525,-40.4033,High
+1839,Pakistan,Armed Conflict,2024-11-19,28.6476,56.4573,High
+1840,Pakistan,Border Skirmish,2024-11-20,-1.9713,61.6695,Low
+1841,South Sudan,Armed Conflict,2024-11-20,-23.4306,5.645,Low
+1842,India,Political Protest,2024-11-20,-22.4335,70.3755,Low
+1843,India,Civil Unrest,2024-11-20,-36.5961,-76.9439,Low
+1844,Myanmar,Civil Unrest,2024-11-20,-32.3963,-99.1784,Critical
+1845,Brazil,Armed Conflict,2024-11-21,-9.4405,-6.893,Moderate
+1846,Ethiopia,Strike,2024-11-21,-36.7425,68.9442,High
+1847,South Sudan,Strike,2024-11-21,-28.9484,-25.3721,Low
+1848,Brazil,Armed Conflict,2024-11-22,16.842,-33.6372,Moderate
+1849,Brazil,Civil Unrest,2024-11-23,-21.7565,13.1686,Critical
+1850,Nigeria,Border Skirmish,2024-11-23,-10.4736,-10.2019,Low
+1851,Brazil,Riots,2024-11-23,-7.1498,33.1307,Moderate
+1852,Nigeria,Border Skirmish,2024-11-25,31.1194,36.6859,High
+1853,Nigeria,Political Protest,2024-11-25,21.8256,-75.9985,Moderate
+1854,South Sudan,Political Protest,2024-11-25,2.5618,0.7612,Critical
+1855,India,Riots,2024-11-26,-34.9583,45.6208,Low
+1856,Myanmar,Strike,2024-11-26,32.8827,81.932,Low
+1857,Brazil,Political Protest,2024-11-26,-10.5608,17.7995,Moderate
+1858,Myanmar,Riots,2024-11-27,-24.4468,-38.3545,Critical
+1859,Pakistan,Border Skirmish,2024-11-27,10.7946,81.9359,Critical
+1860,Nigeria,Political Protest,2024-11-28,35.7072,23.2987,Low
+1861,Ukraine,Border Skirmish,2024-11-28,-27.282,-5.5702,Moderate
+1862,Brazil,Riots,2024-11-28,-12.7336,-64.632,Moderate
+1863,Ukraine,Border Skirmish,2024-11-28,9.2766,-17.8516,Low
+1864,Brazil,Riots,2024-11-28,30.5286,61.8063,Low
+1865,India,Border Skirmish,2024-11-29,11.1726,-87.381,Critical
+1866,Ukraine,Strike,2024-11-29,-17.272,87.0212,High
+1867,Brazil,Armed Conflict,2024-11-29,-21.9,33.5127,Low
+1868,Pakistan,Border Skirmish,2024-11-30,7.0727,10.8001,Moderate
+1869,Nigeria,Political Protest,2024-11-30,33.6326,-34.5915,Critical
+1870,Pakistan,Riots,2024-11-30,24.7892,10.3977,Critical
+1871,Brazil,Border Skirmish,2024-11-30,-15.9124,4.4097,Moderate
+1872,Pakistan,Political Protest,2024-11-30,38.5245,37.0821,Moderate
+1873,South Sudan,Civil Unrest,2024-11-30,9.3667,-29.7642,High
+1874,Ukraine,Border Skirmish,2024-11-30,-3.6757,54.9921,Moderate
+1875,Ukraine,Armed Conflict,2024-12-01,27.8642,-5.6,Moderate
+1876,Brazil,Border Skirmish,2024-12-01,6.1112,43.0489,Moderate
+1877,Brazil,Civil Unrest,2024-12-02,13.2711,41.7226,Low
+1878,Ukraine,Armed Conflict,2024-12-02,38.6491,-6.7324,Low
+1879,India,Strike,2024-12-03,-7.5807,-37.3527,Low
+1880,Myanmar,Civil Unrest,2024-12-03,-15.8022,30.1197,Moderate
+1881,South Sudan,Civil Unrest,2024-12-03,-31.3374,95.5488,Low
+1882,Nigeria,Strike,2024-12-03,-8.2769,75.4758,Low
+1883,Brazil,Riots,2024-12-03,-19.7239,-42.3874,Low
+1884,Nigeria,Strike,2024-12-04,27.458,3.9798,Critical
+1885,Pakistan,Civil Unrest,2024-12-04,33.3715,-53.191,Moderate
+1886,Brazil,Political Protest,2024-12-04,-39.4791,-83.6218,High
+1887,Ukraine,Border Skirmish,2024-12-04,9.9857,39.7723,High
+1888,India,Strike,2024-12-04,9.9397,51.4218,Low
+1889,Myanmar,Armed Conflict,2024-12-04,-39.9479,82.451,High
+1890,India,Armed Conflict,2024-12-05,20.2492,-44.4498,High
+1891,Ukraine,Civil Unrest,2024-12-05,-9.4756,24.2747,High
+1892,Myanmar,Political Protest,2024-12-07,-2.0685,5.7787,Critical
+1893,Myanmar,Border Skirmish,2024-12-08,36.9373,-52.959,Critical
+1894,South Sudan,Political Protest,2024-12-09,1.7768,-19.1953,Moderate
+1895,Myanmar,Border Skirmish,2024-12-09,7.262,-45.4862,High
+1896,Nigeria,Riots,2024-12-09,8.6403,-44.8509,High
+1897,Ethiopia,Border Skirmish,2024-12-09,12.9783,-18.2079,High
+1898,Myanmar,Strike,2024-12-10,-16.2133,-82.3225,Low
+1899,Nigeria,Strike,2024-12-10,24.6106,69.2695,Low
+1900,South Sudan,Civil Unrest,2024-12-10,36.6687,-91.201,Critical
+1901,Nigeria,Border Skirmish,2024-12-10,-14.9182,-20.7651,Low
+1902,Ukraine,Riots,2024-12-10,-0.5103,-43.8316,Moderate
+1903,India,Civil Unrest,2024-12-11,4.4915,-29.4948,Moderate
+1904,India,Armed Conflict,2024-12-11,0.0199,-94.4973,Moderate
+1905,Pakistan,Political Protest,2024-12-12,-11.1141,43.9608,Moderate
+1906,Ukraine,Civil Unrest,2024-12-13,-36.6154,-85.0912,Low
+1907,Pakistan,Riots,2024-12-13,-18.4966,-9.5546,Low
+1908,Myanmar,Riots,2024-12-14,4.1664,-3.859,High
+1909,South Sudan,Strike,2024-12-14,-23.9893,27.2179,Moderate
+1910,Nigeria,Political Protest,2024-12-14,39.3407,-50.4807,Low
+1911,Brazil,Border Skirmish,2024-12-14,5.3297,50.3271,High
+1912,Ukraine,Strike,2024-12-14,21.088,-38.5943,Moderate
+1913,Myanmar,Civil Unrest,2024-12-14,26.1559,-85.5808,Low
+1914,India,Political Protest,2024-12-15,-14.5988,7.3736,Low
+1915,South Sudan,Riots,2024-12-15,28.0915,39.8973,High
+1916,India,Riots,2024-12-15,-25.3115,35.8847,Low
+1917,Myanmar,Civil Unrest,2024-12-15,-14.4692,2.3952,High
+1918,India,Armed Conflict,2024-12-16,19.5565,-52.8733,Critical
+1919,Nigeria,Political Protest,2024-12-16,17.8809,-82.5352,Moderate
+1920,Ethiopia,Civil Unrest,2024-12-17,-22.532,27.7131,Moderate
+1921,India,Strike,2024-12-18,-31.2768,-52.1172,Low
+1922,Brazil,Civil Unrest,2024-12-18,30.4625,69.5114,Low
+1923,India,Civil Unrest,2024-12-19,-14.5726,-9.4339,Low
+1924,Ethiopia,Armed Conflict,2024-12-20,18.7228,-21.9539,Critical
+1925,Brazil,Political Protest,2024-12-20,-16.0732,-16.0079,High
+1926,India,Civil Unrest,2024-12-20,3.6365,72.2378,Low
+1927,India,Riots,2024-12-20,36.7624,97.6796,Low
+1928,India,Strike,2024-12-21,-3.0811,-19.9045,High
+1929,Ukraine,Strike,2024-12-21,-18.7956,99.7111,Critical
+1930,Pakistan,Political Protest,2024-12-22,28.183,61.3146,Moderate
+1931,Brazil,Armed Conflict,2024-12-23,-36.8868,-41.8175,High
+1932,Nigeria,Armed Conflict,2024-12-24,36.2416,89.1669,Moderate
+1933,Brazil,Border Skirmish,2024-12-24,-9.3497,-68.0708,Low
+1934,Ethiopia,Strike,2024-12-25,-30.76,95.1993,Critical
+1935,Ethiopia,Strike,2024-12-25,18.75,-26.7881,Critical
+1936,Brazil,Riots,2024-12-25,16.1168,-16.7937,High
+1937,Pakistan,Political Protest,2024-12-25,-5.7131,-58.8277,High
+1938,Nigeria,Strike,2024-12-26,-0.6028,7.6325,Moderate
+1939,Ethiopia,Civil Unrest,2024-12-26,2.644,19.3708,Low
+1940,Myanmar,Armed Conflict,2024-12-26,5.0973,-95.5776,Moderate
+1941,Brazil,Strike,2024-12-26,-35.6196,31.0273,High
+1942,Brazil,Armed Conflict,2024-12-26,-0.1659,1.2193,High
+1943,Nigeria,Riots,2024-12-26,23.7375,-58.5392,Low
+1944,Myanmar,Civil Unrest,2024-12-27,18.4851,-30.9788,Moderate
+1945,Ethiopia,Armed Conflict,2024-12-27,29.848,-84.841,High
+1946,Myanmar,Armed Conflict,2024-12-27,4.5794,-59.3341,High
+1947,Pakistan,Strike,2024-12-27,-21.6652,-34.0026,Moderate
+1948,Ukraine,Political Protest,2024-12-27,2.9394,39.7039,Moderate
+1949,South Sudan,Civil Unrest,2024-12-27,-13.5554,10.6186,Moderate
+1950,South Sudan,Political Protest,2024-12-28,-23.6369,64.6178,Critical
+1951,Brazil,Strike,2024-12-29,-27.1631,-99.7887,Moderate
+1952,Nigeria,Border Skirmish,2024-12-29,14.2713,-82.9913,High
+1953,India,Armed Conflict,2024-12-29,29.7731,-82.5094,Moderate
+1954,Ethiopia,Strike,2024-12-29,0.9288,-78.9802,High
+1955,Ukraine,Armed Conflict,2024-12-30,11.6327,57.5643,Low
+1956,Ukraine,Political Protest,2024-12-30,-37.8507,-40.6421,High
+1957,Ukraine,Border Skirmish,2024-12-30,22.7411,65.5245,Low
+1958,Ukraine,Border Skirmish,2024-12-31,-1.1903,88.8134,Low
+1959,Pakistan,Armed Conflict,2024-12-31,4.4878,35.7295,Low
+1960,India,Civil Unrest,2025-01-01,-28.6493,-29.2569,Moderate
+1961,Ethiopia,Political Protest,2025-01-01,35.997,6.7722,High
+1962,Ukraine,Riots,2025-01-01,-27.9159,2.2433,High
+1963,Ukraine,Armed Conflict,2025-01-02,-18.124,-11.8435,Moderate
+1964,Myanmar,Armed Conflict,2025-01-02,0.1645,-54.1205,Low
+1965,Myanmar,Armed Conflict,2025-01-03,-8.0476,-77.6163,Moderate
+1966,South Sudan,Border Skirmish,2025-01-04,-9.4315,-54.8425,Moderate
+1967,South Sudan,Armed Conflict,2025-01-04,-20.8523,49.7329,Low
+1968,Pakistan,Armed Conflict,2025-01-05,-19.7349,-98.9052,High
+1969,India,Armed Conflict,2025-01-05,33.8099,77.8829,Low
+1970,Myanmar,Armed Conflict,2025-01-05,37.1548,92.987,Low
+1971,India,Border Skirmish,2025-01-05,-8.827,50.0764,Low
+1972,South Sudan,Riots,2025-01-06,-39.5263,-62.4166,Low
+1973,Brazil,Political Protest,2025-01-07,29.1338,8.5086,Moderate
+1974,Nigeria,Strike,2025-01-07,13.95,-80.7511,High
+1975,South Sudan,Political Protest,2025-01-07,-22.6128,-78.5944,Moderate
+1976,Myanmar,Political Protest,2025-01-07,-21.6446,-35.4225,Low
+1977,Ukraine,Riots,2025-01-08,37.9276,97.4966,Low
+1978,Nigeria,Border Skirmish,2025-01-08,19.3457,11.6285,Low
+1979,South Sudan,Armed Conflict,2025-01-08,29.8209,-44.0198,Low
+1980,Ukraine,Riots,2025-01-09,13.2854,-54.9149,Low
+1981,Brazil,Border Skirmish,2025-01-09,-31.4948,-80.0071,Moderate
+1982,Brazil,Civil Unrest,2025-01-09,21.1465,35.6028,High
+1983,South Sudan,Armed Conflict,2025-01-09,-32.1896,-96.3794,Low
+1984,Ukraine,Riots,2025-01-10,5.3007,3.4627,Low
+1985,South Sudan,Political Protest,2025-01-10,-11.1556,45.8638,Moderate
+1986,Nigeria,Border Skirmish,2025-01-11,-9.5488,-41.3111,Moderate
+1987,Ethiopia,Riots,2025-01-12,21.3141,-14.0362,Critical
+1988,Pakistan,Border Skirmish,2025-01-12,-11.1654,-80.0435,Moderate
+1989,Myanmar,Civil Unrest,2025-01-13,1.3304,-38.3944,Moderate
+1990,Ethiopia,Riots,2025-01-13,-6.8571,84.0899,Low
+1991,Nigeria,Civil Unrest,2025-01-13,3.578,94.6373,High
+1992,Pakistan,Riots,2025-01-13,22.9437,62.3187,Moderate
+1993,Ukraine,Civil Unrest,2025-01-13,-30.774,-89.7911,Moderate
+1994,Pakistan,Strike,2025-01-14,26.8469,-28.6959,High
+1995,South Sudan,Political Protest,2025-01-15,-22.261,-69.7494,Low
+1996,Pakistan,Strike,2025-01-15,-16.9729,86.7079,Moderate
+1997,Brazil,Border Skirmish,2025-01-17,-39.1614,-45.7867,High
+1998,Ethiopia,Political Protest,2025-01-17,-38.999,-1.7614,High
+1999,Myanmar,Armed Conflict,2025-01-17,-6.0996,27.4509,Low
+2000,Nigeria,Political Protest,2025-01-17,34.966,97.8792,Low
+2001,Pakistan,Civil Unrest,2025-01-18,7.945,-98.6986,Low
+2002,South Sudan,Border Skirmish,2025-01-18,-15.95,-4.4985,Moderate
+2003,India,Border Skirmish,2025-01-18,1.2553,78.4663,Low
+2004,Pakistan,Strike,2025-01-19,19.5856,54.002,Moderate
+2005,Brazil,Political Protest,2025-01-19,4.6137,74.348,Low
+2006,Pakistan,Political Protest,2025-01-19,-19.2694,5.4666,Moderate
+2007,Brazil,Strike,2025-01-20,29.8802,-3.7034,Low
+2008,Ethiopia,Civil Unrest,2025-01-20,13.8582,66.2934,Low
+2009,South Sudan,Civil Unrest,2025-01-20,26.3844,-73.7601,Moderate
+2010,Nigeria,Political Protest,2025-01-21,-22.9252,-29.8786,Low
+2011,Brazil,Political Protest,2025-01-21,-5.1561,-52.8298,Moderate
+2012,Nigeria,Border Skirmish,2025-01-21,28.2559,14.9973,Low
+2013,Brazil,Border Skirmish,2025-01-22,-24.5241,-79.9358,Low
+2014,Nigeria,Civil Unrest,2025-01-22,-17.6547,-73.0796,Critical
+2015,Ukraine,Political Protest,2025-01-23,-34.856,-88.8545,Low
+2016,Nigeria,Armed Conflict,2025-01-23,23.179,57.1652,High
+2017,Brazil,Armed Conflict,2025-01-23,-2.5131,92.4106,Low
+2018,Pakistan,Armed Conflict,2025-01-24,6.1157,62.992,Critical
+2019,Brazil,Border Skirmish,2025-01-24,15.1664,-63.9142,Low
+2020,South Sudan,Border Skirmish,2025-01-24,-17.6248,35.0031,Moderate
+2021,Ethiopia,Border Skirmish,2025-01-25,10.0892,-46.312,Low
+2022,Ethiopia,Strike,2025-01-26,-16.6923,62.2219,Low
+2023,India,Strike,2025-01-27,-19.1827,-82.2338,High
+2024,Ethiopia,Strike,2025-01-28,-17.3792,76.0453,Moderate
+2025,Pakistan,Civil Unrest,2025-01-28,-24.8851,-8.9694,Moderate
+2026,India,Armed Conflict,2025-01-28,-25.1095,-97.1843,High
+2027,Ethiopia,Armed Conflict,2025-01-28,-10.4094,27.5628,High
+2028,India,Strike,2025-01-28,-10.9935,20.7875,Critical
+2029,Ukraine,Border Skirmish,2025-01-28,-15.8348,-65.6159,Moderate
+2030,Ukraine,Strike,2025-01-30,-9.5485,-85.0944,Moderate
+2031,Ethiopia,Civil Unrest,2025-01-30,-18.0805,97.5228,Low
+2032,Ukraine,Political Protest,2025-01-30,17.7349,97.1677,Low
+2033,Nigeria,Border Skirmish,2025-01-30,-39.2882,-58.6423,Moderate
+2034,Pakistan,Civil Unrest,2025-01-30,-38.3659,-94.9513,High
+2035,Ukraine,Political Protest,2025-01-30,17.4802,-66.5095,Moderate
+2036,Pakistan,Riots,2025-01-31,-1.725,72.5713,Low
+2037,Nigeria,Strike,2025-01-31,6.2758,-38.0405,Low
+2038,Brazil,Armed Conflict,2025-01-31,32.1165,8.3036,High
+2039,Brazil,Political Protest,2025-02-01,-28.5802,-75.136,Low
+2040,Brazil,Border Skirmish,2025-02-01,-30.8951,14.7189,Moderate
+2041,India,Civil Unrest,2025-02-01,-29.6645,-17.5851,Moderate
+2042,Myanmar,Strike,2025-02-01,39.0257,-39.2331,High
+2043,Ukraine,Riots,2025-02-01,25.6773,2.5454,High
+2044,India,Armed Conflict,2025-02-01,12.9023,-41.0848,Moderate
+2045,Nigeria,Civil Unrest,2025-02-02,13.9713,-50.8226,Low
+2046,India,Border Skirmish,2025-02-02,-14.5039,51.3314,High
+2047,Myanmar,Riots,2025-02-02,-7.2757,56.7399,Moderate
+2048,Myanmar,Riots,2025-02-02,31.9812,-89.4862,Critical
+2049,Ethiopia,Strike,2025-02-02,-31.7878,70.6234,Low
+2050,Pakistan,Border Skirmish,2025-02-04,-20.9467,62.005,High
+2051,Ukraine,Riots,2025-02-05,-4.5543,-34.1086,Critical
+2052,India,Strike,2025-02-05,-24.762,60.1308,High
+2053,Myanmar,Riots,2025-02-05,19.6485,51.2697,Critical
+2054,India,Strike,2025-02-05,-7.9449,-10.3636,Critical
+2055,India,Strike,2025-02-06,29.7081,0.0431,Low
+2056,Pakistan,Riots,2025-02-07,-25.5568,49.8512,Critical
+2057,Ethiopia,Political Protest,2025-02-07,22.2238,-45.0246,Moderate
+2058,Myanmar,Civil Unrest,2025-02-08,4.0629,-18.4867,Moderate
+2059,Myanmar,Strike,2025-02-08,-35.0876,-60.4561,High
+2060,Pakistan,Riots,2025-02-08,-24.2308,98.9915,Low
+2061,South Sudan,Civil Unrest,2025-02-08,34.2757,-57.8802,Low
+2062,Nigeria,Riots,2025-02-08,-34.3901,-85.4546,High
+2063,Pakistan,Border Skirmish,2025-02-08,-32.2042,15.0,Low
+2064,Nigeria,Political Protest,2025-02-09,30.3143,-20.5533,Moderate
+2065,Ethiopia,Armed Conflict,2025-02-09,9.8117,-43.9827,Low
+2066,Ukraine,Political Protest,2025-02-09,-15.7492,-61.0486,High
+2067,Ukraine,Strike,2025-02-10,-29.2457,-73.3199,High
+2068,South Sudan,Armed Conflict,2025-02-10,9.4256,-62.5443,Low
+2069,Ethiopia,Armed Conflict,2025-02-10,-36.9471,6.3217,Moderate
+2070,India,Strike,2025-02-11,5.7691,95.0404,High
+2071,Nigeria,Border Skirmish,2025-02-12,27.5448,-91.3414,Moderate
+2072,Pakistan,Border Skirmish,2025-02-12,-26.361,82.1071,Low
+2073,Pakistan,Armed Conflict,2025-02-12,-36.416,-81.9149,High
+2074,Pakistan,Strike,2025-02-13,-22.0491,7.5101,Moderate
+2075,Pakistan,Civil Unrest,2025-02-13,-30.9867,-63.8215,Low
+2076,Pakistan,Civil Unrest,2025-02-14,26.6006,42.5188,Moderate
+2077,Myanmar,Political Protest,2025-02-14,6.4221,99.6661,High
+2078,Pakistan,Strike,2025-02-14,-5.5653,-80.3916,High
+2079,Pakistan,Armed Conflict,2025-02-14,-3.8989,-89.3101,Moderate
+2080,Myanmar,Border Skirmish,2025-02-14,36.3847,-69.9019,Low
+2081,India,Riots,2025-02-14,39.4007,24.0012,Low
+2082,Brazil,Civil Unrest,2025-02-14,27.916,-26.0969,High
+2083,Nigeria,Border Skirmish,2025-02-15,-35.3231,-42.4542,High
+2084,Pakistan,Border Skirmish,2025-02-15,-34.4982,92.9298,Moderate
+2085,Myanmar,Armed Conflict,2025-02-16,23.5838,-77.4845,Moderate
+2086,Myanmar,Riots,2025-02-16,-23.9771,-30.7058,Low
+2087,Brazil,Political Protest,2025-02-16,-16.3124,94.6038,Low
+2088,Ethiopia,Strike,2025-02-17,-29.1323,-11.1666,High
+2089,Myanmar,Border Skirmish,2025-02-17,16.1047,64.2391,Moderate
+2090,Nigeria,Political Protest,2025-02-17,16.0383,-80.7023,Moderate
+2091,Brazil,Riots,2025-02-17,33.806,24.1456,High
+2092,Nigeria,Strike,2025-02-17,-19.7244,89.5485,Moderate
+2093,India,Armed Conflict,2025-02-18,-7.2801,78.9002,High
+2094,India,Border Skirmish,2025-02-18,13.9594,-19.0625,Low
+2095,Ethiopia,Civil Unrest,2025-02-18,-14.8603,-89.8281,High
+2096,South Sudan,Border Skirmish,2025-02-19,-36.3692,-88.2395,High
+2097,Pakistan,Strike,2025-02-19,-4.4156,19.2253,Critical
+2098,Brazil,Strike,2025-02-19,16.637,65.9201,Moderate
+2099,India,Armed Conflict,2025-02-19,31.6401,-84.5377,Moderate
+2100,Pakistan,Riots,2025-02-19,-37.6982,-65.3251,Low
+2101,Brazil,Strike,2025-02-20,11.3706,47.5151,High
+2102,Nigeria,Riots,2025-02-21,30.3808,-30.0961,High
+2103,Nigeria,Strike,2025-02-21,-4.5679,58.309,Low
+2104,Pakistan,Political Protest,2025-02-22,39.4043,47.0825,Moderate
+2105,Brazil,Strike,2025-02-22,-23.9453,-85.8162,Moderate
+2106,Ukraine,Border Skirmish,2025-02-22,35.4855,-64.9069,Low
+2107,India,Riots,2025-02-23,35.2769,80.8337,Moderate
+2108,Ethiopia,Border Skirmish,2025-02-23,-17.3655,-50.2865,High
+2109,Ethiopia,Riots,2025-02-23,-36.1204,-88.8619,Moderate
+2110,India,Border Skirmish,2025-02-23,-32.5728,-67.5794,Low
+2111,Ukraine,Civil Unrest,2025-02-24,-36.0852,71.244,Low
+2112,Ukraine,Riots,2025-02-25,28.959,-7.6372,Low
+2113,Myanmar,Civil Unrest,2025-02-25,-39.8676,72.4503,Low
+2114,Brazil,Riots,2025-02-25,22.0844,40.1271,High
+2115,Pakistan,Border Skirmish,2025-02-27,-36.4954,-64.5876,Moderate
+2116,India,Strike,2025-02-27,14.7622,64.7131,Low
+2117,Ukraine,Armed Conflict,2025-02-28,36.1637,75.3228,High
+2118,Nigeria,Civil Unrest,2025-02-28,-38.5141,40.9593,High
+2119,Brazil,Border Skirmish,2025-02-28,30.1849,-4.6039,Low
+2120,India,Political Protest,2025-03-01,20.1945,-50.8335,Low
+2121,Nigeria,Political Protest,2025-03-02,2.1044,75.329,Low
+2122,India,Border Skirmish,2025-03-02,22.0911,-35.7335,Moderate
+2123,India,Armed Conflict,2025-03-02,-5.2073,-4.329,Low
+2124,Ukraine,Civil Unrest,2025-03-02,1.4035,52.8076,High
+2125,Ethiopia,Armed Conflict,2025-03-03,4.568,23.3603,Moderate
+2126,South Sudan,Armed Conflict,2025-03-03,-19.718,-37.7393,Moderate
+2127,Ukraine,Political Protest,2025-03-03,28.2526,-53.3098,Low
+2128,Brazil,Armed Conflict,2025-03-03,-18.3556,-81.1291,Low
+2129,Ukraine,Civil Unrest,2025-03-04,-8.5154,-16.3729,Low
+2130,Pakistan,Strike,2025-03-04,-22.1732,42.87,Critical
+2131,Brazil,Armed Conflict,2025-03-04,16.6777,-43.8568,Low
+2132,Ukraine,Political Protest,2025-03-04,31.8551,-62.1177,Low
+2133,South Sudan,Riots,2025-03-04,-33.8356,81.8673,Moderate
+2134,India,Strike,2025-03-04,32.094,-47.0266,Low
+2135,Ethiopia,Armed Conflict,2025-03-05,-27.437,-46.1103,Critical
+2136,Brazil,Riots,2025-03-05,39.2413,-13.7913,Low
+2137,South Sudan,Political Protest,2025-03-05,-34.6797,98.1903,High
+2138,Nigeria,Strike,2025-03-06,-21.0234,-35.4334,Low
+2139,South Sudan,Border Skirmish,2025-03-06,-18.5678,2.9709,Moderate
+2140,Myanmar,Armed Conflict,2025-03-07,-14.1366,51.7406,Moderate
+2141,Ethiopia,Strike,2025-03-07,-30.5429,-99.0439,Moderate
+2142,Myanmar,Armed Conflict,2025-03-07,1.5263,18.4721,High
+2143,Myanmar,Armed Conflict,2025-03-07,26.9974,7.4642,Moderate
+2144,Ukraine,Armed Conflict,2025-03-07,-28.8935,-76.8948,Moderate
+2145,Myanmar,Riots,2025-03-08,10.1006,-2.3193,Moderate
+2146,Pakistan,Civil Unrest,2025-03-08,15.2085,30.4464,Moderate
+2147,Nigeria,Armed Conflict,2025-03-08,6.5148,32.0846,Low
+2148,Pakistan,Political Protest,2025-03-08,9.3231,19.472,High
+2149,Ethiopia,Armed Conflict,2025-03-10,3.6832,64.0893,High
+2150,Nigeria,Border Skirmish,2025-03-10,-38.8992,-96.871,Moderate
+2151,India,Strike,2025-03-10,-30.6003,20.6486,Low
+2152,Nigeria,Riots,2025-03-11,-32.893,-83.3685,Low
+2153,Brazil,Armed Conflict,2025-03-11,-20.2243,-39.3464,High
+2154,South Sudan,Armed Conflict,2025-03-11,32.0195,56.3817,Low
+2155,South Sudan,Border Skirmish,2025-03-11,36.1642,-28.979,Low
+2156,Myanmar,Strike,2025-03-12,-4.9494,52.1529,Low
+2157,Brazil,Armed Conflict,2025-03-12,-20.5674,53.3748,Critical
+2158,Myanmar,Strike,2025-03-12,-0.8556,-80.603,Low
+2159,Ukraine,Riots,2025-03-12,-9.2971,-92.7816,High
+2160,Ukraine,Political Protest,2025-03-14,18.9161,-96.597,Low
+2161,Pakistan,Political Protest,2025-03-15,5.6011,-25.2725,High
+2162,South Sudan,Political Protest,2025-03-15,23.8482,-90.2342,High
+2163,India,Civil Unrest,2025-03-15,8.867,10.6459,High
+2164,Nigeria,Riots,2025-03-15,-0.5491,-40.5731,Low
+2165,Brazil,Border Skirmish,2025-03-15,12.6618,-90.4089,Moderate
+2166,Pakistan,Riots,2025-03-15,9.3335,-66.3186,Low
+2167,Pakistan,Strike,2025-03-16,17.3107,-50.5135,Low
+2168,Ethiopia,Strike,2025-03-16,-32.1622,-66.4651,Moderate
+2169,Ethiopia,Strike,2025-03-16,-38.1752,-88.7557,Low
+2170,Pakistan,Political Protest,2025-03-16,-35.9494,77.2078,High
+2171,Ethiopia,Border Skirmish,2025-03-17,-26.8152,52.2381,Low
+2172,India,Political Protest,2025-03-17,18.8298,-40.2377,Low
+2173,Brazil,Political Protest,2025-03-19,10.9558,-90.4938,Low
+2174,Pakistan,Strike,2025-03-19,29.8642,86.2242,High
+2175,Nigeria,Strike,2025-03-20,-27.0718,51.7094,Moderate
+2176,Ukraine,Strike,2025-03-22,-11.7925,40.8405,Moderate
+2177,Ethiopia,Armed Conflict,2025-03-24,35.1999,-25.8753,High
+2178,Ukraine,Armed Conflict,2025-03-24,-37.6035,-88.334,Low
+2179,Brazil,Strike,2025-03-24,3.7829,89.9026,Low
+2180,Pakistan,Border Skirmish,2025-03-24,-13.3873,-29.0071,Moderate
+2181,Pakistan,Riots,2025-03-24,9.6549,-74.4192,Low
+2182,South Sudan,Armed Conflict,2025-03-25,-26.5979,92.3903,Moderate
+2183,Ethiopia,Riots,2025-03-25,15.8576,89.5635,Critical
+2184,Myanmar,Riots,2025-03-25,-3.3765,-86.0968,High
+2185,Myanmar,Riots,2025-03-25,-11.3389,-66.4839,Low
+2186,Pakistan,Riots,2025-03-26,21.4273,19.3127,Critical
+2187,Ethiopia,Border Skirmish,2025-03-26,28.1459,62.196,Low
+2188,Brazil,Political Protest,2025-03-26,-34.6497,47.0902,Low
+2189,Brazil,Riots,2025-03-26,4.4532,-76.1794,Critical
+2190,Ethiopia,Civil Unrest,2025-03-26,-31.8793,11.5034,Critical
+2191,Pakistan,Armed Conflict,2025-03-26,5.0971,-16.2905,Moderate
+2192,South Sudan,Riots,2025-03-27,18.1203,28.1341,High
+2193,Ukraine,Armed Conflict,2025-03-27,15.8312,34.5324,Critical
+2194,South Sudan,Riots,2025-03-27,-28.233,-6.9092,Low
+2195,Ethiopia,Political Protest,2025-03-27,20.2515,78.3805,High
+2196,South Sudan,Armed Conflict,2025-03-28,-37.3847,-71.908,Low
+2197,Pakistan,Strike,2025-03-29,-10.5727,-60.6003,Critical
+2198,Pakistan,Armed Conflict,2025-03-29,-4.8074,14.925,High
+2199,South Sudan,Strike,2025-03-29,-3.4275,-59.1587,Moderate
+2200,Brazil,Border Skirmish,2025-03-30,22.4884,25.0119,Moderate
+2201,Pakistan,Political Protest,2025-03-30,34.3233,-39.052,Low
+2202,South Sudan,Armed Conflict,2025-03-30,20.0792,34.8009,Moderate
+2203,South Sudan,Armed Conflict,2025-03-30,-1.1372,57.6428,Moderate
+2204,South Sudan,Riots,2025-03-30,-28.8747,-31.0625,Low
+2205,India,Armed Conflict,2025-03-31,32.1839,-39.7963,Low
+2206,Pakistan,Border Skirmish,2025-03-31,12.7826,-13.2814,Moderate
+2207,Ethiopia,Armed Conflict,2025-03-31,16.2028,-46.3667,Critical
+2208,Ethiopia,Riots,2025-03-31,0.4846,-49.8961,Low
+2209,Myanmar,Civil Unrest,2025-04-01,27.1322,-27.8286,Critical
+2210,Pakistan,Political Protest,2025-04-01,33.195,55.5337,Low
+2211,India,Border Skirmish,2025-04-01,-34.7926,13.0853,Critical
+2212,Ukraine,Riots,2025-04-01,11.3593,-34.0898,Critical
+2213,India,Border Skirmish,2025-04-01,-7.934,-9.2548,High
+2214,Ethiopia,Riots,2025-04-01,16.1049,-90.5534,Low
+2215,India,Riots,2025-04-02,-33.4958,30.8726,Low
+2216,India,Armed Conflict,2025-04-02,-0.7606,-4.2907,Low
+2217,Brazil,Riots,2025-04-02,34.3597,48.6836,Low
+2218,Ukraine,Civil Unrest,2025-04-02,-22.479,60.4973,High
+2219,Nigeria,Armed Conflict,2025-04-03,-12.7978,45.3532,Moderate
+2220,India,Political Protest,2025-04-03,16.4548,-14.7692,High
+2221,Pakistan,Strike,2025-04-04,30.8209,4.8802,Moderate
+2222,Ethiopia,Border Skirmish,2025-04-04,-2.1138,96.2417,High
+2223,South Sudan,Political Protest,2025-04-05,-23.5542,89.2415,Low
+2224,Pakistan,Civil Unrest,2025-04-05,-3.2107,41.4146,Low
+2225,Ukraine,Strike,2025-04-06,27.6089,-44.4504,High
+2226,Nigeria,Political Protest,2025-04-06,-30.2884,-94.5716,Moderate
+2227,Myanmar,Armed Conflict,2025-04-07,6.8345,17.1066,Low
+2228,Myanmar,Political Protest,2025-04-07,-34.9419,86.6557,Moderate
+2229,South Sudan,Riots,2025-04-07,27.2813,49.1915,Critical
+2230,Pakistan,Border Skirmish,2025-04-07,9.1395,-28.7432,Moderate
+2231,Ethiopia,Political Protest,2025-04-07,6.9407,38.9015,High
+2232,Pakistan,Border Skirmish,2025-04-08,-11.1977,51.802,Moderate
+2233,India,Armed Conflict,2025-04-10,12.0677,-26.7323,Low
+2234,Brazil,Border Skirmish,2025-04-10,26.3283,-98.3259,High
+2235,Ukraine,Armed Conflict,2025-04-10,9.958,-57.0846,Moderate
+2236,South Sudan,Political Protest,2025-04-10,-34.9616,35.3757,High
+2237,Ethiopia,Strike,2025-04-11,-38.7496,-40.9247,Critical
+2238,India,Border Skirmish,2025-04-12,3.4099,81.9329,Low
+2239,Myanmar,Political Protest,2025-04-12,-7.339,64.9419,Low
+2240,Myanmar,Armed Conflict,2025-04-12,-5.1655,-3.9052,Moderate
+2241,Myanmar,Armed Conflict,2025-04-12,-26.5313,-44.0669,Moderate
+2242,Pakistan,Political Protest,2025-04-12,-3.7429,85.1305,Low
+2243,India,Border Skirmish,2025-04-13,-34.9342,88.8691,Low
+2244,Ethiopia,Armed Conflict,2025-04-14,17.0471,-88.591,High
+2245,South Sudan,Strike,2025-04-15,-24.9013,-90.9955,Moderate
+2246,South Sudan,Political Protest,2025-04-15,18.0438,-1.5858,Low
+2247,South Sudan,Riots,2025-04-15,-28.4965,6.2269,Critical
+2248,Nigeria,Strike,2025-04-15,-29.9685,75.4984,High
+2249,Myanmar,Political Protest,2025-04-16,2.1593,-11.9538,Low
+2250,Ethiopia,Strike,2025-04-16,36.3988,-42.6631,Moderate
+2251,South Sudan,Strike,2025-04-16,-30.6766,16.0156,Low
+2252,Ethiopia,Civil Unrest,2025-04-16,-3.9985,-73.2166,Low
+2253,Myanmar,Political Protest,2025-04-16,27.4205,-12.3942,Low
+2254,India,Strike,2025-04-16,-35.9982,94.6277,Low
+2255,Myanmar,Strike,2025-04-17,18.6512,75.6463,Moderate
+2256,Nigeria,Riots,2025-04-17,-20.6161,-10.0842,Critical
+2257,Myanmar,Political Protest,2025-04-17,38.3444,-91.32,High
+2258,Ukraine,Armed Conflict,2025-04-17,-24.6444,69.8133,High
+2259,Brazil,Civil Unrest,2025-04-19,7.9789,43.4818,High
+2260,Myanmar,Civil Unrest,2025-04-19,14.0229,-21.1311,Low
+2261,Pakistan,Political Protest,2025-04-20,0.4203,-49.3279,Moderate
+2262,India,Civil Unrest,2025-04-20,-12.3418,76.186,Moderate
+2263,Pakistan,Armed Conflict,2025-04-21,30.5364,-12.0397,Low
+2264,Ethiopia,Border Skirmish,2025-04-21,-16.5035,92.2892,High
+2265,Nigeria,Riots,2025-04-21,37.0983,-0.4068,High
+2266,Pakistan,Civil Unrest,2025-04-22,29.3733,-81.9389,Low
+2267,Brazil,Riots,2025-04-23,-28.3383,71.2524,Low
+2268,Brazil,Political Protest,2025-04-23,-23.9968,6.0175,Low
+2269,South Sudan,Riots,2025-04-24,-25.9024,45.4476,Low
+2270,Myanmar,Civil Unrest,2025-04-24,32.4647,95.5178,Low
+2271,South Sudan,Armed Conflict,2025-04-24,14.465,84.312,Critical
+2272,Ethiopia,Armed Conflict,2025-04-25,-3.6937,-46.0403,Low
+2273,Myanmar,Armed Conflict,2025-04-25,-8.5746,52.7592,Low
+2274,Ethiopia,Civil Unrest,2025-04-26,30.9434,20.2347,High
+2275,Ethiopia,Armed Conflict,2025-04-26,37.8831,-31.0198,Low
+2276,Brazil,Riots,2025-04-26,-32.7936,-52.3738,Low
+2277,Ethiopia,Strike,2025-04-27,-13.8353,59.791,Low
+2278,Brazil,Riots,2025-04-27,36.7167,7.7848,Moderate
+2279,Myanmar,Civil Unrest,2025-04-27,9.6827,38.5075,Low
+2280,South Sudan,Civil Unrest,2025-04-28,-29.3006,-74.099,Low
+2281,India,Civil Unrest,2025-04-28,15.4554,47.285,Low
+2282,India,Political Protest,2025-04-28,-10.7267,80.0929,Moderate
+2283,South Sudan,Armed Conflict,2025-04-29,39.4112,-2.0887,Moderate
+2284,Myanmar,Civil Unrest,2025-04-29,10.6875,14.4565,High
+2285,South Sudan,Strike,2025-04-29,-1.3998,18.6755,Low
+2286,Ukraine,Riots,2025-04-30,-38.1788,-45.5004,Moderate
+2287,South Sudan,Border Skirmish,2025-04-30,-30.8181,-40.5633,Low
+2288,Ukraine,Riots,2025-04-30,-16.4785,29.9069,Low
+2289,South Sudan,Armed Conflict,2025-05-01,-1.6323,53.8456,Moderate
+2290,Nigeria,Civil Unrest,2025-05-02,4.4109,45.3205,Moderate
+2291,India,Civil Unrest,2025-05-02,37.5139,-92.3845,Low
+2292,Brazil,Political Protest,2025-05-02,-23.961,46.5858,Low
+2293,Nigeria,Riots,2025-05-02,-1.4161,-79.4632,High
+2294,Ethiopia,Riots,2025-05-03,2.459,-36.5412,Low
+2295,Ethiopia,Civil Unrest,2025-05-03,-14.4748,-60.5775,Low
+2296,Myanmar,Border Skirmish,2025-05-03,-2.5538,54.558,Low
+2297,Nigeria,Civil Unrest,2025-05-03,-37.8432,95.6777,High
+2298,Pakistan,Border Skirmish,2025-05-04,37.634,64.5454,Low
+2299,South Sudan,Riots,2025-05-04,21.7334,93.1327,Low
+2300,Brazil,Political Protest,2025-05-05,16.2351,-48.4031,Moderate
+2301,Ethiopia,Political Protest,2025-05-05,36.4395,30.2016,High
+2302,Nigeria,Border Skirmish,2025-05-05,-19.8788,83.1453,Critical
+2303,Pakistan,Riots,2025-05-05,-9.8409,1.6451,Low
+2304,Pakistan,Armed Conflict,2025-05-06,23.6522,89.2244,Low
+2305,Nigeria,Political Protest,2025-05-06,-17.2697,-86.2293,High
+2306,South Sudan,Civil Unrest,2025-05-07,-5.7453,59.0622,Moderate
+2307,Ethiopia,Border Skirmish,2025-05-08,-22.7118,91.8083,High
+2308,India,Border Skirmish,2025-05-08,-29.7401,20.8676,Moderate
+2309,Myanmar,Armed Conflict,2025-05-08,34.8966,-46.4649,High
+2310,Pakistan,Strike,2025-05-08,39.2519,57.1136,Low
+2311,Myanmar,Border Skirmish,2025-05-09,-27.2844,-71.7002,Low
+2312,Pakistan,Border Skirmish,2025-05-10,-27.7407,-50.635,Moderate
+2313,Ethiopia,Civil Unrest,2025-05-10,19.5908,62.8949,Moderate
+2314,Brazil,Political Protest,2025-05-10,-20.7214,82.4822,Critical
+2315,Ethiopia,Border Skirmish,2025-05-11,23.1185,-6.8656,Moderate
+2316,India,Strike,2025-05-11,30.0782,97.9958,Low
+2317,Brazil,Border Skirmish,2025-05-11,4.9469,44.4335,High
+2318,Pakistan,Civil Unrest,2025-05-12,36.6342,-67.3774,Low
+2319,Pakistan,Civil Unrest,2025-05-12,27.7358,72.122,Moderate
+2320,Brazil,Civil Unrest,2025-05-13,0.9811,17.9746,Low
+2321,Brazil,Civil Unrest,2025-05-13,12.9858,91.7043,Low
+2322,Pakistan,Political Protest,2025-05-13,-19.1711,38.7835,Critical
+2323,Nigeria,Strike,2025-05-14,-6.2586,-63.6479,Low
+2324,Pakistan,Strike,2025-05-14,38.6333,-51.698,Moderate
+2325,South Sudan,Strike,2025-05-15,20.1932,95.7841,Moderate
+2326,India,Armed Conflict,2025-05-15,-15.3239,85.8566,Low
+2327,India,Civil Unrest,2025-05-15,-24.3131,90.9411,Moderate
+2328,Ukraine,Civil Unrest,2025-05-15,-31.0043,91.1069,High
+2329,Brazil,Civil Unrest,2025-05-16,33.8392,-49.8989,High
+2330,Ukraine,Armed Conflict,2025-05-16,2.6333,3.6862,Critical
+2331,Brazil,Armed Conflict,2025-05-16,22.5772,34.3521,Low
+2332,India,Border Skirmish,2025-05-16,-16.9208,-95.9191,Moderate
+2333,Nigeria,Civil Unrest,2025-05-16,-22.437,52.6719,Low
+2334,Ukraine,Civil Unrest,2025-05-17,17.0667,72.0213,Low
+2335,India,Armed Conflict,2025-05-17,20.5067,-86.825,High
+2336,Ethiopia,Riots,2025-05-18,36.7157,-48.9289,High
+2337,Ukraine,Civil Unrest,2025-05-18,28.6212,-94.1989,Low
+2338,Nigeria,Political Protest,2025-05-19,-24.0497,59.6923,Low
+2339,India,Armed Conflict,2025-05-20,15.6122,63.8496,Low
+2340,Pakistan,Civil Unrest,2025-05-20,33.4166,-65.2093,Critical
+2341,South Sudan,Riots,2025-05-20,28.9286,9.1751,High
+2342,Ethiopia,Border Skirmish,2025-05-20,-18.4103,7.1583,Critical
+2343,South Sudan,Strike,2025-05-21,29.168,-4.5528,High
+2344,Brazil,Political Protest,2025-05-21,16.0378,-83.8491,Moderate
+2345,South Sudan,Strike,2025-05-21,5.0116,-87.2228,Moderate
+2346,India,Civil Unrest,2025-05-21,-1.1678,-52.4693,Low
+2347,South Sudan,Border Skirmish,2025-05-22,20.0527,-89.4897,Low
+2348,Brazil,Civil Unrest,2025-05-22,-39.9108,8.1233,Critical
+2349,India,Strike,2025-05-22,30.2182,19.7011,High
+2350,Nigeria,Riots,2025-05-22,-18.8045,21.4459,Low
+2351,India,Armed Conflict,2025-05-22,-14.0805,47.1109,Moderate
+2352,Myanmar,Riots,2025-05-23,-0.4778,74.4771,Moderate
+2353,Myanmar,Strike,2025-05-23,-26.6555,-97.2712,Low
+2354,India,Riots,2025-05-24,-7.0919,90.8798,High
+2355,India,Riots,2025-05-25,15.1946,-94.1677,Moderate
+2356,Pakistan,Strike,2025-05-25,27.5628,-93.7117,Moderate
+2357,South Sudan,Civil Unrest,2025-05-25,-35.364,34.211,Critical
+2358,Myanmar,Border Skirmish,2025-05-26,0.5282,-57.5693,Moderate
+2359,Pakistan,Armed Conflict,2025-05-26,-23.463,42.9097,Low
+2360,South Sudan,Border Skirmish,2025-05-26,-1.3993,-33.0897,Low
+2361,Ethiopia,Armed Conflict,2025-05-26,1.5277,5.2944,Low
+2362,Ethiopia,Strike,2025-05-27,-5.3922,-28.0407,Low
+2363,India,Riots,2025-05-28,-4.2755,97.9449,Low
+2364,South Sudan,Strike,2025-05-28,32.9241,-51.5713,Low
+2365,Ethiopia,Riots,2025-05-28,-35.6135,56.9065,Moderate
+2366,Ethiopia,Political Protest,2025-05-30,-6.3897,9.6783,Low
+2367,Pakistan,Riots,2025-05-30,-11.645,-0.6499,Low
+2368,South Sudan,Border Skirmish,2025-05-30,4.5458,-7.2301,Moderate
+2369,Myanmar,Riots,2025-05-30,32.7418,-64.0002,Critical
+2370,India,Armed Conflict,2025-05-30,25.4298,-64.3926,Low
+2371,Nigeria,Riots,2025-05-30,38.325,-67.8471,Moderate
+2372,Ethiopia,Riots,2025-05-30,-0.6592,52.4929,Low
+2373,South Sudan,Political Protest,2025-05-30,-5.1807,-82.1994,Moderate
+2374,India,Strike,2025-06-01,-5.7608,-34.6728,Moderate
+2375,Ukraine,Political Protest,2025-06-01,6.0691,-33.1458,Low
+2376,Myanmar,Strike,2025-06-01,24.2626,26.9389,Moderate
+2377,Myanmar,Border Skirmish,2025-06-01,13.8112,-22.7754,Low
+2378,Ukraine,Civil Unrest,2025-06-01,-27.2953,49.4587,Moderate
+2379,South Sudan,Riots,2025-06-01,-31.5323,-4.8598,Low
+2380,Brazil,Armed Conflict,2025-06-02,27.9318,6.3513,Low
+2381,Pakistan,Armed Conflict,2025-06-02,-17.4489,23.3754,Moderate
+2382,Pakistan,Border Skirmish,2025-06-02,7.6479,-57.8061,Low
+2383,Myanmar,Political Protest,2025-06-02,-33.077,-93.4477,Moderate
+2384,Nigeria,Civil Unrest,2025-06-02,-22.1825,6.1893,Low
+2385,Ukraine,Riots,2025-06-03,28.6697,6.1029,Low
+2386,Nigeria,Armed Conflict,2025-06-03,27.6148,46.8489,Low
+2387,Pakistan,Border Skirmish,2025-06-04,-38.0778,33.8563,Moderate
+2388,Nigeria,Armed Conflict,2025-06-04,-15.1539,-18.0602,High
+2389,Ethiopia,Riots,2025-06-04,36.7479,60.8979,Low
+2390,India,Border Skirmish,2025-06-04,-28.9283,-45.6387,Moderate
+2391,Ukraine,Armed Conflict,2025-06-05,27.2049,16.3833,Low
+2392,Ethiopia,Civil Unrest,2025-06-05,22.5601,-16.3975,Low
+2393,South Sudan,Riots,2025-06-05,13.16,-53.3535,Low
+2394,Nigeria,Border Skirmish,2025-06-06,10.5871,34.8156,High
+2395,Ukraine,Armed Conflict,2025-06-06,-33.9183,5.6525,Moderate
+2396,Ethiopia,Armed Conflict,2025-06-06,-30.6841,37.6275,Critical
+2397,Pakistan,Political Protest,2025-06-07,28.2429,-69.2655,Critical
+2398,India,Strike,2025-06-07,-13.6935,81.3514,Critical
+2399,Myanmar,Strike,2025-06-07,1.8052,-27.1,Moderate
+2400,Nigeria,Armed Conflict,2025-06-09,8.2931,72.2828,Moderate
+2401,Myanmar,Border Skirmish,2025-06-09,24.2427,-56.8691,Critical
+2402,Brazil,Strike,2025-06-09,30.8462,80.3006,Low
+2403,Pakistan,Civil Unrest,2025-06-09,-29.2159,-73.8579,Moderate
+2404,Myanmar,Armed Conflict,2025-06-10,-12.2077,29.8613,Low
+2405,Brazil,Riots,2025-06-10,13.0305,-64.0624,Critical
+2406,Pakistan,Riots,2025-06-10,-0.6913,-23.5822,Low
+2407,Nigeria,Riots,2025-06-10,-37.4652,-38.5893,Low
+2408,India,Armed Conflict,2025-06-10,-26.558,-67.2763,Low
+2409,Nigeria,Border Skirmish,2025-06-11,-38.0435,55.3307,Low
+2410,India,Civil Unrest,2025-06-11,-39.9231,48.0693,Low
+2411,India,Riots,2025-06-12,6.8663,-42.897,Moderate
+2412,Nigeria,Strike,2025-06-13,33.032,3.6555,Moderate
+2413,Ukraine,Armed Conflict,2025-06-13,8.0909,-94.6539,Low
+2414,Ukraine,Civil Unrest,2025-06-13,-37.205,-85.916,High
+2415,Ethiopia,Political Protest,2025-06-14,33.8645,-86.6059,High
+2416,South Sudan,Civil Unrest,2025-06-14,-26.6685,-67.4588,Moderate
+2417,South Sudan,Riots,2025-06-14,-18.8771,-53.5281,Low
+2418,India,Strike,2025-06-15,4.501,15.0967,Moderate
+2419,Myanmar,Civil Unrest,2025-06-15,-37.5167,29.014,High
+2420,Pakistan,Border Skirmish,2025-06-16,-6.8012,53.839,High
+2421,Nigeria,Border Skirmish,2025-06-16,-30.1404,82.3229,High
+2422,Nigeria,Political Protest,2025-06-16,7.7111,-75.2244,Low
+2423,India,Strike,2025-06-17,-18.3231,-17.9024,Moderate
+2424,India,Political Protest,2025-06-17,6.3247,-90.6109,High
+2425,Ethiopia,Border Skirmish,2025-06-17,-3.3032,45.9179,High
+2426,Ethiopia,Border Skirmish,2025-06-17,10.9039,-22.2625,Moderate
+2427,Ukraine,Political Protest,2025-06-17,-16.8976,-79.8037,High
+2428,Brazil,Political Protest,2025-06-18,22.5694,51.3366,Low
+2429,South Sudan,Border Skirmish,2025-06-18,37.6276,-75.6553,Low
+2430,India,Armed Conflict,2025-06-18,3.3881,-96.7039,Critical
+2431,Brazil,Border Skirmish,2025-06-18,-16.3609,-96.7684,High
+2432,India,Border Skirmish,2025-06-18,30.7352,-70.8396,Low
+2433,Nigeria,Political Protest,2025-06-19,-23.0198,-21.9327,Critical
+2434,Nigeria,Political Protest,2025-06-20,36.5108,-28.313,Moderate
+2435,Pakistan,Strike,2025-06-20,18.2515,-3.0709,Low
+2436,Ethiopia,Border Skirmish,2025-06-21,-17.3686,-87.5529,Low
+2437,Nigeria,Riots,2025-06-21,22.9667,-94.1225,Critical
+2438,Ethiopia,Civil Unrest,2025-06-21,33.7606,-74.1161,High
+2439,South Sudan,Armed Conflict,2025-06-21,24.0606,-31.7542,Low
+2440,India,Strike,2025-06-22,-26.4914,38.6757,Low
+2441,South Sudan,Civil Unrest,2025-06-23,-12.7577,-12.2901,Moderate
+2442,Pakistan,Border Skirmish,2025-06-23,32.6649,-35.0395,Low
+2443,Nigeria,Civil Unrest,2025-06-24,-10.5798,18.7724,Moderate
+2444,South Sudan,Civil Unrest,2025-06-24,24.8092,-41.7118,Moderate
+2445,India,Strike,2025-06-24,-22.2635,-2.0753,Moderate
+2446,Brazil,Strike,2025-06-24,-1.3651,-45.0245,High
+2447,South Sudan,Political Protest,2025-06-25,17.9661,-70.6886,Low
+2448,Brazil,Riots,2025-06-25,10.8196,88.9233,Critical
+2449,Brazil,Civil Unrest,2025-06-27,39.9457,-14.0317,Moderate
+2450,Myanmar,Civil Unrest,2025-06-27,-25.0385,12.1872,Low
+2451,Pakistan,Political Protest,2025-06-27,10.8947,-47.3335,Low
+2452,Ethiopia,Strike,2025-06-27,-27.3556,-34.3527,Moderate
+2453,Ethiopia,Civil Unrest,2025-06-28,-6.3902,81.6328,High
+2454,India,Border Skirmish,2025-06-28,-7.3292,-40.0526,High
+2455,Brazil,Riots,2025-06-28,-10.2705,83.0445,Moderate
+2456,Brazil,Strike,2025-06-29,19.0219,-77.3725,High
+2457,Brazil,Border Skirmish,2025-06-29,15.1775,-11.8892,Low
+2458,Ethiopia,Civil Unrest,2025-06-29,9.454,-67.6066,Moderate
+2459,Pakistan,Strike,2025-06-29,12.9,75.8159,Moderate
+2460,Pakistan,Border Skirmish,2025-06-29,-22.3364,-76.5195,Moderate
+2461,Myanmar,Strike,2025-06-30,-33.5578,-10.5311,Low
+2462,Pakistan,Political Protest,2025-06-30,-9.8801,43.1865,Moderate
+2463,Ethiopia,Strike,2025-07-01,-0.4316,-60.6477,Low
+2464,Pakistan,Armed Conflict,2025-07-01,-29.6131,49.0015,High
+2465,Brazil,Border Skirmish,2025-07-01,17.7648,47.0595,High
+2466,Ethiopia,Political Protest,2025-07-02,2.0305,26.509,Low
+2467,Pakistan,Political Protest,2025-07-02,34.0136,-22.9658,High
+2468,Pakistan,Civil Unrest,2025-07-02,-5.1895,71.8455,Moderate
+2469,Brazil,Civil Unrest,2025-07-02,0.9442,72.4126,Moderate
+2470,Ethiopia,Political Protest,2025-07-03,27.8891,88.986,Low
+2471,India,Strike,2025-07-03,-9.4609,-98.7161,Moderate
+2472,Brazil,Civil Unrest,2025-07-03,-37.8396,-74.8297,High
+2473,Pakistan,Political Protest,2025-07-04,12.6489,-40.2241,Low
+2474,Pakistan,Civil Unrest,2025-07-04,-25.2166,55.7853,Low
+2475,Ukraine,Civil Unrest,2025-07-05,-39.2102,-83.0461,Moderate
+2476,South Sudan,Armed Conflict,2025-07-05,-29.1758,-29.8637,Low
+2477,Ethiopia,Political Protest,2025-07-05,-37.519,22.2153,High
+2478,Ethiopia,Riots,2025-07-06,-20.1707,-37.2007,High
+2479,Pakistan,Strike,2025-07-06,39.5229,32.3289,Critical
+2480,Pakistan,Border Skirmish,2025-07-06,-4.6178,-32.1118,Low
+2481,Brazil,Political Protest,2025-07-07,36.3436,86.8736,Moderate
+2482,South Sudan,Riots,2025-07-07,-21.1425,-12.7348,Low
+2483,Brazil,Border Skirmish,2025-07-07,35.8368,31.6858,Critical
+2484,Ethiopia,Armed Conflict,2025-07-07,31.0106,39.7148,Moderate
+2485,Pakistan,Armed Conflict,2025-07-08,-15.1219,28.3757,Moderate
+2486,Pakistan,Strike,2025-07-08,-28.4461,-47.8632,Moderate
+2487,Myanmar,Border Skirmish,2025-07-09,25.9266,52.5959,High
+2488,Brazil,Strike,2025-07-09,-13.4613,-6.7482,Low
+2489,Myanmar,Armed Conflict,2025-07-09,2.174,90.8699,Low
+2490,Ethiopia,Strike,2025-07-09,10.5979,24.6817,Low
+2491,Pakistan,Political Protest,2025-07-09,2.1653,-16.996,Critical
+2492,Myanmar,Strike,2025-07-09,9.6861,43.4641,Moderate
+2493,Myanmar,Border Skirmish,2025-07-09,-28.7415,-45.0292,Moderate
+2494,Brazil,Armed Conflict,2025-07-10,-18.8785,58.8689,Moderate
+2495,Brazil,Civil Unrest,2025-07-10,27.875,44.0919,Moderate
+2496,Nigeria,Strike,2025-07-11,8.2791,-22.2997,Low
+2497,India,Riots,2025-07-11,-25.3326,68.8789,Low
+2498,Ethiopia,Strike,2025-07-12,12.1688,80.0994,Low
+2499,Ukraine,Strike,2025-07-12,-23.3828,-11.2225,Low
+2500,Brazil,Riots,2025-07-13,-9.5724,-97.7713,Moderate
+2501,Ethiopia,Armed Conflict,2025-07-13,21.0426,20.3821,Low
+2502,Ukraine,Armed Conflict,2025-07-14,-29.8949,-8.9936,Low
+2503,Pakistan,Riots,2025-07-14,-19.3954,-43.2417,Moderate
+2504,Nigeria,Border Skirmish,2025-07-14,-8.7226,-83.9572,Critical
+2505,Ethiopia,Riots,2025-07-15,-6.2179,97.8617,Moderate
+2506,Ethiopia,Armed Conflict,2025-07-16,-0.7987,77.0738,Low
+2507,Ukraine,Political Protest,2025-07-16,11.5835,-51.9756,Low
+2508,Myanmar,Armed Conflict,2025-07-17,-39.8672,-84.234,Low
+2509,India,Border Skirmish,2025-07-17,18.9965,-18.6537,Moderate
+2510,Ukraine,Armed Conflict,2025-07-17,1.3083,-95.6074,Low
+2511,Ethiopia,Civil Unrest,2025-07-17,28.8811,-50.2379,Low
+2512,Brazil,Civil Unrest,2025-07-17,-34.4532,-30.6418,High
+2513,India,Political Protest,2025-07-17,6.511,70.0979,Low
+2514,South Sudan,Political Protest,2025-07-18,-24.3318,36.8075,Low
+2515,Ukraine,Political Protest,2025-07-18,16.0226,-38.5142,Low
+2516,Ukraine,Civil Unrest,2025-07-18,7.3199,-14.1527,High
+2517,Brazil,Political Protest,2025-07-18,22.5306,54.1487,Low
+2518,Ethiopia,Riots,2025-07-19,-19.8878,92.5098,Low
+2519,South Sudan,Civil Unrest,2025-07-19,11.1594,-93.7956,Low
+2520,Ethiopia,Strike,2025-07-19,27.9031,-1.0992,High
+2521,Brazil,Civil Unrest,2025-07-20,-15.935,9.5852,High
+2522,South Sudan,Armed Conflict,2025-07-20,-14.32,-62.9869,Moderate
+2523,Brazil,Political Protest,2025-07-21,-6.2244,16.2919,Low
+2524,Pakistan,Armed Conflict,2025-07-22,37.1637,-28.5905,Moderate
+2525,Nigeria,Political Protest,2025-07-22,15.4835,32.1571,Low
+2526,Pakistan,Border Skirmish,2025-07-22,32.0794,12.0498,High
+2527,South Sudan,Strike,2025-07-22,12.4524,63.5977,Critical
+2528,Brazil,Armed Conflict,2025-07-22,10.1124,-73.059,Moderate
+2529,Brazil,Civil Unrest,2025-07-23,31.6431,-80.7583,Moderate
+2530,Nigeria,Armed Conflict,2025-07-23,-6.965,-79.3208,Low
+2531,Pakistan,Political Protest,2025-07-24,5.5799,-9.2418,Low
+2532,South Sudan,Civil Unrest,2025-07-24,-10.1449,76.7529,Low
+2533,Ethiopia,Civil Unrest,2025-07-24,18.4835,-54.6388,Moderate
+2534,India,Riots,2025-07-24,12.6208,37.6215,Low
+2535,Pakistan,Strike,2025-07-24,-1.4041,62.3693,Low
+2536,Myanmar,Armed Conflict,2025-07-24,-27.4566,-92.3124,Low
+2537,South Sudan,Riots,2025-07-24,33.3146,51.3702,High
+2538,Ethiopia,Riots,2025-07-24,13.9839,40.926,Low
+2539,Pakistan,Riots,2025-07-24,-22.5727,67.7152,Critical
+2540,Pakistan,Political Protest,2025-07-25,-0.6436,-22.6174,Moderate
+2541,India,Border Skirmish,2025-07-25,10.1774,-11.1756,Critical
+2542,Brazil,Civil Unrest,2025-07-25,18.5681,47.6875,Low
+2543,Myanmar,Armed Conflict,2025-07-27,26.7886,-67.6012,High
+2544,Nigeria,Civil Unrest,2025-07-27,4.1617,-45.5161,Low
+2545,India,Strike,2025-07-27,-8.7444,77.2291,Low
+2546,Pakistan,Riots,2025-07-28,-24.2339,83.0432,High
+2547,India,Riots,2025-07-28,20.8927,-10.8634,Low
+2548,Ethiopia,Border Skirmish,2025-07-28,36.6242,60.1969,Low
+2549,Pakistan,Civil Unrest,2025-07-28,-8.5867,-3.7228,Low
+2550,Brazil,Riots,2025-07-28,15.3753,-23.0019,High
+2551,Pakistan,Civil Unrest,2025-07-29,9.2895,-11.175,Moderate
+2552,India,Riots,2025-07-29,-33.9608,31.2135,Low
+2553,Ethiopia,Riots,2025-07-30,-13.3909,23.7595,High
+2554,Nigeria,Border Skirmish,2025-07-30,23.1763,4.7929,High
+2555,Ethiopia,Strike,2025-07-30,-28.0841,-47.5149,Moderate
+2556,Pakistan,Armed Conflict,2025-07-30,15.9911,-19.1799,Moderate
+2557,Nigeria,Border Skirmish,2025-07-31,5.3887,-7.1091,High
+2558,South Sudan,Armed Conflict,2025-07-31,17.2209,-18.2086,Low
+2559,Ukraine,Strike,2025-07-31,-19.5395,76.6671,Moderate
+2560,Pakistan,Riots,2025-07-31,37.0217,99.8353,Moderate
+2561,Pakistan,Riots,2025-07-31,-18.4739,-9.4854,Low
+2562,Pakistan,Armed Conflict,2025-08-01,-4.3446,-6.8553,Moderate
+2563,South Sudan,Border Skirmish,2025-08-01,-13.7276,40.0096,High
+2564,Pakistan,Border Skirmish,2025-08-01,11.9643,28.8889,Low
+2565,South Sudan,Strike,2025-08-01,-38.4778,-58.9062,Low
+2566,Ethiopia,Riots,2025-08-02,20.9675,-44.5848,Low
+2567,India,Political Protest,2025-08-03,14.3605,-1.4263,Moderate
+2568,Brazil,Strike,2025-08-03,15.0159,-68.8449,Moderate
+2569,Nigeria,Political Protest,2025-08-03,-16.3224,-49.6603,Moderate
+2570,Brazil,Armed Conflict,2025-08-04,-25.9321,18.3412,Low
+2571,Nigeria,Civil Unrest,2025-08-04,25.3098,19.6502,Low
+2572,India,Border Skirmish,2025-08-04,-31.1352,45.8111,Low
+2573,South Sudan,Border Skirmish,2025-08-04,-39.8783,51.2833,Moderate
+2574,Nigeria,Civil Unrest,2025-08-04,5.6092,12.7142,Low
+2575,Pakistan,Political Protest,2025-08-04,3.2162,91.8588,Moderate
+2576,India,Border Skirmish,2025-08-05,23.011,82.5918,Moderate
+2577,Nigeria,Political Protest,2025-08-05,-15.2966,24.8612,Low
+2578,Pakistan,Strike,2025-08-05,-39.5288,-87.8896,Moderate
+2579,Brazil,Civil Unrest,2025-08-05,3.0414,66.2496,High
+2580,Brazil,Strike,2025-08-06,0.6813,-92.167,High
+2581,South Sudan,Strike,2025-08-06,0.1963,-19.4128,Moderate
+2582,Myanmar,Civil Unrest,2025-08-08,21.5895,-97.9153,Moderate
+2583,Pakistan,Border Skirmish,2025-08-08,11.1709,70.4346,Low
+2584,Ethiopia,Riots,2025-08-08,-24.4319,36.2564,Low
+2585,India,Riots,2025-08-09,38.6974,94.6108,High
+2586,Brazil,Civil Unrest,2025-08-09,22.9188,70.8183,Moderate
+2587,Myanmar,Border Skirmish,2025-08-09,-3.0633,5.547,Low
+2588,Pakistan,Riots,2025-08-09,17.9318,2.0959,Moderate
+2589,Ukraine,Border Skirmish,2025-08-09,9.0245,-45.3537,Moderate
+2590,South Sudan,Riots,2025-08-10,27.6529,34.2837,Critical
+2591,South Sudan,Armed Conflict,2025-08-11,18.1234,-40.0477,Low
+2592,Brazil,Border Skirmish,2025-08-11,14.7971,-28.381,High
+2593,Myanmar,Strike,2025-08-12,-2.2014,85.6386,Low
+2594,South Sudan,Riots,2025-08-12,26.6696,59.5915,High
+2595,Pakistan,Riots,2025-08-12,39.3935,-66.1598,High
+2596,Pakistan,Armed Conflict,2025-08-12,-26.9895,-57.0887,Moderate
+2597,Pakistan,Strike,2025-08-13,38.0227,-86.3782,Moderate
+2598,Myanmar,Civil Unrest,2025-08-13,-5.473,-96.8945,Low
+2599,Ukraine,Political Protest,2025-08-13,25.2866,21.9187,Low
+2600,India,Border Skirmish,2025-08-13,0.3239,-80.5373,Moderate
+2601,South Sudan,Political Protest,2025-08-13,-36.3262,-63.5721,Moderate
+2602,Brazil,Strike,2025-08-13,21.6144,-50.3878,Critical
+2603,Ukraine,Strike,2025-08-14,35.632,-33.2539,Moderate
+2604,South Sudan,Border Skirmish,2025-08-14,-35.7831,44.5628,Moderate
+2605,Ethiopia,Political Protest,2025-08-14,-27.9349,-21.0469,Low
+2606,India,Armed Conflict,2025-08-14,11.8794,44.7346,Low
+2607,Brazil,Riots,2025-08-14,3.8796,-99.1357,Moderate
+2608,Nigeria,Riots,2025-08-14,29.8591,-83.8427,Low
+2609,Pakistan,Border Skirmish,2025-08-15,-33.0977,62.4799,High
+2610,Ethiopia,Civil Unrest,2025-08-15,-4.2549,-45.3981,Moderate
+2611,Ethiopia,Civil Unrest,2025-08-15,14.8517,-94.2897,Moderate
+2612,South Sudan,Political Protest,2025-08-15,-10.7194,-30.7867,Moderate
+2613,South Sudan,Civil Unrest,2025-08-15,8.2509,52.5164,Moderate
+2614,Ethiopia,Civil Unrest,2025-08-15,16.6156,14.6026,High
+2615,South Sudan,Political Protest,2025-08-16,29.4532,-73.3485,Moderate
+2616,Ukraine,Border Skirmish,2025-08-16,-36.9123,-69.3102,Moderate
+2617,Nigeria,Civil Unrest,2025-08-16,-1.9726,27.7106,Moderate
+2618,Nigeria,Political Protest,2025-08-17,14.2593,-13.5227,Critical
+2619,Ethiopia,Armed Conflict,2025-08-17,14.2133,-95.1978,Low
+2620,South Sudan,Political Protest,2025-08-17,-36.9327,-38.7139,Low
+2621,Nigeria,Armed Conflict,2025-08-18,29.5604,16.9583,Low
+2622,South Sudan,Border Skirmish,2025-08-19,-26.1427,29.0074,Critical
+2623,India,Riots,2025-08-19,-4.356,28.1154,High
+2624,Ukraine,Strike,2025-08-19,-8.3313,-72.9544,High
+2625,India,Political Protest,2025-08-20,22.682,-32.0948,Low
+2626,South Sudan,Strike,2025-08-21,-7.6877,7.4873,Moderate
+2627,South Sudan,Political Protest,2025-08-21,21.7719,-92.2846,Low
+2628,Ethiopia,Riots,2025-08-21,-18.9018,65.518,Critical
+2629,Nigeria,Armed Conflict,2025-08-23,-38.5606,-28.0393,Moderate
+2630,Pakistan,Civil Unrest,2025-08-23,39.0522,54.7252,Moderate
+2631,Pakistan,Civil Unrest,2025-08-24,8.3931,17.6429,Low
+2632,Myanmar,Border Skirmish,2025-08-25,-3.981,10.8046,Moderate
+2633,Ethiopia,Political Protest,2025-08-25,28.6618,-12.3199,Low
+2634,Brazil,Civil Unrest,2025-08-25,13.8014,-82.1374,Low
+2635,Ethiopia,Strike,2025-08-26,-16.0053,-49.3592,Moderate
+2636,Myanmar,Riots,2025-08-26,-14.695,-82.8331,Low
+2637,Pakistan,Civil Unrest,2025-08-26,17.9059,60.1288,Low
+2638,Brazil,Strike,2025-08-26,38.5654,-32.3126,Moderate
+2639,India,Political Protest,2025-08-27,-23.426,25.0999,Moderate
+2640,South Sudan,Armed Conflict,2025-08-28,33.8941,-49.7891,Moderate
+2641,Ukraine,Political Protest,2025-08-28,-0.5546,-94.0969,High
+2642,South Sudan,Strike,2025-08-28,7.6179,-33.9241,High
+2643,Pakistan,Border Skirmish,2025-08-28,-36.6339,-30.0172,Low
+2644,Brazil,Border Skirmish,2025-08-29,-16.2192,-17.5938,Moderate
+2645,Nigeria,Border Skirmish,2025-08-29,30.0354,96.3036,Low
+2646,Myanmar,Strike,2025-08-29,25.2663,-47.7117,Moderate
+2647,Myanmar,Civil Unrest,2025-08-30,39.7212,92.4479,Low
+2648,Pakistan,Border Skirmish,2025-08-30,-16.4564,79.7779,Moderate
+2649,Myanmar,Border Skirmish,2025-08-30,-11.9548,62.9912,Low
+2650,South Sudan,Riots,2025-08-30,24.2702,-53.9974,Low
+2651,Brazil,Armed Conflict,2025-08-30,4.5369,0.4483,Low
+2652,Ethiopia,Riots,2025-08-31,-30.6256,-86.6884,High
+2653,Ukraine,Civil Unrest,2025-08-31,23.7975,63.3206,Low
+2654,South Sudan,Armed Conflict,2025-08-31,-25.7788,-50.3481,Critical
+2655,Brazil,Riots,2025-08-31,6.5448,90.1475,High
+2656,Pakistan,Political Protest,2025-09-01,31.7433,-10.3056,High
+2657,Nigeria,Political Protest,2025-09-01,21.3775,68.328,Moderate
+2658,South Sudan,Strike,2025-09-02,-8.5137,67.7277,Low
+2659,Brazil,Armed Conflict,2025-09-02,-32.962,-84.3922,Moderate
+2660,Ethiopia,Civil Unrest,2025-09-03,24.1075,3.4502,Low
+2661,Ethiopia,Armed Conflict,2025-09-03,35.2411,-80.323,High
+2662,Brazil,Border Skirmish,2025-09-04,-24.2962,42.6049,Low
+2663,Brazil,Strike,2025-09-04,-10.3418,-40.481,Moderate
+2664,Pakistan,Riots,2025-09-04,-21.2002,75.1676,Moderate
+2665,India,Armed Conflict,2025-09-05,21.0291,73.298,Moderate
+2666,Ethiopia,Civil Unrest,2025-09-06,8.7787,-40.9703,Low
+2667,South Sudan,Armed Conflict,2025-09-06,26.4428,89.4943,High
+2668,Ethiopia,Riots,2025-09-06,-6.8693,31.7846,Moderate
+2669,India,Political Protest,2025-09-06,-25.493,-70.2109,Moderate
+2670,South Sudan,Riots,2025-09-07,-38.3802,-48.7431,Low
+2671,South Sudan,Strike,2025-09-07,-7.468,-61.1327,Critical
+2672,Myanmar,Political Protest,2025-09-07,-13.4484,46.7518,High
+2673,Myanmar,Armed Conflict,2025-09-07,-26.4509,-78.0952,Low
+2674,Myanmar,Armed Conflict,2025-09-08,-36.0869,79.3188,Moderate
+2675,Ethiopia,Riots,2025-09-08,-10.4475,27.4089,High
+2676,South Sudan,Strike,2025-09-08,26.166,26.252,Critical
+2677,Myanmar,Civil Unrest,2025-09-08,-27.5224,31.6602,High
+2678,Pakistan,Armed Conflict,2025-09-09,17.1754,-90.659,Critical
+2679,Ethiopia,Civil Unrest,2025-09-09,-39.7298,-67.9351,Moderate
+2680,Myanmar,Strike,2025-09-09,20.8538,92.2055,Moderate
+2681,Pakistan,Civil Unrest,2025-09-09,-17.1317,-38.165,Moderate
+2682,Pakistan,Armed Conflict,2025-09-10,-29.689,97.3258,Low
+2683,India,Civil Unrest,2025-09-10,-3.3359,-99.0494,Low
+2684,Pakistan,Armed Conflict,2025-09-10,14.7105,75.3691,Moderate
+2685,Ethiopia,Civil Unrest,2025-09-10,32.5056,-89.5625,Low
+2686,India,Armed Conflict,2025-09-10,36.7544,94.3086,Critical
+2687,South Sudan,Riots,2025-09-11,19.4,-71.5627,High
+2688,Nigeria,Armed Conflict,2025-09-11,-26.2865,81.9107,Critical
+2689,Brazil,Riots,2025-09-11,-26.3808,-44.0748,High
+2690,Ethiopia,Armed Conflict,2025-09-11,18.5583,8.1562,Low
+2691,Brazil,Border Skirmish,2025-09-12,-20.4216,-13.8337,Low
+2692,Ethiopia,Political Protest,2025-09-12,-10.0462,50.1175,High
+2693,Brazil,Civil Unrest,2025-09-12,12.711,26.3536,Low
+2694,Ukraine,Civil Unrest,2025-09-13,6.3383,79.5576,Moderate
+2695,Brazil,Political Protest,2025-09-14,25.2773,-99.9402,Low
+2696,South Sudan,Civil Unrest,2025-09-14,1.7329,-77.7822,High
+2697,Nigeria,Riots,2025-09-14,23.4384,-71.9333,Moderate
+2698,South Sudan,Armed Conflict,2025-09-14,6.9073,-81.861,High
+2699,South Sudan,Political Protest,2025-09-14,39.9184,63.8919,Critical
+2700,South Sudan,Border Skirmish,2025-09-15,32.6873,-45.7964,Moderate
+2701,Brazil,Border Skirmish,2025-09-15,26.0999,94.3127,High
+2702,Brazil,Civil Unrest,2025-09-15,-31.3555,96.9854,Moderate
+2703,Brazil,Civil Unrest,2025-09-16,14.7389,24.9591,Low
+2704,South Sudan,Civil Unrest,2025-09-16,-8.9655,-41.2762,High
+2705,Myanmar,Riots,2025-09-16,-12.881,11.5206,Low
+2706,Nigeria,Border Skirmish,2025-09-16,-34.0868,-98.2649,Critical
+2707,South Sudan,Border Skirmish,2025-09-16,21.39,-86.2546,Low
+2708,Myanmar,Riots,2025-09-16,-8.1904,-66.3302,Moderate
+2709,Pakistan,Armed Conflict,2025-09-17,-33.1019,-98.5343,Low
+2710,Ethiopia,Armed Conflict,2025-09-18,0.4346,-11.2914,Moderate
+2711,Brazil,Riots,2025-09-18,35.0037,-75.0229,Low
+2712,South Sudan,Armed Conflict,2025-09-19,-6.2008,-64.9179,Low
+2713,Ethiopia,Political Protest,2025-09-19,34.4903,3.1939,Low
+2714,Ukraine,Border Skirmish,2025-09-19,-33.1588,-70.3561,Moderate
+2715,Ethiopia,Border Skirmish,2025-09-19,38.8934,16.0473,Moderate
+2716,India,Political Protest,2025-09-19,0.9792,-89.063,Moderate
+2717,Brazil,Border Skirmish,2025-09-20,-12.5891,-52.8118,Low
+2718,Pakistan,Armed Conflict,2025-09-20,-5.2384,-66.1215,Low
+2719,Nigeria,Political Protest,2025-09-20,-6.1754,-3.833,Moderate
+2720,Myanmar,Border Skirmish,2025-09-21,14.9706,-92.0617,Critical
+2721,Pakistan,Riots,2025-09-21,-29.636,-66.0388,Moderate
+2722,Myanmar,Armed Conflict,2025-09-21,-29.4144,-70.7678,Low
+2723,India,Riots,2025-09-22,-0.9783,-50.0243,Critical
+2724,India,Border Skirmish,2025-09-22,0.0896,39.3717,Low
+2725,Ethiopia,Strike,2025-09-23,36.15,-99.4879,Moderate
+2726,South Sudan,Border Skirmish,2025-09-23,-36.1673,9.4492,Low
+2727,Ethiopia,Civil Unrest,2025-09-23,-19.4393,-48.3246,Low
+2728,Pakistan,Political Protest,2025-09-24,-26.3474,77.9614,Low
+2729,Brazil,Civil Unrest,2025-09-24,-38.7095,33.9748,Low
+2730,Myanmar,Strike,2025-09-24,22.8944,-58.5764,Low
+2731,Pakistan,Civil Unrest,2025-09-25,-39.2265,33.6223,Low
+2732,South Sudan,Riots,2025-09-25,31.133,-84.6043,Low
+2733,Brazil,Armed Conflict,2025-09-25,-10.3627,-41.0804,Moderate
+2734,Brazil,Strike,2025-09-27,-7.499,60.6441,High
+2735,South Sudan,Civil Unrest,2025-09-27,-24.5221,-8.2237,Low
+2736,Ukraine,Armed Conflict,2025-09-27,7.3726,85.0376,High
+2737,Pakistan,Strike,2025-09-29,-18.1199,-86.9681,Critical
+2738,Myanmar,Border Skirmish,2025-09-29,3.5724,58.3125,Moderate
+2739,Pakistan,Riots,2025-09-30,7.9136,7.2378,Low
+2740,India,Civil Unrest,2025-09-30,-19.6739,86.0697,Moderate
+2741,Ukraine,Armed Conflict,2025-09-30,-39.6067,-69.4699,Moderate
+2742,Myanmar,Civil Unrest,2025-10-01,-34.3911,-83.7046,High
+2743,Ethiopia,Civil Unrest,2025-10-01,20.5245,-22.7295,High
+2744,Brazil,Civil Unrest,2025-10-01,-8.861,76.9525,Low
+2745,Brazil,Armed Conflict,2025-10-02,2.6225,23.3166,Critical
+2746,Nigeria,Political Protest,2025-10-03,-24.2087,-38.0894,High
+2747,Pakistan,Political Protest,2025-10-03,-7.6197,-37.8983,Moderate
+2748,Nigeria,Civil Unrest,2025-10-03,-28.2458,61.3306,Low
+2749,Ethiopia,Civil Unrest,2025-10-03,-26.6189,-1.3378,Low
+2750,Brazil,Civil Unrest,2025-10-04,-5.5914,-75.586,Moderate
+2751,Brazil,Armed Conflict,2025-10-04,-39.4105,37.9875,High
+2752,Ukraine,Riots,2025-10-04,-3.9906,-3.5517,Moderate
+2753,Pakistan,Armed Conflict,2025-10-04,34.6211,79.2153,Low
+2754,South Sudan,Strike,2025-10-05,-17.5992,60.8116,Moderate
+2755,Ukraine,Riots,2025-10-05,35.7183,-80.2831,Moderate
+2756,Nigeria,Civil Unrest,2025-10-05,26.1113,-78.2234,High
+2757,Brazil,Civil Unrest,2025-10-05,11.2046,53.1512,Low
+2758,India,Border Skirmish,2025-10-05,32.7169,12.9041,Low
+2759,Ukraine,Strike,2025-10-06,-28.0017,-20.0074,Critical
+2760,Nigeria,Strike,2025-10-06,-32.091,-76.5935,Moderate
+2761,Brazil,Civil Unrest,2025-10-06,35.9168,94.0378,Moderate
+2762,Ukraine,Political Protest,2025-10-07,29.3458,-17.4877,High
+2763,South Sudan,Political Protest,2025-10-08,-6.1279,26.2122,Moderate
+2764,Ethiopia,Riots,2025-10-08,0.9947,32.775,Moderate
+2765,Myanmar,Border Skirmish,2025-10-08,9.9889,81.6231,Critical
+2766,Myanmar,Border Skirmish,2025-10-08,21.927,-55.8993,Critical
+2767,South Sudan,Strike,2025-10-09,-29.7445,67.5096,Low
+2768,Brazil,Strike,2025-10-09,14.9995,-44.6085,Low
+2769,Ukraine,Armed Conflict,2025-10-09,-28.5466,-86.029,High
+2770,Nigeria,Political Protest,2025-10-09,26.0136,87.8809,Moderate
+2771,Nigeria,Civil Unrest,2025-10-09,-33.8566,11.2322,Moderate
+2772,Pakistan,Political Protest,2025-10-10,21.4118,37.958,Low
+2773,Pakistan,Strike,2025-10-10,15.3809,-16.163,Low
+2774,Ethiopia,Riots,2025-10-10,-35.5051,16.9751,Moderate
+2775,Ukraine,Armed Conflict,2025-10-10,1.4762,-19.3596,Low
+2776,Ukraine,Strike,2025-10-10,-13.2581,-80.8739,Moderate
+2777,Ukraine,Border Skirmish,2025-10-11,26.8047,46.9683,Critical
+2778,Myanmar,Civil Unrest,2025-10-11,-4.4597,-61.0741,High
+2779,Brazil,Border Skirmish,2025-10-11,28.1982,30.0365,Moderate
+2780,Nigeria,Civil Unrest,2025-10-11,-20.3715,90.0045,Moderate
+2781,Nigeria,Civil Unrest,2025-10-11,24.1764,11.489,Low
+2782,Ethiopia,Riots,2025-10-11,13.4109,-49.6778,Moderate
+2783,India,Strike,2025-10-12,23.5177,18.064,Low
+2784,Pakistan,Border Skirmish,2025-10-12,27.7447,-70.3709,Low
+2785,Myanmar,Strike,2025-10-13,14.0637,-59.3689,Moderate
+2786,South Sudan,Political Protest,2025-10-13,-38.6805,-26.082,High
+2787,India,Armed Conflict,2025-10-13,-22.3561,84.6734,High
+2788,India,Armed Conflict,2025-10-13,-4.7281,52.708,Low
+2789,South Sudan,Riots,2025-10-13,-28.5303,1.985,High
+2790,Brazil,Strike,2025-10-13,-9.0918,-55.5679,Low
+2791,India,Armed Conflict,2025-10-14,-32.6056,-15.8575,Moderate
+2792,Ukraine,Armed Conflict,2025-10-14,-3.9985,59.7044,High
+2793,Nigeria,Riots,2025-10-14,-11.6303,12.1163,Low
+2794,Ukraine,Riots,2025-10-16,-34.3419,90.879,High
+2795,Ukraine,Armed Conflict,2025-10-16,26.0493,-11.708,Low
+2796,Nigeria,Riots,2025-10-16,24.0133,2.5821,Low
+2797,Ukraine,Armed Conflict,2025-10-16,-0.0295,-2.9752,Low
+2798,Pakistan,Border Skirmish,2025-10-17,34.9608,65.9812,Low
+2799,Ukraine,Strike,2025-10-17,2.9524,-0.6974,High
+2800,South Sudan,Political Protest,2025-10-17,-18.3,0.5968,Low
+2801,Brazil,Border Skirmish,2025-10-18,11.6004,60.3122,Moderate
+2802,Brazil,Civil Unrest,2025-10-18,-15.2251,-30.8069,Low
+2803,India,Civil Unrest,2025-10-18,-2.3349,-0.5226,Low
+2804,Nigeria,Armed Conflict,2025-10-18,22.6294,83.0386,High
+2805,Brazil,Riots,2025-10-19,-22.5813,39.5576,Low
+2806,India,Strike,2025-10-19,39.1055,98.934,Low
+2807,Myanmar,Armed Conflict,2025-10-20,6.9398,99.327,Moderate
+2808,Ukraine,Political Protest,2025-10-20,11.1732,-43.0561,Low
+2809,Ukraine,Political Protest,2025-10-21,-36.5462,-24.8822,Low
+2810,India,Political Protest,2025-10-21,15.9697,84.8836,Critical
+2811,Ukraine,Civil Unrest,2025-10-21,9.6913,-91.9958,Moderate
+2812,Ukraine,Political Protest,2025-10-21,32.1609,66.1328,Moderate
+2813,Pakistan,Political Protest,2025-10-22,23.6139,-22.1814,Low
+2814,India,Border Skirmish,2025-10-23,36.2809,-95.2922,Critical
+2815,Ukraine,Armed Conflict,2025-10-23,32.8806,24.1408,Low
+2816,Myanmar,Border Skirmish,2025-10-23,16.8894,98.1984,Moderate
+2817,Brazil,Strike,2025-10-25,-5.2967,51.7935,Low
+2818,Ukraine,Riots,2025-10-25,-28.5049,87.1503,Critical
+2819,Ethiopia,Riots,2025-10-25,-28.1211,74.1081,Low
+2820,Nigeria,Riots,2025-10-27,-4.8282,47.3068,Critical
+2821,Ethiopia,Civil Unrest,2025-10-27,20.5974,-95.3194,Low
+2822,Pakistan,Strike,2025-10-27,3.5745,-49.9055,Low
+2823,Nigeria,Riots,2025-10-28,39.7745,-40.7155,Low
+2824,Brazil,Riots,2025-10-28,3.592,68.4974,Low
+2825,South Sudan,Armed Conflict,2025-10-28,-4.5167,43.806,Critical
+2826,India,Riots,2025-10-28,2.3416,26.3591,Moderate
+2827,Nigeria,Armed Conflict,2025-10-28,-5.35,16.9783,Low
+2828,India,Armed Conflict,2025-10-29,-23.3462,-36.3416,Low
+2829,Nigeria,Political Protest,2025-10-30,31.1166,76.4708,Low
+2830,India,Armed Conflict,2025-10-30,0.2165,-70.2845,Low
+2831,Myanmar,Political Protest,2025-10-30,39.333,53.1077,Moderate
+2832,Nigeria,Armed Conflict,2025-10-30,0.2342,-54.1076,Low
+2833,Ethiopia,Civil Unrest,2025-11-01,-9.9015,13.9251,High
+2834,Myanmar,Political Protest,2025-11-01,-12.6243,-23.075,Low
+2835,Brazil,Riots,2025-11-01,-14.9478,98.8184,Low
+2836,Brazil,Riots,2025-11-01,-10.5595,30.1321,High
+2837,South Sudan,Border Skirmish,2025-11-01,-27.2114,-8.5595,Moderate
+2838,Myanmar,Border Skirmish,2025-11-01,-34.2342,23.7507,Low
+2839,India,Civil Unrest,2025-11-01,28.1725,68.0288,Low
+2840,South Sudan,Political Protest,2025-11-02,36.3048,-43.4674,Moderate
+2841,South Sudan,Armed Conflict,2025-11-02,15.297,-35.1588,Low
+2842,Ethiopia,Political Protest,2025-11-02,27.5133,-40.0692,Low
+2843,Myanmar,Border Skirmish,2025-11-02,3.9293,-16.4623,Critical
+2844,Myanmar,Border Skirmish,2025-11-02,14.2632,-44.6722,High
+2845,Pakistan,Riots,2025-11-02,-6.2502,71.9133,Moderate
+2846,Brazil,Armed Conflict,2025-11-03,-36.6715,97.774,High
+2847,Myanmar,Strike,2025-11-03,-10.3722,40.4838,High
+2848,South Sudan,Riots,2025-11-04,-33.944,52.2265,Low
+2849,Brazil,Border Skirmish,2025-11-04,34.3192,41.5094,Moderate
+2850,Ethiopia,Civil Unrest,2025-11-04,27.9206,13.8593,Low
+2851,India,Political Protest,2025-11-05,-31.9791,81.7234,Moderate
+2852,Myanmar,Border Skirmish,2025-11-05,8.3147,-71.0077,Moderate
+2853,Brazil,Border Skirmish,2025-11-05,20.4054,81.8205,Critical
+2854,Ukraine,Riots,2025-11-05,16.1083,-47.4351,Moderate
+2855,Ukraine,Civil Unrest,2025-11-06,-13.6967,87.8484,Low
+2856,Pakistan,Political Protest,2025-11-06,5.0023,84.3695,Moderate
+2857,Ethiopia,Border Skirmish,2025-11-06,4.9882,-68.1891,Low
+2858,South Sudan,Political Protest,2025-11-06,-26.2299,-85.0235,Moderate
+2859,Brazil,Riots,2025-11-06,-18.2282,63.7261,High
+2860,Myanmar,Political Protest,2025-11-06,37.7321,-41.8763,Low
+2861,Myanmar,Political Protest,2025-11-08,-29.0653,-82.3127,Critical
+2862,Myanmar,Strike,2025-11-08,30.5566,10.4767,High
+2863,Myanmar,Armed Conflict,2025-11-08,15.3622,-11.5142,High
+2864,Myanmar,Riots,2025-11-09,-34.5173,-7.5745,Low
+2865,Pakistan,Armed Conflict,2025-11-09,5.5987,-58.1285,Low
+2866,Myanmar,Riots,2025-11-09,-10.6259,65.5955,High
+2867,Ukraine,Political Protest,2025-11-09,-24.5062,-84.6276,High
+2868,Ukraine,Border Skirmish,2025-11-09,3.0658,27.8628,Moderate
+2869,Brazil,Political Protest,2025-11-09,-2.5309,-21.9504,Low
+2870,India,Strike,2025-11-10,-32.3218,86.0932,Moderate
+2871,South Sudan,Armed Conflict,2025-11-11,19.7761,14.8173,Low
+2872,Myanmar,Armed Conflict,2025-11-11,-3.8284,84.5283,Low
+2873,Myanmar,Civil Unrest,2025-11-11,-0.5245,76.76,Low
+2874,Ukraine,Armed Conflict,2025-11-12,6.7207,-40.5219,Moderate
+2875,Brazil,Riots,2025-11-12,-25.4193,83.3882,Moderate
+2876,South Sudan,Civil Unrest,2025-11-12,-31.8467,85.7486,Moderate
+2877,Pakistan,Strike,2025-11-14,14.306,27.7383,Low
+2878,South Sudan,Riots,2025-11-14,19.3346,79.622,Moderate
+2879,Nigeria,Border Skirmish,2025-11-14,-10.8469,-97.592,Moderate
+2880,Ukraine,Riots,2025-11-15,-24.3599,-61.1898,Low
+2881,Ukraine,Strike,2025-11-15,-34.5508,1.4384,Moderate
+2882,Ethiopia,Armed Conflict,2025-11-15,4.4186,-87.7872,Moderate
+2883,India,Border Skirmish,2025-11-15,-8.1473,-24.7521,Low
+2884,Nigeria,Border Skirmish,2025-11-16,13.9428,-79.2518,Low
+2885,Myanmar,Civil Unrest,2025-11-16,28.9042,-19.6249,Low
+2886,Pakistan,Riots,2025-11-17,18.2958,35.4249,Low
+2887,Pakistan,Riots,2025-11-17,-37.9398,78.6722,Low
+2888,Myanmar,Riots,2025-11-17,2.256,-4.1176,Low
+2889,Nigeria,Riots,2025-11-18,-2.0472,-27.8757,Critical
+2890,Nigeria,Riots,2025-11-19,13.6312,8.0318,High
+2891,Nigeria,Political Protest,2025-11-19,-13.1944,50.8683,Critical
+2892,Nigeria,Political Protest,2025-11-19,36.7843,94.2728,Low
+2893,Myanmar,Riots,2025-11-20,26.5135,-85.2514,Critical
+2894,Pakistan,Civil Unrest,2025-11-20,-20.3611,47.2841,Low
+2895,South Sudan,Political Protest,2025-11-22,-34.0211,-66.173,Low
+2896,South Sudan,Border Skirmish,2025-11-22,-38.3846,-68.366,Low
+2897,Brazil,Border Skirmish,2025-11-22,20.3481,80.8136,High
+2898,Pakistan,Riots,2025-11-24,-20.9668,45.964,Low
+2899,Nigeria,Civil Unrest,2025-11-24,2.3415,65.9985,Critical
+2900,Nigeria,Strike,2025-11-24,-39.1617,10.7695,Moderate
+2901,Ukraine,Strike,2025-11-24,14.6394,85.1413,Moderate
+2902,India,Riots,2025-11-25,-37.1534,95.7546,High
+2903,Myanmar,Political Protest,2025-11-26,-21.8079,-69.1937,Moderate
+2904,Pakistan,Armed Conflict,2025-11-26,-9.3551,-41.1544,Moderate
+2905,Nigeria,Political Protest,2025-11-28,4.0774,-21.3968,Low
+2906,Ukraine,Political Protest,2025-11-28,20.7222,83.5803,High
+2907,Brazil,Political Protest,2025-11-28,23.4762,39.5774,Moderate
+2908,Brazil,Civil Unrest,2025-11-28,-7.5602,-25.5425,Low
+2909,Ukraine,Riots,2025-11-28,-34.3816,-23.6242,Low
+2910,Nigeria,Riots,2025-11-28,9.0817,85.0665,Low
+2911,Brazil,Armed Conflict,2025-11-28,-15.595,90.6403,Low
+2912,Pakistan,Political Protest,2025-11-28,26.4166,-92.9951,Low
+2913,Myanmar,Political Protest,2025-11-28,28.5307,77.2276,Moderate
+2914,India,Civil Unrest,2025-11-29,10.1522,52.1682,Low
+2915,Ethiopia,Strike,2025-11-29,-30.9429,-95.3337,High
+2916,South Sudan,Strike,2025-11-29,20.0205,-26.9301,Critical
+2917,Brazil,Civil Unrest,2025-11-30,-23.9868,62.7232,Critical
+2918,Myanmar,Armed Conflict,2025-11-30,-37.5406,47.8102,Moderate
+2919,Brazil,Strike,2025-11-30,-38.8677,-89.2785,High
+2920,Pakistan,Border Skirmish,2025-12-01,-33.0867,94.2197,Moderate
+2921,Nigeria,Border Skirmish,2025-12-01,-22.2161,-53.7917,Moderate
+2922,Ukraine,Border Skirmish,2025-12-02,-20.9068,-19.893,Low
+2923,Brazil,Armed Conflict,2025-12-03,-35.4995,91.5161,Low
+2924,South Sudan,Border Skirmish,2025-12-03,-31.0562,-2.5317,Low
+2925,India,Armed Conflict,2025-12-03,-20.927,-23.1337,High
+2926,Ethiopia,Strike,2025-12-03,-37.3293,-94.1021,Low
+2927,Myanmar,Riots,2025-12-03,27.6784,97.8653,Low
+2928,India,Political Protest,2025-12-04,-13.2717,-96.6392,Low
+2929,Myanmar,Armed Conflict,2025-12-05,34.6074,0.441,High
+2930,Brazil,Armed Conflict,2025-12-05,1.4513,35.5872,Low
+2931,South Sudan,Border Skirmish,2025-12-05,-17.9824,89.0315,Low
+2932,Ukraine,Armed Conflict,2025-12-05,-8.0165,27.7779,Low
+2933,Ukraine,Strike,2025-12-06,-4.6547,62.5543,Moderate
+2934,Nigeria,Civil Unrest,2025-12-06,-34.3263,1.2014,Moderate
+2935,Pakistan,Border Skirmish,2025-12-06,18.0148,-23.2519,Moderate
+2936,Ethiopia,Civil Unrest,2025-12-06,-0.8001,-8.8635,Low
+2937,South Sudan,Armed Conflict,2025-12-07,9.415,-53.5869,Low
+2938,Ukraine,Political Protest,2025-12-07,-32.9889,-94.962,Moderate
+2939,India,Strike,2025-12-08,-18.4673,3.6295,Moderate
+2940,Ethiopia,Armed Conflict,2025-12-08,10.1185,-40.4463,Moderate
+2941,Pakistan,Riots,2025-12-08,-0.6199,20.1802,Low
+2942,Brazil,Riots,2025-12-08,6.4908,93.0928,Low
+2943,Ukraine,Political Protest,2025-12-10,29.1795,64.3693,Moderate
+2944,Pakistan,Riots,2025-12-10,-23.2414,-53.3651,Low
+2945,Ukraine,Strike,2025-12-12,25.2364,25.5694,Critical
+2946,Nigeria,Strike,2025-12-12,32.405,-51.9435,Low
+2947,Ethiopia,Riots,2025-12-12,-2.5381,31.8221,Moderate
+2948,Brazil,Strike,2025-12-12,15.2894,93.2173,Low
+2949,Nigeria,Riots,2025-12-12,14.4668,-33.7081,Low
+2950,Nigeria,Armed Conflict,2025-12-12,13.7629,-46.7853,Low
+2951,Myanmar,Civil Unrest,2025-12-13,18.2378,33.3112,Moderate
+2952,India,Armed Conflict,2025-12-13,1.125,30.4763,Moderate
+2953,Nigeria,Riots,2025-12-13,8.6012,-47.1311,Moderate
+2954,Nigeria,Strike,2025-12-14,-2.272,-66.2065,High
+2955,Ethiopia,Border Skirmish,2025-12-15,-5.1298,50.6278,Low
+2956,Ethiopia,Armed Conflict,2025-12-15,-7.0251,-1.2967,Low
+2957,Myanmar,Border Skirmish,2025-12-16,11.6462,94.0093,Low
+2958,India,Armed Conflict,2025-12-16,29.1533,-77.4272,High
+2959,Myanmar,Armed Conflict,2025-12-17,21.2376,-41.2003,Moderate
+2960,Ukraine,Armed Conflict,2025-12-17,6.6089,-63.7529,Low
+2961,South Sudan,Border Skirmish,2025-12-17,24.9989,-82.8833,Low
+2962,Ethiopia,Riots,2025-12-18,11.1212,6.5866,Low
+2963,Ukraine,Border Skirmish,2025-12-18,-5.7154,55.9284,Low
+2964,Pakistan,Civil Unrest,2025-12-18,23.7483,-1.902,High
+2965,Nigeria,Armed Conflict,2025-12-18,-28.6767,-56.2194,Moderate
+2966,India,Armed Conflict,2025-12-18,28.151,-17.4268,Low
+2967,Pakistan,Border Skirmish,2025-12-19,17.9417,-65.8083,Low
+2968,South Sudan,Border Skirmish,2025-12-19,-4.1349,74.6204,Low
+2969,India,Border Skirmish,2025-12-19,29.8635,-48.3342,Low
+2970,Ethiopia,Armed Conflict,2025-12-21,21.1126,8.4522,Low
+2971,Nigeria,Armed Conflict,2025-12-21,-17.427,-45.0377,Moderate
+2972,India,Political Protest,2025-12-22,-19.7136,88.8782,Low
+2973,Pakistan,Political Protest,2025-12-22,-24.6791,47.9039,Low
+2974,Pakistan,Border Skirmish,2025-12-22,27.2221,20.546,Low
+2975,Ethiopia,Border Skirmish,2025-12-22,-38.8566,-70.8462,Moderate
+2976,Ethiopia,Strike,2025-12-22,33.0145,-58.9004,Low
+2977,Ukraine,Armed Conflict,2025-12-23,-4.9397,17.8669,Critical
+2978,India,Political Protest,2025-12-24,-27.2987,53.2063,Low
+2979,South Sudan,Political Protest,2025-12-24,2.5052,-65.9323,Moderate
+2980,India,Riots,2025-12-24,-4.8089,66.6538,High
+2981,Brazil,Border Skirmish,2025-12-24,-24.7551,-0.9486,Low
+2982,South Sudan,Border Skirmish,2025-12-24,24.6169,-53.6905,Low
+2983,Ukraine,Political Protest,2025-12-25,-27.5004,-13.1997,Moderate
+2984,Nigeria,Border Skirmish,2025-12-25,-34.5347,-14.2706,Low
+2985,India,Armed Conflict,2025-12-25,-7.7863,77.6825,Moderate
+2986,Pakistan,Border Skirmish,2025-12-25,-10.347,79.0991,Low
+2987,Myanmar,Armed Conflict,2025-12-26,35.9014,87.8699,Low
+2988,Ethiopia,Armed Conflict,2025-12-27,-36.604,-2.9542,Low
+2989,Ethiopia,Riots,2025-12-27,15.3625,37.2066,High
+2990,Pakistan,Armed Conflict,2025-12-28,-39.3933,56.8448,Critical
+2991,Brazil,Political Protest,2025-12-28,-39.988,73.865,Low
+2992,India,Political Protest,2025-12-28,-23.7545,7.325,High
+2993,Ethiopia,Political Protest,2025-12-28,13.0726,-10.5544,Moderate
+2994,Pakistan,Political Protest,2025-12-29,0.1231,-79.9513,High
+2995,Ethiopia,Border Skirmish,2025-12-29,13.7182,-19.9002,High
+2996,Pakistan,Riots,2025-12-29,17.2537,3.2588,Critical
+2997,Ukraine,Armed Conflict,2025-12-29,-12.6089,13.531,High
+2998,Myanmar,Border Skirmish,2025-12-31,24.0053,-81.242,Moderate
+2999,South Sudan,Strike,2025-12-31,16.2569,20.5677,Critical
+3000,Myanmar,Border Skirmish,2025-12-31,1.8903,21.3787,Moderate
