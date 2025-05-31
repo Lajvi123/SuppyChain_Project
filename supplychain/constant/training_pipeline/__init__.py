@@ -17,7 +17,8 @@ FILE_NAME: dict = {
 
 TRAIN_FILE_NAME: str = "train.csv"
 TEST_FILE_NAME: str = "test.csv"
-
+#DATA_INGESTION_COLLECTION_NAME_SELECTED = None
+#FILE_NAME_SELECTED = None
 '''
     Data Ingestion related constants 
 '''
