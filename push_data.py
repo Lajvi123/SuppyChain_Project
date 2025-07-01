@@ -97,3 +97,16 @@ if __name__ == "__main__":
 
         except Exception as e:
             print(f" Failed to insert data from {file_path}: {str(e)}")
+
+     # Step 3: Upload Merged Dataset to MongoDB
+    try:
+        print("Uploading merged ML dataset to MongoDB...")
+        merged_file_path = "Datasets/SupplyChain_Data.csv"
+        merged_collection_name = "SupplyChain_Data"
+
+        merged_records = supplyobj.csv_to_json_convertor(file_path=merged_file_path)
+        merged_count = supplyobj.insert_data_mongodb(merged_records, DATABASE, merged_collection_name)
+
+        print(f"Inserted {merged_count} records into collection '{merged_collection_name}'")
+    except Exception as e:
+        print(f"Failed to insert merged dataset: {str(e)}")
