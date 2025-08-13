@@ -1,0 +1,64 @@
+columns:
+  shipment_id: int
+  origin_location: str
+  origin_lat: float
+  origin_lon: float
+  destination_location: str
+  destination_lat: float
+  destination_lon: float
+  shipment_date: datetime
+  shipment_mode: str
+  weight_kg: int
+  freight_cost_usd: float
+  estimated_arrival: datetime
+  conflict_type: str
+  conflict_severity: str
+  conflict_date: str
+  conflict_region: str
+  weather_location: str
+  weather_range: float
+  weather_azimuth: str
+
+  # Encoded features
+  origin_location_encoded: int
+  destination_location_encoded: int
+  conflict_severity_encoded: int
+
+  # One-hot conflict regions
+  region_Ethiopia: int
+  region_India: int
+  region_Myanmar: int
+  region_Nigeria: int
+  region_Pakistan: int
+  region_South Sudan: int
+  region_Ukraine: int
+
+  # One-hot shipment modes
+  mode_Air: int
+  mode_Land: int
+  mode_Sea: int
+
+  # Encoded conflict type
+  conflict_type_encoded: int
+
+  # Weather azimuth features
+  weather_azimuth_angle: float
+  weather_azimuth_sin: float
+  weather_azimuth_cos: float
+
+  weather_location_encoded: int
+
+  # Shipment date features
+  shipment_day: int
+  shipment_month: int
+  shipment_year: int
+  shipment_weekday: int
+
+  # Arrival & duration
+  shipping_duration_days: int
+  arrival_day: int
+  arrival_month: int
+  arrival_year: int
+  arrival_weekday: int
+
+  "Result": float
