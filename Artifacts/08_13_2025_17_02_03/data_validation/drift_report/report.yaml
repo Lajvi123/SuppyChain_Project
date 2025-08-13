@@ -1,0 +1,141 @@
+' "Result"':
+  drift_status: false
+  p_value: 1.0
+arrival_day:
+  drift_status: false
+  p_value: 0.3660767001619234
+arrival_month:
+  drift_status: false
+  p_value: 0.9817677963041372
+arrival_weekday:
+  drift_status: false
+  p_value: 0.10970705759719257
+arrival_year:
+  drift_status: false
+  p_value: 1.0
+conflict_date:
+  drift_status: false
+  p_value: 0.9848668811513006
+conflict_region:
+  drift_status: false
+  p_value: 0.9999977569430298
+conflict_severity:
+  drift_status: false
+  p_value: 0.959445436736107
+conflict_severity_encoded:
+  drift_status: false
+  p_value: 0.9594454367361089
+conflict_type:
+  drift_status: false
+  p_value: 0.8333438699168751
+conflict_type_encoded:
+  drift_status: false
+  p_value: 0.744499584014069
+destination_lat:
+  drift_status: false
+  p_value: 0.22394129352011827
+destination_location:
+  drift_status: false
+  p_value: 0.824513122452611
+destination_location_encoded:
+  drift_status: false
+  p_value: 0.8738265734743877
+destination_lon:
+  drift_status: true
+  p_value: 0.04301593334116671
+estimated_arrival:
+  drift_status: false
+  p_value: 0.95157550703491
+freight_cost_usd:
+  drift_status: false
+  p_value: 0.4570851401773697
+mode_Air:
+  drift_status: false
+  p_value: 0.9999999742334311
+mode_Land:
+  drift_status: false
+  p_value: 0.7367601978735052
+mode_Sea:
+  drift_status: false
+  p_value: 0.990771473094897
+origin_lat:
+  drift_status: false
+  p_value: 0.9672631593722498
+origin_location:
+  drift_status: true
+  p_value: 0.019025761147785186
+origin_location_encoded:
+  drift_status: false
+  p_value: 0.9029168207645575
+origin_lon:
+  drift_status: false
+  p_value: 0.48621907526586006
+region_Ethiopia:
+  drift_status: false
+  p_value: 0.9999977569430298
+region_India:
+  drift_status: false
+  p_value: 0.9757179078748609
+region_Myanmar:
+  drift_status: false
+  p_value: 1.0
+region_Nigeria:
+  drift_status: false
+  p_value: 0.9998201559359682
+region_Pakistan:
+  drift_status: false
+  p_value: 0.9999387389293818
+region_South Sudan:
+  drift_status: false
+  p_value: 1.0
+region_Ukraine:
+  drift_status: false
+  p_value: 0.9999999998926592
+shipment_date:
+  drift_status: false
+  p_value: 0.9918479123531623
+shipment_day:
+  drift_status: false
+  p_value: 1.0
+shipment_id:
+  drift_status: false
+  p_value: 0.5915131150451751
+shipment_mode:
+  drift_status: false
+  p_value: 0.990771473094897
+shipment_month:
+  drift_status: false
+  p_value: 0.9817677963041372
+shipment_weekday:
+  drift_status: false
+  p_value: 0.8277015402261431
+shipment_year:
+  drift_status: false
+  p_value: 1.0
+shipping_duration_days:
+  drift_status: false
+  p_value: 0.3660767001619234
+weather_azimuth:
+  drift_status: false
+  p_value: 0.680407844161548
+weather_azimuth_angle:
+  drift_status: false
+  p_value: 0.7776578176855768
+weather_azimuth_cos:
+  drift_status: false
+  p_value: 0.9668511635154549
+weather_azimuth_sin:
+  drift_status: false
+  p_value: 0.6804078441615433
+weather_location:
+  drift_status: false
+  p_value: 0.6055793792111897
+weather_location_encoded:
+  drift_status: false
+  p_value: 0.8318544591501484
+weather_range:
+  drift_status: false
+  p_value: 0.9874173676062843
+weight_kg:
+  drift_status: false
+  p_value: 0.8040124627764
